@@ -1,0 +1,2 @@
+﻿event_rows,first_date,last_date,observed_days,pseudo_users,identifiable_sessions,event_types,unidentifiable_events,invalid_dates,invalid_timestamps,timestamp_disagreements,first_timestamp,last_timestamp
+4295584,2020-11-01,2021-01-31,92,270154,360129,17,0,0,0,0,2020-11-01 00:00:04.579566,2021-01-31 23:59:55.412363

@@ -1,0 +1,151 @@
+<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>GA4 本地数据审计</title><style>
+:root{color-scheme:light;--ink:#182a3a;--muted:#536778;--line:#d8e2e9;--blue:#185c75}*{box-sizing:border-box}body{margin:0;background:#eef3f6;color:var(--ink);font:16px/1.7 "Segoe UI","Microsoft YaHei",sans-serif}main{max-width:1120px;margin:auto;padding:40px 28px 64px}h1{font-size:34px;line-height:1.25;margin:8px 0 18px}h2{font-size:24px;margin:36px 0 14px}h3{font-size:19px}p{margin:12px 0}.eyebrow{font-size:13px;letter-spacing:.08em;color:var(--blue)}.lead{font-size:20px}.card,section{background:white;border:1px solid var(--line);border-radius:12px;padding:22px 26px;margin:16px 0}.alert{border-left:5px solid #c47d18;background:#fffaef}.cards{display:grid;grid-template-columns:repeat(4,1fr);gap:14px}.cards .card{margin:0;padding:16px}.number{font-size:28px;font-weight:700}.muted{color:var(--muted);font-size:14px}.scroll{overflow-x:auto}table{border-collapse:collapse;width:100%;font-size:14px}td,th{border-bottom:1px solid var(--line);padding:11px 12px;text-align:left;vertical-align:top}th{background:#edf4f7}a{color:#145e85}code{font-family:Consolas,monospace;background:#edf2f5;padding:2px 5px;overflow-wrap:anywhere}pre{overflow:auto;background:#152938;color:white;padding:18px;border-radius:8px;font-size:14px}details{padding:12px 0}summary{cursor:pointer;color:var(--blue);font-weight:600}.calendar{display:grid;grid-template-columns:repeat(14,1fr);gap:5px;margin:16px 0}.day{background:#d5e9e5;text-align:center;border-radius:4px;font-size:11px;padding:6px 2px}.zero{background:#f5d8a7;color:#6b3d04}.tag{display:inline-block;font-size:13px;background:#e5eef4;padding:3px 9px;border-radius:4px;margin-right:8px}footer{font-size:13px;color:var(--muted);margin-top:30px}@media(max-width:760px){main{padding:22px 14px}.cards{grid-template-columns:repeat(2,1fr)}section{padding:18px}h1{font-size:28px}.calendar{grid-template-columns:repeat(7,1fr)}}@media print{body{background:white}main{max-width:none;padding:0}section{break-inside:avoid}.scroll{overflow:visible}details{display:block}}
+</style></head><body><main><div class="eyebrow">LOCAL SQL PORTFOLIO · AUDIT 01 · 2026-10-16</div>
+<h1>先判断数据能说明什么，再分析购买路径</h1>
+<p class="lead">本地 SQL 审计已跑通。样本量足够，但完整四步漏斗存在明显记录断层；当前最可靠的主线是路径覆盖与异常诊断。</p>
+<p><span class="tag">DuckDB / 本地运行</span><span class="tag">无 Google Cloud 依赖</span><span class="tag">未记录购买 ≠ 真实流失</span></p>
+<div class="cards"><div class="card"><div class="number">4,295,584</div><div>事件记录</div></div><div class="card"><div class="number">92</div><div>覆盖天数</div></div><div class="card"><div class="number">360,129</div><div>可识别会话</div></div><div class="card"><div class="number">4,848</div><div>记录到购买的会话</div></div></div>
+<section class="alert"><h2 style="margin-top:0">证据边界：这是第三方事件副本审计</h2>
+<p>从公开 GitHub 仓库下载了固定提交中的 114 个 Parquet 文件（274,098,689 字节），逐文件核验 Git blob SHA-1 与 SHA-256。分析使用自己编写的 SQL，没有采用上游漏斗结果或替用户连接 Google Cloud。</p>
+<p>副本保留事件行，但已经扁平化。没有与 Google 原表逐行核对；92 天都有记录不等于事件完整。上游 notebook 的中间字段引用与实际文件存在不一致，不能视为已验证的端到端原表导出链。所有下列数字仅适用于本地副本。</p>
+<p>原始 event_params、items、批次顺序字段、币种以及专用 ecommerce.purchase_revenue 字段不在这份事件表中。不能审计这些字段在原表中究竟是缺失、被过滤，还是导出时没有保留。</p></section>
+<section><h2 style="margin-top:0">1. 样本覆盖</h2>
+<div class="scroll"><table><thead><tr><th>项目</th><th>本地实测</th><th>含义</th></tr></thead><tbody><tr><td>日期</td><td>2020-11-01 — 2021-01-31</td><td>92 个日期均有事件；无整日文件空白</td></tr><tr><td>伪用户</td><td>270,154</td><td>匿名标识，不等于真实人数；不合并跨设备身份</td></tr><tr><td>文件与字段</td><td>114 个文件 / 29 个字段 / 1 种 schema</td><td>文件完整性已核验；不代表 Google 原始表完整性</td></tr><tr><td>事件类型</td><td>17</td><td>四个关键事件均存在；本副本未出现 refund</td></tr><tr><td>会话键缺失</td><td>0 条</td><td>user_pseudo_id + ga_session_id；不是仅用 session_id</td></tr><tr><td>周覆盖</td><td>13 个完整周 + 1 个仅覆盖一天的周</td><td>周一开始；2020-11-01 所属周不作完整周比较</td></tr><tr><td>时间字段</td><td>无非法时间、无 event_ts 与微秒时间戳冲突</td><td>同刻事件依然存在；相同时间不能强行判先后</td></tr><tr><td>重复键</td><td>重复 event_id / 同用户同时间同事件：均为 0</td><td>event_id 是第三方散列；不能证明上游从未去重</td></tr></tbody></table></div>
+<p class="muted">事件覆盖：view_item 386,068；add_to_cart 58,543；begin_checkout 38,757；purchase 5,692。</p></section>
+<section><h2 style="margin-top:0">2. 最大异常：18 天加购为零，购买仍存在</h2>
+<p><strong>2020-11-02 至 11-15、11-21 至 11-24</strong>，完全没有 add_to_cart；这些日期仍记录到 1,071 条 purchase 事件，以及 4,728 条 begin_checkout。零加购现象覆盖该日期的所有设备分组。</p>
+<p>这是记录覆盖不一致的强烈信号，但<strong>不能仅凭副本定位为埋点故障</strong>。埋点变更、导出处理、脱敏和实际购物路径差异均未被独立排除。没有后台订单、标签发布记录或原始上报日志可供对账。</p>
+<p>下图橙色表示当天没有加购事件，绿色仅表示至少有一条加购事件，<strong>不代表当天数据质量合格</strong>。</p><div class="calendar">
+<div class="day " title="2020-11-01：加购 4，购买事件 14">11-01</div>
+<div class="day zero" title="2020-11-02：加购 0，购买事件 49">11-02</div>
+<div class="day zero" title="2020-11-03：加购 0，购买事件 49">11-03</div>
+<div class="day zero" title="2020-11-04：加购 0，购买事件 46">11-04</div>
+<div class="day zero" title="2020-11-05：加购 0，购买事件 26">11-05</div>
+<div class="day zero" title="2020-11-06：加购 0，购买事件 58">11-06</div>
+<div class="day zero" title="2020-11-07：加购 0，购买事件 31">11-07</div>
+<div class="day zero" title="2020-11-08：加购 0，购买事件 32">11-08</div>
+<div class="day zero" title="2020-11-09：加购 0，购买事件 52">11-09</div>
+<div class="day zero" title="2020-11-10：加购 0，购买事件 64">11-10</div>
+<div class="day zero" title="2020-11-11：加购 0，购买事件 64">11-11</div>
+<div class="day zero" title="2020-11-12：加购 0，购买事件 54">11-12</div>
+<div class="day zero" title="2020-11-13：加购 0，购买事件 79">11-13</div>
+<div class="day zero" title="2020-11-14：加购 0，购买事件 30">11-14</div>
+<div class="day zero" title="2020-11-15：加购 0，购买事件 21">11-15</div>
+<div class="day " title="2020-11-16：加购 85，购买事件 69">11-16</div>
+<div class="day " title="2020-11-17：加购 535，购买事件 98">11-17</div>
+<div class="day " title="2020-11-18：加购 621，购买事件 68">11-18</div>
+<div class="day " title="2020-11-19：加购 187，购买事件 84">11-19</div>
+<div class="day " title="2020-11-20：加购 15，购买事件 118">11-20</div>
+<div class="day zero" title="2020-11-21：加购 0，购买事件 68">11-21</div>
+<div class="day zero" title="2020-11-22：加购 0，购买事件 60">11-22</div>
+<div class="day zero" title="2020-11-23：加购 0，购买事件 141">11-23</div>
+<div class="day zero" title="2020-11-24：加购 0，购买事件 147">11-24</div>
+<div class="day " title="2020-11-25：加购 297，购买事件 108">11-25</div>
+<div class="day " title="2020-11-26：加购 1047，购买事件 57">11-26</div>
+<div class="day " title="2020-11-27：加购 1229，购买事件 97">11-27</div>
+<div class="day " title="2020-11-28：加购 1076，购买事件 78">11-28</div>
+<div class="day " title="2020-11-29：加购 811，购买事件 51">11-29</div>
+<div class="day " title="2020-11-30：加购 1767，购买事件 141">11-30</div>
+<div class="day " title="2020-12-01：加购 1653，购买事件 107">12-01</div>
+<div class="day " title="2020-12-02：加购 1464，购买事件 82">12-02</div>
+<div class="day " title="2020-12-03：加购 1286，购买事件 90">12-03</div>
+<div class="day " title="2020-12-04：加购 1561，购买事件 96">12-04</div>
+<div class="day " title="2020-12-05：加购 1063，购买事件 87">12-05</div>
+<div class="day " title="2020-12-06：加购 791，购买事件 42">12-06</div>
+<div class="day " title="2020-12-07：加购 1127，购买事件 110">12-07</div>
+<div class="day " title="2020-12-08：加购 1775，购买事件 122">12-08</div>
+<div class="day " title="2020-12-09：加购 1787，购买事件 150">12-09</div>
+<div class="day " title="2020-12-10：加购 1739，购买事件 143">12-10</div>
+<div class="day " title="2020-12-11：加购 2135，购买事件 160">12-11</div>
+<div class="day " title="2020-12-12：加购 1381，购买事件 106">12-12</div>
+<div class="day " title="2020-12-13：加购 940，购买事件 74">12-13</div>
+<div class="day " title="2020-12-14：加购 1528，购买事件 99">12-14</div>
+<div class="day " title="2020-12-15：加购 1943，购买事件 139">12-15</div>
+<div class="day " title="2020-12-16：加购 1710，购买事件 143">12-16</div>
+<div class="day " title="2020-12-17：加购 1648，购买事件 126">12-17</div>
+<div class="day " title="2020-12-18：加购 1629，购买事件 107">12-18</div>
+<div class="day " title="2020-12-19：加购 776，购买事件 52">12-19</div>
+<div class="day " title="2020-12-20：加购 535，购买事件 20">12-20</div>
+<div class="day " title="2020-12-21：加购 841，购买事件 53">12-21</div>
+<div class="day " title="2020-12-22：加购 1103，购买事件 60">12-22</div>
+<div class="day " title="2020-12-23：加购 1116，购买事件 67">12-23</div>
+<div class="day " title="2020-12-24：加购 483，购买事件 23">12-24</div>
+<div class="day " title="2020-12-25：加购 462，购买事件 17">12-25</div>
+<div class="day " title="2020-12-26：加购 338，购买事件 17">12-26</div>
+<div class="day " title="2020-12-27：加购 500，购买事件 20">12-27</div>
+<div class="day " title="2020-12-28：加购 633，购买事件 36">12-28</div>
+<div class="day " title="2020-12-29：加购 556，购买事件 24">12-29</div>
+<div class="day " title="2020-12-30：加购 400，购买事件 37">12-30</div>
+<div class="day " title="2020-12-31：加购 444，购买事件 25">12-31</div>
+<div class="day " title="2021-01-01：加购 295，购买事件 14">01-01</div>
+<div class="day " title="2021-01-02：加购 304，购买事件 14">01-02</div>
+<div class="day " title="2021-01-03：加购 229，购买事件 14">01-03</div>
+<div class="day " title="2021-01-04：加购 396，购买事件 16">01-04</div>
+<div class="day " title="2021-01-05：加购 538，购买事件 29">01-05</div>
+<div class="day " title="2021-01-06：加购 656，购买事件 31">01-06</div>
+<div class="day " title="2021-01-07：加购 594，购买事件 26">01-07</div>
+<div class="day " title="2021-01-08：加购 498，购买事件 34">01-08</div>
+<div class="day " title="2021-01-09：加购 462，购买事件 20">01-09</div>
+<div class="day " title="2021-01-10：加购 310，购买事件 14">01-10</div>
+<div class="day " title="2021-01-11：加购 537，购买事件 28">01-11</div>
+<div class="day " title="2021-01-12：加购 745，购买事件 48">01-12</div>
+<div class="day " title="2021-01-13：加购 665，购买事件 36">01-13</div>
+<div class="day " title="2021-01-14：加购 684，购买事件 54">01-14</div>
+<div class="day " title="2021-01-15：加购 572，购买事件 47">01-15</div>
+<div class="day " title="2021-01-16：加购 357，购买事件 27">01-16</div>
+<div class="day " title="2021-01-17：加购 301，购买事件 14">01-17</div>
+<div class="day " title="2021-01-18：加购 388，购买事件 19">01-18</div>
+<div class="day " title="2021-01-19：加购 713，购买事件 49">01-19</div>
+<div class="day " title="2021-01-20：加购 925，购买事件 96">01-20</div>
+<div class="day " title="2021-01-21：加购 642，购买事件 52">01-21</div>
+<div class="day " title="2021-01-22：加购 677，购买事件 100">01-22</div>
+<div class="day " title="2021-01-23：加购 372，购买事件 43">01-23</div>
+<div class="day " title="2021-01-24：加购 473，购买事件 36">01-24</div>
+<div class="day " title="2021-01-25：加购 480，购买事件 61">01-25</div>
+<div class="day " title="2021-01-26：加购 506，购买事件 55">01-26</div>
+<div class="day " title="2021-01-27：加购 575，购买事件 54">01-27</div>
+<div class="day " title="2021-01-28：加购 478，购买事件 69">01-28</div>
+<div class="day " title="2021-01-29：加购 486，购买事件 54">01-29</div>
+<div class="day " title="2021-01-30：加购 369，购买事件 31">01-30</div>
+<div class="day " title="2021-01-31：加购 295，购买事件 19">01-31</div>
+</div><details><summary>查看 18 天的覆盖明细</summary><div class="scroll"><table><thead><tr><th>日期</th><th>全部事件</th><th>浏览商品</th><th>结算</th><th>购买事件</th></tr></thead><tbody><tr><td>2020-11-02</td><td>48,388</td><td>4,935</td><td>219</td><td>49</td></tr><tr><td>2020-11-03</td><td>61,672</td><td>5,790</td><td>233</td><td>49</td></tr><tr><td>2020-11-04</td><td>51,866</td><td>5,063</td><td>218</td><td>46</td></tr><tr><td>2020-11-05</td><td>51,952</td><td>5,255</td><td>195</td><td>26</td></tr><tr><td>2020-11-06</td><td>49,004</td><td>5,370</td><td>269</td><td>58</td></tr><tr><td>2020-11-07</td><td>34,309</td><td>3,953</td><td>150</td><td>31</td></tr><tr><td>2020-11-08</td><td>30,137</td><td>3,166</td><td>132</td><td>32</td></tr><tr><td>2020-11-09</td><td>44,756</td><td>4,429</td><td>211</td><td>52</td></tr><tr><td>2020-11-10</td><td>51,195</td><td>5,222</td><td>266</td><td>64</td></tr><tr><td>2020-11-11</td><td>51,941</td><td>5,322</td><td>248</td><td>64</td></tr><tr><td>2020-11-12</td><td>49,166</td><td>4,925</td><td>355</td><td>54</td></tr><tr><td>2020-11-13</td><td>50,358</td><td>5,281</td><td>605</td><td>79</td></tr><tr><td>2020-11-14</td><td>34,039</td><td>3,509</td><td>320</td><td>30</td></tr><tr><td>2020-11-15</td><td>31,195</td><td>3,212</td><td>324</td><td>21</td></tr><tr><td>2020-11-21</td><td>41,980</td><td>4,214</td><td>174</td><td>68</td></tr><tr><td>2020-11-22</td><td>36,446</td><td>3,737</td><td>166</td><td>60</td></tr><tr><td>2020-11-23</td><td>52,844</td><td>5,070</td><td>277</td><td>141</td></tr><tr><td>2020-11-24</td><td>62,971</td><td>6,624</td><td>366</td><td>147</td></tr></tbody></table></div></details>
+<p><strong>处理决定：</strong>保留所有日期，加质量标记。本次不按转化好坏删日，不把其余 74 天自动认定为“正常数据”，也没有重新选择漂亮的分析窗口。</p></section>
+<section><h2 style="margin-top:0">3. 完整漏斗会漏掉哪些已购买会话？</h2>
+<div class="scroll"><table><thead><tr><th>阶段</th><th>独立出现过该事件的会话</th><th>严格顺序路径中的会话</th><th>允许同刻的可能路径上界</th></tr></thead><tbody><tr><td>浏览商品</td><td>77,020</td><td>77,020</td><td>77,020</td></tr><tr><td>加购</td><td>15,188</td><td>14,380</td><td>15,167</td></tr><tr><td>结算</td><td>11,106</td><td>5,187</td><td>5,416</td></tr><tr><td>购买</td><td>4,848</td><td>2,778</td><td>2,834</td></tr></tbody></table></div>
+<p>三列的分母和含义不同，不能混用来计算阶段继续率。严格顺序要求同一会话中存在时间严格递增的 V→A→C→P；允许同刻仅用于量化顺序不确定性，不是新的正式漏斗口径。</p>
+<p>在 4,848 个记录到购买的会话中，2,070 个（42.70%）无法组成完整严格路径：</p>
+<div class="scroll"><table><thead><tr><th>类型</th><th>会话数</th><th>应如何解释</th></tr></thead><tbody><tr><td>没有任何加购记录</td><td>2,000</td><td>已记录购买，但前置事件不全；不是购买失败</td></tr><tr><td>四个阶段都有，但仅允许同刻时可组成路径</td><td>56</td><td>顺序不确定；不能按事件名称人为排序</td></tr><tr><td>四个阶段都有，允许同刻后仍无法依序组成路径</td><td>14</td><td>存在逆序/不同购物过程等可能；不能强行修成标准链</td></tr></tbody></table></div>
+<p>全样本有 8,207 个会话存在不同漏斗阶段同刻的情况。购买事件层面，2,495/5,692 条购买事件在同会话没有任何加购记录；这些是<strong>事件数</strong>，不能与上述会话数混为一谈。</p>
+<details><summary>查看所有会话的阶段出现矩阵（V / A / C / P）</summary><div class="scroll"><table><thead><tr><th>VACP：1=有记录，0=无记录</th><th>会话数</th><th>严格完整路径会话</th></tr></thead><tbody><tr><td>0000</td><td>282,812</td><td>0</td></tr><tr><td>0001</td><td>3</td><td>0</td></tr><tr><td>0010</td><td>132</td><td>0</td></tr><tr><td>0011</td><td>147</td><td>0</td></tr><tr><td>0100</td><td>13</td><td>0</td></tr><tr><td>0110</td><td>2</td><td>0</td></tr><tr><td>1000</td><td>56,981</td><td>0</td></tr><tr><td>1010</td><td>3,016</td><td>0</td></tr><tr><td>1011</td><td>1,850</td><td>0</td></tr><tr><td>1100</td><td>9,214</td><td>0</td></tr><tr><td>1110</td><td>3,111</td><td>0</td></tr><tr><td>1111</td><td>2,848</td><td>2,778</td></tr></tbody></table></div></details>
+<p class="muted">算法保留全部事件，匹配真实存在的有序子序列；例如先加购、后浏览、再次加购，再结算购买，仍可被正确匹配。不要求四步是同一 SKU，因此也不能称为同一商品购物车的完整轨迹。</p></section>
+<section><h2 style="margin-top:0">4. 设备与会话：样本够，解释要受质量约束</h2>
+<div class="scroll"><table><thead><tr><th>设备</th><th>会话</th><th>有购买记录的会话</th><th>购买但不在严格完整路径</th><th>其占购买会话比例</th></tr></thead><tbody><tr><td>desktop</td><td>208,942</td><td>2,749</td><td>1,182</td><td>43.00%</td></tr><tr><td>mobile</td><td>143,185</td><td>1,995</td><td>845</td><td>42.36%</td></tr><tr><td>tablet</td><td>8,002</td><td>104</td><td>43</td><td>41.35%</td></tr></tbody></table></div>
+<p>桌面和移动端均有较多会话及购买记录，足以进行描述性比较。但两端都存在大量不完整路径；本次不据此判断哪个端的页面更差，也不把设备差异解释为因果效果。</p>
+<p>另有 5,272 个会话没有 session_start、105 个有多个 session_start，均保留并标记。845 个跨日会话没有被按午夜拆开；3 个会话跨度超过 24 小时，最长约 111.8 小时，保留异常标记。本副本没有设备或 source/medium 在会话内冲突。</p>
+<p class="muted">无 session_start 不等于无会话；按 30 分钟重建会话会改变已确认口径，因此没有自动这样处理。</p></section>
+<section><h2 style="margin-top:0">5. 购买、收入与后续观察的边界</h2>
+<p><strong>购买事件不等于核验后的订单。</strong>5,692 条 purchase 中，906 条（15.92%）交易编号不可用：883 条为 (not set)，23 条为空。</p>
+<div class="scroll"><table><thead><tr><th>检查项</th><th>结果</th><th>处置</th></tr></thead><tbody><tr><td>可用交易编号</td><td>4,451</td><td>不直接宣称等于真实订单数</td></tr><tr><td>编号重复</td><td>326 个</td><td>不能不经核查就去重后算收入</td></tr><tr><td>跨伪用户编号 / 金额冲突编号</td><td>15 / 15 个</td><td>可能是重复、碰撞或脱敏；当前无法独立还原</td></tr><tr><td>purchase 的 event_value_in_usd 为空</td><td>450 条</td><td>不是已验证的专用购买收入字段</td></tr><tr><td>币种、专用购买收入、原始 items</td><td>本事件副本未提供</td><td>暂停客单价、收入拆解、品类和商品粒度分析</td></tr><tr><td>退款记录</td><td>未观察到 refund</td><td>不等于没有退款；不估计净收入</td></tr></tbody></table></div>
+<p><strong>24 小时后续观察：</strong>每个伪用户只取第一次可识别的 checkout，9,667 人具备完整 24 小时可观察区间，其中 4,149 人在区间内有后续购买记录；另有 48 人位于尾部，观察不足，单独标记。其中 301 人在其他会话出现过后续购买，可能与同会话购买重叠，不能称作“挽回了 301 位客户”。</p>
+<p>完整观察组中有 91 人的结算锚点靠近样本开始，先前经历不完整；明细单独保留。无后续购买的剩余用户仍只能叫“24 小时内未记录购买”，不能确认为真实流失或埋点漏报。跨会话的后续购买也不能证明来自原购物车。</p></section>
+<section><h2 style="margin-top:0">6. 各研究问题现在能不能做</h2>
+<div class="scroll"><table><thead><tr><th>原研究问题</th><th>审计判断</th><th>下一阶段建议边界</th></tr></thead><tbody><tr><td>事件覆盖、会话、路径跳步与同刻问题</td><td>可以做，建议作为主线</td><td>报告日期/设备分层的异常；保留完整样本和质量标记</td></tr><tr><td>92 天完整四步漏斗，定位真实流失环节</td><td>不能按原业务含义做</td><td>可展示观察到的路径及顺序上下界；不能把断层叫流失</td></tr><tr><td>移动端与桌面端的观察到的购买/继续率</td><td>可做描述，需带质量说明</td><td>按已确认口径并列呈现；时间窗口及敏感性方案需讨论后冻结</td></tr><tr><td>按周比较</td><td>可做记录覆盖趋势，业务趋势需谨慎</td><td>首周不完整；零加购周不能作为正常漏斗业务走势</td></tr><tr><td>按当前会话渠道比较转化</td><td>暂不能做</td><td>所有 utm_source、utm_medium、gclid 为空；不重命名首次获客为会话渠道</td></tr><tr><td>首次获客来源的分组描述</td><td>降级，作为附属而非主线</td><td>119,526 个会话（33.19%）来源/媒介不可用；保留未知组</td></tr><tr><td>收入拆解、客单价、品类分析</td><td>暂停</td><td>现有副本字段不足，交易编号和金额有质量问题</td></tr><tr><td>24 小时内后续购买记录</td><td>可做有限辅助检查</td><td>固定锚点与完整观察期；不能证明同一购物意图</td></tr><tr><td>真实流失与埋点缺失分别有多少</td><td>不可识别</td><td>需订单/支付对账、上报日志、标签版本等独立证据</td></tr></tbody></table></div>
+<p><strong>我的建议：</strong>将这个 SQL 项目收缩为“电商事件质量与观察到的购买路径诊断”。保留设备描述作为第二层，收入和会话渠道不进入当前看板。这里仅给出审计后的建议，后续分析、窗口选择和看板尚未实施。</p></section>
+<section><h2 style="margin-top:0">7. 本地复现与检查</h2>
+<p>下载和安装阶段需要普通网络；数据落盘后，SQL 计算与报告生成只读取本地文件，不调用 Google Cloud、BigQuery、MotherDuck 或任何账户。</p>
+<pre>python -m venv .venv
+# Windows PowerShell
+.venv/Scripts/python -m pip install -r requirements.txt
+.venv/Scripts/python scripts/download.py
+.venv/Scripts/python scripts/audit.py
+.venv/Scripts/python scripts/report.py
+.venv/Scripts/python -m unittest discover -s tests -v</pre>
+<p>原始副本保留在 data/raw；本地数据库在 data/warehouse/audit.duckdb。核心路径和质量逻辑位于 sql/；查询结果、分组明细与本报告位于 reports/。不上传原始数据或本地数据库。</p>
+<p>6 个小型合成测试专门核查重复阶段、时间并列、缺加购但已购买、缺身份、联合会话键和 24 小时边界；合成测试与实测数据完全分开。审计同时检查漏斗单调性、路径会话数对账及事件总数对账。</p>
+<p><a href="audit_results.json">完整审计 JSON</a> · <a href="daily.csv">每日覆盖</a> · <a href="cart_zero_days.csv">零加购日期</a> · <a href="path_matrix.csv">路径矩阵</a> · <a href="weekly_device_audit.csv">周×设备覆盖</a> · <a href="quality_by_date_device_source.csv">日期×设备×来源质量明细</a> · <a href="../../docs/AUDIT_V1_README.md">本地项目说明</a></p>
+</section><footer>
+数据来源：<a href="https://developers.google.com/analytics/bigquery/web-ecommerce-demo-dataset">Google 官方样本说明</a>；
+本地副本：<a href="https://github.com/DavidKingGH/dbt_portfolio_project_1/tree/41c4ee829b7c18cdb52810686768edfa035a42e0/ga4_data/fct/fact_events">DavidKingGH 固定提交中的事件表</a>。
+来源说明：<a href="../../provenance/SOURCE_NOTES.md">导出限制与来源核查</a>。
+本报告仅针对该副本的观察记录，不代表 Google 商店真实经营结果。未发布 GitHub，未制作后续业务看板。
+</footer></main></body></html>

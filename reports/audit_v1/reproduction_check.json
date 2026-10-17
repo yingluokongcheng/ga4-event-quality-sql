@@ -1,0 +1,12 @@
+{
+  "fresh_directory": true,
+  "fresh_database": true,
+  "python_socket_network_blocked": true,
+  "native_os_network_blocked": false,
+  "matched_outputs": {
+    "audit_results.json": true,
+    "GA4\u672c\u5730\u6570\u636e\u5ba1\u8ba1.html": true
+  },
+  "semantic_tests_passed": 6,
+  "note": "Local DuckDB Parquet queries only; Python network guard is not an OS firewall."
+}

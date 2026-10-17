@@ -1,0 +1,4 @@
+﻿device,sessions,view_sessions,cart_sessions,checkout_sessions,purchase_sessions,strict_complete_sessions,purchase_outside_strict_path,without_session_start,spans_over_24h
+desktop,208942,44819,8790,6392,2749,1567,1182,3043,1
+mobile,143185,30501,6077,4474,1995,1150,845,2106,2
+tablet,8002,1700,321,240,104,61,43,123,0

@@ -1,0 +1,71 @@
+{
+  "checked_at_utc": "2026-10-17T03:25:54.309122+00:00",
+  "semantic_and_ui_tests": {
+    "passed": 14,
+    "command": "python -m unittest discover -s tests -v"
+  },
+  "fresh_database_rebuild": {
+    "passed": true,
+    "network_check": "Python socket connection and DNS methods blocked during audit, analysis and report rebuild; not an OS-level firewall test",
+    "raw_files": 114,
+    "byte_identical_exports": {
+      "reports\\audit_v1\\acquisition_audit.csv": true,
+      "reports\\audit_v1\\audit_results.json": true,
+      "reports\\audit_v1\\cart_zero_day_devices.csv": true,
+      "reports\\audit_v1\\cart_zero_days.csv": true,
+      "reports\\audit_v1\\coverage.csv": true,
+      "reports\\audit_v1\\daily.csv": true,
+      "reports\\audit_v1\\device_audit.csv": true,
+      "reports\\audit_v1\\duplicate_keys.csv": true,
+      "reports\\audit_v1\\events.csv": true,
+      "reports\\audit_v1\\field_missingness.csv": true,
+      "reports\\audit_v1\\followup.csv": true,
+      "reports\\audit_v1\\funnel_coverage.csv": true,
+      "reports\\audit_v1\\missing_days.csv": true,
+      "reports\\audit_v1\\ordering_bounds.csv": true,
+      "reports\\audit_v1\\ordering_by_device.csv": true,
+      "reports\\audit_v1\\path_matrix.csv": true,
+      "reports\\audit_v1\\purchase_fields.csv": true,
+      "reports\\audit_v1\\purchase_path_audit.csv": true,
+      "reports\\audit_v1\\purchase_path_by_device.csv": true,
+      "reports\\audit_v1\\quality_by_date_device_source.csv": true,
+      "reports\\audit_v1\\reproduction_check.json": true,
+      "reports\\audit_v1\\same_user_time_name.csv": true,
+      "reports\\audit_v1\\schema.csv": true,
+      "reports\\audit_v1\\schema_consistency.csv": true,
+      "reports\\audit_v1\\session_quality.csv": true,
+      "reports\\audit_v1\\strict_path_status.csv": true,
+      "reports\\audit_v1\\ties.csv": true,
+      "reports\\audit_v1\\transactions.csv": true,
+      "reports\\audit_v1\\weekly_coverage.csv": true,
+      "reports\\audit_v1\\weekly_device_audit.csv": true,
+      "reports\\analysis\\analysis_results.json": true,
+      "reports\\analysis\\daily_coverage.csv": true,
+      "reports\\analysis\\followup.csv": true,
+      "reports\\analysis\\session_comparisons.csv": true,
+      "reports\\analysis\\weekly_device.csv": true,
+      "reports\\analysis\\固定分析结果与解释.html": true
+    }
+  },
+  "original_audit_preserved": {
+    "checked_files": 47,
+    "all_hashes_unchanged": true
+  },
+  "html_local_links_valid": true,
+  "python_syntax_valid": true,
+  "live_dashboard": {
+    "url": "http://127.0.0.1:8501/",
+    "binding": "loopback only",
+    "browser_visual_review": "quality, purchase path and device pages",
+    "screenshots": [
+      "screenshots/purchase-paths.png",
+      "screenshots/device-comparison.png",
+      "screenshots/quality.png"
+    ]
+  },
+  "limits": [
+    "No comparison against Google original tables",
+    "No GitHub publication",
+    "Fresh setup download/install requires ordinary internet access"
+  ]
+}

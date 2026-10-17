@@ -1,0 +1,2 @@
+﻿sessions,without_session_start,multiple_session_starts,device_conflicts,missing_device,source_medium_conflicts,cross_date_sessions,spans_over_24h,max_span_hours,starts_on_first_observed_day,ends_on_last_observed_day
+360129,5272,105,0,0,0,845,3,111.79919188666666,2625,2849

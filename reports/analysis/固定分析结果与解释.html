@@ -1,0 +1,39 @@
+<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>购买路径诊断：固定分析结果</title><style>
+*{box-sizing:border-box}body{margin:0;background:#f2f6f9;color:#1d3042;font:16px/1.75 "Segoe UI","Microsoft YaHei",sans-serif}main{max-width:1120px;margin:auto;padding:36px 24px 60px}h1{font-size:34px;line-height:1.3;margin:10px 0 20px}h2{font-size:23px;margin-top:0}.label{color:#176b80;font-size:13px;letter-spacing:.12em}section{background:white;padding:25px;border:1px solid #dce5ec;border-radius:12px;margin:20px 0}.note{border-left:5px solid #d99030;background:#fffaf0}.cards{display:grid;grid-template-columns:repeat(4,1fr);gap:12px}.card{border:1px solid #dce5ec;border-radius:10px;padding:16px;background:white}.value{font-size:27px;font-weight:700}.muted{color:#5e7180;font-size:14px}table{border-collapse:collapse;width:100%;font-size:14px}th,td{text-align:left;padding:11px;border-bottom:1px solid #dce5ec;vertical-align:top}th{background:#edf4f7}.scroll{overflow-x:auto}a{color:#176b80}pre{overflow:auto;background:#182f40;color:white;border-radius:8px;padding:18px;font-size:14px}.pathbar{display:flex;height:40px;overflow:hidden;border-radius:6px;margin:18px 0}.segment{min-width:3px}code{background:#eef2f5;padding:2px 4px}footer{font-size:13px;color:#5e7180}@media(max-width:700px){main{padding:20px 12px}.cards{grid-template-columns:repeat(2,1fr)}section{padding:18px}h1{font-size:28px}}@media print{body{background:white}section{break-inside:avoid}}
+</style></head><body><main><div class="label">LOCAL SQL / FIXED ANALYSIS V2 / 2026-10-16</div><h1>事件质量与观察到的购买路径诊断</h1>
+<p>异常日期与时间并列全部保留。没有为结果好看删除日期、重选窗口或改变路径口径；设备比较只作描述。</p>
+<div class="cards"><div class="card"><div class="value">360,129</div>可识别会话</div><div class="card"><div class="value">4,848</div>有购买记录的会话</div><div class="card"><div class="value">42.70%</div>购买但严格路径不完整</div><div class="card"><div class="value">18 天</div>固定零加购标记</div></div>
+<section class="note"><h2>先读结论与边界</h2><p><strong>完整漏斗的断层不能直接解释为真实流失。</strong>涉及固定异常日期的会话仍记录到购买，却无法组成四步路径；未涉及组也有大量不完整路径。时间并列只解释其中一小部分。</p><p>这是一份固定版本的第三方 GA4 扁平化副本分析，未与 Google 原表逐行核对。记录异常的原因可能涉及采集、导出、脱敏及购物过程差异，当前数据不能识别哪一种原因。无后台订单、支付或埋点日志对账，不估计真实流失率。</p></section>
+<section><h2>1. 固定的三组比较</h2>
+<div class="scroll"><table><thead><tr><th>会话组</th><th>会话数</th><th>有购买记录</th><th>购买记录会话率</th><th>严格完整路径</th><th>购买路径不完整占比</th></tr></thead><tbody><tr><td>全部会话</td><td>360,129</td><td>4,848</td><td>1.35%</td><td>2,778</td><td>42.70%</td></tr><tr><td>涉及异常日期</td><td>61,771</td><td>815</td><td>1.32%</td><td>0</td><td>100.00%</td></tr><tr><td>未涉及异常日期</td><td>298,358</td><td>4,033</td><td>1.35%</td><td>2,778</td><td>31.12%</td></tr></tbody></table></div>
+<p>涉及组有 <strong>815</strong> 个购买会话，但加购会话为零、完整路径为零。这是“已购买但缺少记录”的直接例子，不是100%的真实流失。</p>
+<p>未涉及组仍有 <strong>1,255/4,033（31.12%）</strong> 的购买会话不满足完整严格路径。不能把剩余日期当作已清洗正常数据，或认定18天异常解释了全部问题。</p>
+<p>两组购买记录会话率分别为 1.32% 与 1.35%；严格路径差异远大于这一描述性差异。它提示解释路径指标时必须先检查事件覆盖，<strong>不证明业务表现稳定，也不是埋点影响的因果估计</strong>。</p>
+<p class="muted">分组按会话任一事件是否落在固定18天；日期筛选按会话首次观察日期。先建完整历史路径，后筛选。全部＝涉及＋未涉及，分子分母来自同一组。</p></section>
+<section><h2>2. 18天异常如何保留</h2><p>2020-11-02—11-15、11-21—11-24固定标为“未记录加购，但存在结算/购买；原因未确认”。看板四张每日事件图用橙色背景标记，不插值、不平滑补齐；无整日记录使用灰色，与已知零值区分。</p><p>这18天包含1,071条购买<strong>事件</strong>；涉及组包含815个购买<strong>会话</strong>。统计单位与日期归属不同，两个数字不能直接相减当作漏失订单。</p><p>质量页使用事件日期；路径/设备页使用会话首次观察日期。会话跨日不拆分，标记不随设备筛选重新定义。看板默认全92天，未隐藏任何日期。</p></section>
+<section><h2>3. 时间并列只解释部分路径不完整</h2><div class="pathbar">
+<div class="segment" style="width:57.301980%;background:#176b80" title="严格顺序完整：2,778"></div>
+<div class="segment" style="width:1.155116%;background:#d99030" title="仅同刻兼容：56"></div>
+<div class="segment" style="width:0.288779%;background:#9a6d91" title="四阶段齐全但不符合顺序：14"></div>
+<div class="segment" style="width:41.254125%;background:#8a99a9" title="缺少前置阶段：2,000"></div>
+</div><div class="scroll"><table><thead><tr><th>互斥类型</th><th>购买会话数</th><th>解释</th></tr></thead><tbody><tr><td>严格顺序完整</td><td>2,778</td><td>存在严格递增的完整子序列</td></tr><tr><td>仅同刻兼容</td><td>56</td><td>允许同刻后才可能组成路径；顺序未知</td></tr><tr><td>四阶段齐全但不符合顺序</td><td>14</td><td>阶段齐全，但所记录的时间顺序不符合标准链</td></tr><tr><td>缺少前置阶段</td><td>2,000</td><td>至少缺少一个前置阶段；本次均缺加购</td></tr></tbody></table></div>
+<p>严格完整路径为 2,778；允许同刻的可能上界为 2,834。只增加了 56 个会话，不能消除 2,000 个会话的前置记录缺失。</p>
+<p>这一范围描述已记录事件的排序不确定性，<strong>不是置信区间或实际行为数量的上下界</strong>。不按事件名称、文件行号或业务直觉排序。</p>
+<div class="scroll"><table><thead><tr><th>阶段</th><th>独立出现会话</th><th>严格路径会话</th><th>允许同刻的可能路径</th></tr></thead><tbody><tr><td>浏览</td><td>77,020</td><td>77,020</td><td>77,020</td></tr><tr><td>加购</td><td>15,188</td><td>14,380</td><td>15,167</td></tr><tr><td>结算</td><td>11,106</td><td>5,187</td><td>5,416</td></tr><tr><td>购买</td><td>4,848</td><td>2,778</td><td>2,834</td></tr></tbody></table></div>
+<p class="muted">三列口径不同，不能交叉相除。完整路径占浏览会话的比例使用同一个浏览分母；阶段继续率则各自使用严格/允许同刻的分母，两套阶段比率不能称为上下界。零分母显示“—”。</p></section>
+<section><h2>4. 设备比较：差异小于结论所需的证据</h2>
+<div class="scroll"><table><thead><tr><th>设备</th><th>会话数</th><th>购买会话</th><th>购买记录会话率</th><th>购买路径不完整比例</th></tr></thead><tbody><tr><td>desktop</td><td>208,942</td><td>2,749</td><td>1.32%</td><td>43.00%</td></tr><tr><td>mobile</td><td>143,185</td><td>1,995</td><td>1.39%</td><td>42.36%</td></tr><tr><td>tablet</td><td>8,002</td><td>104</td><td>1.30%</td><td>41.35%</td></tr></tbody></table></div>
+<p>移动端购买记录会话率为 1.39%，桌面端为 1.32%，相差约 0.078 个百分点。两端均存在大量不完整购买路径。</p><p>只能陈述样本中的记录差异；没有统计显著性或因果优劣结论，也不因此建议重做某端界面。看板同时保留三组对照、设备样本量、异常日期涉及数量、同刻数量和周明细。</p><p class="muted">周一开始归周；2020-10-26所属周只覆盖11月1日。筛选边缘周可能不完整，不能和完整周直接解释为正常业务涨跌。</p></section>
+<section><h2>5. 辅助观察与暂不支持的结论</h2><p>以每个伪用户首次可识别结算为锚点，9,667人具有完整24小时观察区间，其中4,149人有后续购买记录；另有48人观察不足，单独展示。完整组中91人靠近样本开始。</p><p>301人在其他会话出现过后续购买，可能与同会话购买重叠，不能称作“挽回301位客户”，也不能证明同一购物车。没有记录到后续购买的用户不自动归为真实流失。</p><p>收入、客单价、品类及当前会话渠道分析继续暂停。缺失字段和交易编号冲突没有通过补值或强行去重掩盖。</p></section>
+<section><h2>6. 本地启动与复现</h2><p><strong>这台电脑：</strong>打开项目目录，双击 <a href="../../Start_dashboard.cmd">Start_dashboard.cmd</a>。浏览器进入 <code>http://127.0.0.1:8501</code>。保持启动窗口运行，Ctrl+C停止服务。若已有本项目实例运行，可直接访问地址。</p><p><strong>换一台电脑：</strong>先安装Python 3.12，解压代码包后运行 <a href="../../Setup.cmd">Setup.cmd</a>；首次安装与274MB数据下载需要普通网络，不需要Google Cloud。数据准备完成后再启动。原始数据及虚拟环境没有装进代码ZIP。</p>
+<pre># 已有环境，重新计算（先停止正在运行的看板）
+.venv/Scripts/python scripts/audit.py
+.venv/Scripts/python scripts/build_analysis.py
+.venv/Scripts/python scripts/report_analysis.py
+.venv/Scripts/python -m unittest discover -s tests -v
+
+# 启动本地服务
+.venv/Scripts/python -m streamlit run app.py</pre>
+<p>日常展示只读取本地数据库；无云账户和外部分析接口。原始副本、固定SQL、全部分组结果和上一版审计均保留。本地服务只监听127.0.0.1。</p>
+<p><a href="analysis_results.json">完整结果 JSON</a> · <a href="session_comparisons.csv">全部固定对照 CSV</a> · <a href="daily_coverage.csv">每日覆盖</a> · <a href="weekly_device.csv">周×设备明细</a> · <a href="../../docs/PROTOCOL.md">固定口径</a> · <a href="../../README.md">完整运行说明</a></p></section>
+<footer>仅本地交付，未发布GitHub。指标与交互测试记录见reports/verification.json。数据来源与限制见provenance/SOURCE_NOTES.md。观察记录不等于真实行为全貌。</footer></main></body></html>

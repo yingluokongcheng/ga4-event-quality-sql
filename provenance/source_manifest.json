@@ -1,0 +1,1033 @@
+{
+  "repository": "DavidKingGH/dbt_portfolio_project_1",
+  "commit": "41c4ee829b7c18cdb52810686768edfa035a42e0",
+  "scope": "third-party flattened event extract, not verified against Google original",
+  "files": [
+    {
+      "path": "ga4_data/fct/fact_events/000000000000.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "97b8596a08508bc7ba9511c0c38dd28914e1d78a",
+      "size": 2424029,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/97b8596a08508bc7ba9511c0c38dd28914e1d78a",
+      "sha256": "12af292e4d5a6a9565ad311ecf582edc0762b84a669b6d890c0a902fd7be677d"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000001.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a8c58530a9bedc522ffeff12a5034336323630f0",
+      "size": 2592531,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/a8c58530a9bedc522ffeff12a5034336323630f0",
+      "sha256": "11625ef6579513c2987d2d00baeef3db58bc0f605beead6437d5e74329b11814"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000002.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5bad73082e13ec906f45891d7efa54f79710f202",
+      "size": 5117528,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/5bad73082e13ec906f45891d7efa54f79710f202",
+      "sha256": "84205fe439778fd9fe3858e977617436b8ce68b4ed3bb4993996d60c8325535e"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000003.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "46e1d6d2e874d0d67d1eab1afd50b88e18cbf11e",
+      "size": 2653760,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/46e1d6d2e874d0d67d1eab1afd50b88e18cbf11e",
+      "sha256": "4b97486f92027a1f771a6fd8ca9c1a13770e7cc1600f4212d4d1b00e4836d345"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000004.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2133ec64da0afc5a2ced50de68d91670123cffcd",
+      "size": 1994639,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/2133ec64da0afc5a2ced50de68d91670123cffcd",
+      "sha256": "e1448a590d5fc171beb932ac04e22e411a41b0201114c7bef4028fc6d11ec4fc"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000005.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6aba947f58944dd07ba4116efa2fe19ca01bad80",
+      "size": 1989991,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/6aba947f58944dd07ba4116efa2fe19ca01bad80",
+      "sha256": "91fbd5988b9fa8d8acdfb81581f24d0b5281ff3d0c9280c00e1e4ef265d91ac9"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000006.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2b44026c16e1ce8a99415cba12dfa15b772397de",
+      "size": 3177223,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/2b44026c16e1ce8a99415cba12dfa15b772397de",
+      "sha256": "30baa551452b5906e7c22a329e5e25a9f2540bb2e6a4639be67c0dec48f6e4aa"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000007.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b42c553e954616742fc5069e679cf2dbe1185e19",
+      "size": 1453372,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/b42c553e954616742fc5069e679cf2dbe1185e19",
+      "sha256": "9e72685058441847c39a28ad26a2884dc9a973f88fa988d0593f0cb6484d390f"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000008.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e3fae81d9ea6edd87b14ba98647d794bdf44668e",
+      "size": 3489485,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/e3fae81d9ea6edd87b14ba98647d794bdf44668e",
+      "sha256": "a02caac8d7656c5d24874b9d0a783a77bfb38d1ebc8f8c3e4ceff606e1bcd360"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000009.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "28f5f337660a2c93e22843b71416ac4b1352f75b",
+      "size": 1948195,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/28f5f337660a2c93e22843b71416ac4b1352f75b",
+      "sha256": "e9c14628c447e3a88d4c025a139ec4ccb9773c3ab372698fcf0cec84087ff7a3"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000010.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e4b65330c59417342cdc6c47e5b877b84940e68e",
+      "size": 2202714,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/e4b65330c59417342cdc6c47e5b877b84940e68e",
+      "sha256": "32d8574c32ba0f308002887adb2ae0790bb19238a0f6573d4f1811b423e08fe8"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000011.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a04089844eca54ed96179815a33dfe1dc93354d1",
+      "size": 2452791,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/a04089844eca54ed96179815a33dfe1dc93354d1",
+      "sha256": "c21b52c91cd7fa5cea462664ddeee71866f3484bee177591545d8ea6193bc7a0"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000012.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "12b35eaf6ee259fc6ddbcf1c93d5a6bccbb87406",
+      "size": 1961775,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/12b35eaf6ee259fc6ddbcf1c93d5a6bccbb87406",
+      "sha256": "8b8106cac8bff5438ddb9509cad0278d9fb8dd0f4d9286a3ce38f1442158a209"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000013.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bb7bf3a25351ff5e0f57c350bbbcc49701a1998a",
+      "size": 2547322,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/bb7bf3a25351ff5e0f57c350bbbcc49701a1998a",
+      "sha256": "58fe247cca1be2a6e6395111db12a2cc30514b2183dbeb297d496a63808cd517"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000014.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "289a6c604953b2414a8bc457489f215452b16aae",
+      "size": 834808,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/289a6c604953b2414a8bc457489f215452b16aae",
+      "sha256": "1a4788ca20ada3041584f7b0a1b86c6e742400763aa88bd75fe11620af12baa6"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000015.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0c3f505d5368f78878e39172244395b7f2151d27",
+      "size": 4139652,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/0c3f505d5368f78878e39172244395b7f2151d27",
+      "sha256": "2882be83b861bc657827f49ca603f28acdce34ab45b86a1bdf03d38ed70314a8"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000016.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "97482c4b3090e2ca77941d3937e87b9d45297422",
+      "size": 1458454,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/97482c4b3090e2ca77941d3937e87b9d45297422",
+      "sha256": "2c42dab625e4ea1afe8219091dc3d55c97f24da62d8b38ef3504e08a73182b8e"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000017.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6ae11fbd87fef2f3971d9042eb67d504614250cd",
+      "size": 292053,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/6ae11fbd87fef2f3971d9042eb67d504614250cd",
+      "sha256": "114fee142720d0663403bb47c6bc01f7ad257aad992725d6e2d6fb0052a591bb"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000018.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "982bbc4e57296e57aa1828d48cf66d1fdef31875",
+      "size": 3433816,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/982bbc4e57296e57aa1828d48cf66d1fdef31875",
+      "sha256": "41d68d45df3abf610e5214529267cd7f25395bcb2ac2280ba57347a57aab752e"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000019.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "db8ae3e5805ffeab16f81e04c0beb9f41901f86a",
+      "size": 3100684,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/db8ae3e5805ffeab16f81e04c0beb9f41901f86a",
+      "sha256": "c725832a27178b22e4d15e72af8b0e4293e89c49b9a6d4136be284da23c80e62"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000020.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d72c260f2e5fbc9234ed9ff61b3d5176dc026e1f",
+      "size": 1326643,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/d72c260f2e5fbc9234ed9ff61b3d5176dc026e1f",
+      "sha256": "db6e1bde2fc854ff97be92528ec6d06ae5c8c6b89cd6872117ea61224b36bf14"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000021.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1b144327646e47379d18db849a05c0a766e0fc60",
+      "size": 3709600,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/1b144327646e47379d18db849a05c0a766e0fc60",
+      "sha256": "32e3b5bb59e5ccbfc0249680bb54d3f1c1ffa05f6506b818bbe3678f77362f61"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000022.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "493ab31b201ef72ce89241ff5007120407dd3071",
+      "size": 61432,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/493ab31b201ef72ce89241ff5007120407dd3071",
+      "sha256": "dce50cc4a1d3828c74b1edee2c0ad5eb359f6a95f6fc56d5f645955bb830ab78"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000023.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "20b2997c70b6472bd36131e7aeb44a4044410760",
+      "size": 3337767,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/20b2997c70b6472bd36131e7aeb44a4044410760",
+      "sha256": "4c9cc44661a2f5deae74fe1a921a69a6d982a42e9c4cd8bb53d22822fc751f15"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000024.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3b391be3f4e3b23b275bbd1d013ebd019691ee69",
+      "size": 3180539,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/3b391be3f4e3b23b275bbd1d013ebd019691ee69",
+      "sha256": "9bd8a0470012ad07850cd1baf8a78ddeb5ac5ecd73d897712f9d848396d633e7"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000025.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "90807863dcd3ed7858bfea020a710648e80d04fb",
+      "size": 2186496,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/90807863dcd3ed7858bfea020a710648e80d04fb",
+      "sha256": "6bb300577b67dd9221ab5e25d30234f896fb8841971e3f0bba8412ad893af524"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000026.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6626b35828272ac42bde284678e1d672576f0c6a",
+      "size": 1444788,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/6626b35828272ac42bde284678e1d672576f0c6a",
+      "sha256": "7868caf0594c2c57862fbe61c2ceeeeb681eb50851942d45730c27b474355ea9"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000027.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b07f2d9b750ba1b9053ca8e0f5978e8893b9df8b",
+      "size": 1975105,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/b07f2d9b750ba1b9053ca8e0f5978e8893b9df8b",
+      "sha256": "a6e386b24cccc6eacd4c5fa5bad97d1dc08a38b574fcb65f4be5c22be30925f9"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000028.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "959d2904d7c782d226c804d9015f8a5fcb3b9b2a",
+      "size": 3925616,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/959d2904d7c782d226c804d9015f8a5fcb3b9b2a",
+      "sha256": "4a22bf409384af64446aa1dfceeba12e470db96030b7f88c239f39a081a69519"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000029.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "06d07ead3dd61e545a1c64e3bc335c876de991b0",
+      "size": 1732114,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/06d07ead3dd61e545a1c64e3bc335c876de991b0",
+      "sha256": "57d3dca156b5a5a23573b82fb0347c27baf05101adfd177250d389a3c5d6f030"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000030.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2fee662771fa112150e092fe6cf4ef7e854da4d9",
+      "size": 2838450,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/2fee662771fa112150e092fe6cf4ef7e854da4d9",
+      "sha256": "532694f8d11f798f6e42ff2b3f23209ca492bf061653cf434e47bd7f4fb4e86f"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000031.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "370a292607b01e5423e78d4920757fbde616f8b8",
+      "size": 2044630,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/370a292607b01e5423e78d4920757fbde616f8b8",
+      "sha256": "0d9d76ce7b7ddec8db33e07ec502a6bc73d7408f1d83a941521eaeda3f8686d0"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000032.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "783da6a5b50f88d12c041cfd40fd6a61ad502461",
+      "size": 2909109,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/783da6a5b50f88d12c041cfd40fd6a61ad502461",
+      "sha256": "6d63f1b3d93d6bf8102fde3bd993dd8de91000a23b595e3d95de6d01aac3a44d"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000033.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c920fd9725c5e2967338c601c1b0d877605c70d7",
+      "size": 1036248,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/c920fd9725c5e2967338c601c1b0d877605c70d7",
+      "sha256": "584c5b7423443bcf43250c9071acbe886488ef14d4d97d926c52d6b9d3aa1718"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000034.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9611715a805ed92c6c8ca42c507a6eaa6ef36330",
+      "size": 2279517,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/9611715a805ed92c6c8ca42c507a6eaa6ef36330",
+      "sha256": "51fb75a42883753f197f01d6d7a78bead6f259b21ea478b4649f5ee15ade00c3"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000035.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a4cbd828cb57119fc76a3e514658c2541d33a80c",
+      "size": 18561,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/a4cbd828cb57119fc76a3e514658c2541d33a80c",
+      "sha256": "805bdd1bc4a128d608ee3c51274c96390e449638ef641c170df6ad3adaa88d04"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000036.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2b3f023def4b325be71d7d4379cf27fdc15b40b6",
+      "size": 1600081,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/2b3f023def4b325be71d7d4379cf27fdc15b40b6",
+      "sha256": "3a3b9782ad47c79933572ecbbc9c750cfd9c1a7c1a3aa6886604306c46acb9a7"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000037.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3eae3c20a3346cd260e5961f29a41f5777bbdb54",
+      "size": 2749531,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/3eae3c20a3346cd260e5961f29a41f5777bbdb54",
+      "sha256": "ffab01054cb1d3fd9f42eef8655eae151d7cfe545d72f85dea8a77e9e2cfa1b0"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000038.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1c088b86e336d62c3923cb3c522c03bd90b0e6f7",
+      "size": 2050040,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/1c088b86e336d62c3923cb3c522c03bd90b0e6f7",
+      "sha256": "7c949efcf3f8832f7d2967d995ac3477cd1fb216bccae410743b0c72671b145f"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000039.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8024e18dafefae26e315d60a29f94e3f2b1ab2d5",
+      "size": 2675668,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/8024e18dafefae26e315d60a29f94e3f2b1ab2d5",
+      "sha256": "f603762b520aa930f2b0459608739e5923324dac893be6bd0a7ba148d1dbc1d0"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000040.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "95fb1d706251b1353f3ea79858cc395017e74bf6",
+      "size": 2720252,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/95fb1d706251b1353f3ea79858cc395017e74bf6",
+      "sha256": "f21181b68c0abb160109d41c6a68a0b886aec6053a845519ea753573f322b56f"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000041.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5eda28a80b2794910aa5141b4c6662f2efd5b350",
+      "size": 3399274,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/5eda28a80b2794910aa5141b4c6662f2efd5b350",
+      "sha256": "8ceb26dd19ba6b76751ea72b87c859b7de9f29af45d2ce0cce8f1d0d72557e21"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000042.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "434db9da025e370224234191427fac0f42dd4557",
+      "size": 4397175,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/434db9da025e370224234191427fac0f42dd4557",
+      "sha256": "00f045c5bb05988da62f7541f9d45146583aabbca0ec61105922b692f09a2911"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000043.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "907a4575e0f3e79ffc36acb5aaedad3b83c94a57",
+      "size": 3386839,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/907a4575e0f3e79ffc36acb5aaedad3b83c94a57",
+      "sha256": "25aedaf0bce84e03d020746525869bbfa4cf6a9c2d625f0a23fd6d347affd1ee"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000044.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "594b734a8722bf0bb6bf9dbf90636fbfda4e8ef9",
+      "size": 287903,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/594b734a8722bf0bb6bf9dbf90636fbfda4e8ef9",
+      "sha256": "a6a60b64e68ec94828c0f9d22ccff7ca06f6049ecfa78fa07f96bc539a70bbcd"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000045.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b3cc03d9583b49f27ddc09919d4651131209382d",
+      "size": 1796328,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/b3cc03d9583b49f27ddc09919d4651131209382d",
+      "sha256": "922037468b9bf7c4156a98f85c018a97ac5037828e7c1bb26d543d386da2d392"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000046.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f00dd9bd9ca59ec24f84d13e39b1b800193aaef8",
+      "size": 3308272,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/f00dd9bd9ca59ec24f84d13e39b1b800193aaef8",
+      "sha256": "85d30ecaacb883f6c875112ef5344e5711f3223dbfd954b35f440aae822d7cd8"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000047.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "db05d6ba3588d25143b28daf8fb2a3cd0b9759ea",
+      "size": 1423284,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/db05d6ba3588d25143b28daf8fb2a3cd0b9759ea",
+      "sha256": "9aef0d756536fa1491b7fe7ff7aa6884322e528a691dfc5a23c2f706a2bfaefd"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000048.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "075f93352b975639d0c8afcc318df0fd93e248d5",
+      "size": 2055514,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/075f93352b975639d0c8afcc318df0fd93e248d5",
+      "sha256": "35f5c7a1551da616ad5ac49ed289899b415ceebe794984aecbcee7c1ad54f25e"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000049.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d31c9009e61fa18d3941e318e71edb4a040f67f9",
+      "size": 4019876,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/d31c9009e61fa18d3941e318e71edb4a040f67f9",
+      "sha256": "0a4f8d8029ac73c670ce013de76ed62a89391b79f2ffcd5d86462b4629b15e9c"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000050.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "82bfd626556125b8ce4fe4760deeb80ae105bf19",
+      "size": 1964180,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/82bfd626556125b8ce4fe4760deeb80ae105bf19",
+      "sha256": "e20b360cfb4b01ca191479439f9b68fcfd5a0a0c7561d5131d7401a19a1f1666"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000051.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1ea1b8caeb7262bcb628b8bece2077ef2c37039f",
+      "size": 4559309,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/1ea1b8caeb7262bcb628b8bece2077ef2c37039f",
+      "sha256": "633c56933b331ec5b0e726ba631e596008caebc216ef89d0071305c1bb192b49"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000052.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "743edd6124c94ea18ab5f2e09f10c7598fd60630",
+      "size": 3203140,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/743edd6124c94ea18ab5f2e09f10c7598fd60630",
+      "sha256": "10f030e778e1c161be6a61aea4c53b417c608be14a00b9eb3c5240f35255685e"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000053.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cc9e11a85fc894a7b9c39466e3ef21b9774f6631",
+      "size": 1430330,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/cc9e11a85fc894a7b9c39466e3ef21b9774f6631",
+      "sha256": "6b9a1108a72e7c1323918353e82b148fb696bcbb39147af0e6dc0b97aae4b651"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000054.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a027a3590a3b32a21eb86420fc392dce25bdcc10",
+      "size": 1480378,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/a027a3590a3b32a21eb86420fc392dce25bdcc10",
+      "sha256": "b1ab0e7287300a6c4e7532e5ce59d81c93d80baf64a362d1326d7d616f51f7a9"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000055.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6df23eaa42c0e323569a536505ead25bf29b8bb0",
+      "size": 3130063,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/6df23eaa42c0e323569a536505ead25bf29b8bb0",
+      "sha256": "3cd991242cd88895ca53dd6646be7e41145904d586846bff8c5ac810a94987c1"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000056.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ec3fb051dd291de176ef11e306e3aad2ca2f0d26",
+      "size": 2600745,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/ec3fb051dd291de176ef11e306e3aad2ca2f0d26",
+      "sha256": "b575abc0d2f968ea33eb8e30f9a25c645523523668a23514fb577e2c19fcd9f0"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000057.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8beb6d887f442f70520d8093dd34d3f8f81b2972",
+      "size": 4739469,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/8beb6d887f442f70520d8093dd34d3f8f81b2972",
+      "sha256": "05e1edc1cc7ce9190fd499d4d33670ebb679d1a15d5b623e6e3b0eda431650ae"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000058.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e61b8782fcc24f4e12a6daaa0c00ae2c1770f051",
+      "size": 3961147,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/e61b8782fcc24f4e12a6daaa0c00ae2c1770f051",
+      "sha256": "d8829ebd1bc33461069fc0450cd3da97ae6fa54b2a026baa2850443dbaec46de"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000059.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ad3ede2ec29857ebdfdd9ba26697fc728528baa6",
+      "size": 3460858,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/ad3ede2ec29857ebdfdd9ba26697fc728528baa6",
+      "sha256": "7008c846c01cf9021574bcab2dfc1b08ee95d78104644220bb71f8f7eed91141"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000060.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bf902f33fa6d0f853be572a8ba71bb1b426cde0a",
+      "size": 1109169,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/bf902f33fa6d0f853be572a8ba71bb1b426cde0a",
+      "sha256": "059b30d96b1751d9d4f8c55ed36ff5186d26e27b40989c30b53b53c4e4f5e540"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000061.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a252c4db276dc60f1225ae8f683872acecd2ff33",
+      "size": 2742730,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/a252c4db276dc60f1225ae8f683872acecd2ff33",
+      "sha256": "0bccf28b6e4658d7f3dd5e7966edaf006ab71f4c68efacb5601e10275ad73e1a"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000062.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b0b82a41069951d390583648795d5c84627d7715",
+      "size": 108697,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/b0b82a41069951d390583648795d5c84627d7715",
+      "sha256": "a927378669035ffdfb1bcca2287b22973c9bf1128a357b9ef12fc21d945a2dce"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000063.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "99af10b79f1c4ae2affad497969c071e5a742ef7",
+      "size": 2097256,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/99af10b79f1c4ae2affad497969c071e5a742ef7",
+      "sha256": "c993559dad0cb411449ab91276637c77547f807f51e0b6350ee7b28b8901d4a4"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000064.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f1c44c302ee0c2ead3da82045552d439f3816ee0",
+      "size": 1629571,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/f1c44c302ee0c2ead3da82045552d439f3816ee0",
+      "sha256": "32b6e31ab6752001273a0f45fb1c57333fd2e96f23ebbcc0a20fab7f66a6007c"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000065.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "601898e42b14d9626c18ceb75f4c0e09348145f8",
+      "size": 2670116,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/601898e42b14d9626c18ceb75f4c0e09348145f8",
+      "sha256": "429dcfc75dbe3005634bb55ee996f69d9aa866245633af72baffe45e0ad3b65f"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000066.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2939001c5eb883c38f5499f50041cc98588cff8e",
+      "size": 3288452,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/2939001c5eb883c38f5499f50041cc98588cff8e",
+      "sha256": "810b91a9ae0ae607915eae213b1887c0e08e1ca36237c0ffcb8da2131ab29854"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000067.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "de3a5cba3c7f1926a2c9ad0d4372485a98fc56d7",
+      "size": 2905207,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/de3a5cba3c7f1926a2c9ad0d4372485a98fc56d7",
+      "sha256": "7fcb7429ca6d60f5efb41a28fa7bd2c3ee942c88fba01d3c754f31a658aace92"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000068.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6831e622f07727a7ccc9b3932bc01535889eb0f2",
+      "size": 2208672,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/6831e622f07727a7ccc9b3932bc01535889eb0f2",
+      "sha256": "0921cf2a42e8d4220fdad224130d0ecb12e00c1fb758a6274ecf3ee197c380ce"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000069.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6e8d57a6b005454de832cc46903c3848c7ecf740",
+      "size": 4038357,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/6e8d57a6b005454de832cc46903c3848c7ecf740",
+      "sha256": "d870c3580b3eca64cc42672ab8fa7e7b2392b4c36abf89962205830e35dc49ca"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000070.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0552f06d7b9c69436cdcd073c957a403d668cf3a",
+      "size": 3697674,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/0552f06d7b9c69436cdcd073c957a403d668cf3a",
+      "sha256": "01793da1879a6adcb91134232f23ae7a5bbbb9eadcb0bf480a8b1b01aa59baea"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000071.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "185b3cf6e8b99c05d3d76548595fdbf5918ca19a",
+      "size": 855495,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/185b3cf6e8b99c05d3d76548595fdbf5918ca19a",
+      "sha256": "17faac23f44af4b19786943678d86afd29163e804972ccc6ef5df046bff07113"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000072.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "91d90c7552abf5e1ce9fa022803ab8ff33690ca6",
+      "size": 2010631,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/91d90c7552abf5e1ce9fa022803ab8ff33690ca6",
+      "sha256": "a79e203387b8e6978cb537fe449b0d5c64c0d5d529b990253c52456b196525e2"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000073.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ab165385cda415e61930c4c6dba221d2f5818096",
+      "size": 3297444,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/ab165385cda415e61930c4c6dba221d2f5818096",
+      "sha256": "8c20acd2a228cf780f78914275074eed9dbe8dbea20068155cb92ed34d9dfe61"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000074.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c640fe0bcc8ee1b44335e38d17fb6ed13b4c348c",
+      "size": 1473003,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/c640fe0bcc8ee1b44335e38d17fb6ed13b4c348c",
+      "sha256": "19255e7eb5a4ce212b0554209551128469dbe6b2b79d29da968fd74b6a48475f"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000075.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "632261b42909896cbc9e410d37c36937fdfb3efa",
+      "size": 2639919,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/632261b42909896cbc9e410d37c36937fdfb3efa",
+      "sha256": "c950a8ba6e12033c5cb0a38ea13e61cb73ea1a9b1d8f72a6f7c688b17871fb28"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000076.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "42c045abf1588468c18feb2b3be88dcb8409b6ad",
+      "size": 106036,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/42c045abf1588468c18feb2b3be88dcb8409b6ad",
+      "sha256": "20e1e9e9ca5f3f86e2f930c5a47f6f0f39cd96944b395e873fa6a8d1b4aa433b"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000077.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "99f11848692a8292f012f1f5beedd97a2fecce29",
+      "size": 4173106,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/99f11848692a8292f012f1f5beedd97a2fecce29",
+      "sha256": "067dd296abcc60666b111012cbc205fd5295efdedd1da798259310832940968e"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000078.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "83618876869312f74c0797f1ef501ed7bb0d45a0",
+      "size": 2105289,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/83618876869312f74c0797f1ef501ed7bb0d45a0",
+      "sha256": "11d7e36d6c3d3c9470517da1ca007eb855b35cd7127174554956262c891b542d"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000079.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d22dc12abd7fead3913dbcee84c6244ce709342f",
+      "size": 2016536,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/d22dc12abd7fead3913dbcee84c6244ce709342f",
+      "sha256": "fc319a1f3282656481de04a5eedffd46a5bab759e876afc613020d84060deb86"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000080.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "be7540163a0b1a69645e4a9199d775fe7328e772",
+      "size": 2858735,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/be7540163a0b1a69645e4a9199d775fe7328e772",
+      "sha256": "d499c997213dd5a9d7bfb66eb8d0252c0a43981eb26015cd96ebddf90df0f06e"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000081.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "02173faa784be5ae59276e9c4b72a46d49c652d3",
+      "size": 3536300,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/02173faa784be5ae59276e9c4b72a46d49c652d3",
+      "sha256": "3be8037f2564b1ab444a471f512ae7d5f8d039651cb02a908e3e6fe3bde42f47"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000082.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e3f988d950d8bc50e2c63c9dd2176944f1f5319e",
+      "size": 2749926,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/e3f988d950d8bc50e2c63c9dd2176944f1f5319e",
+      "sha256": "2471f0f11f7d23a59f1b3876cbf35fa15e1f3058410e30c61bc1b4c515ceea39"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000083.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "64c53db8a41a3058a13a3dd5fa6ba54f41936571",
+      "size": 162644,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/64c53db8a41a3058a13a3dd5fa6ba54f41936571",
+      "sha256": "a51852972e8290a3a68c5524667c4ec70ba9c7b9d0d2a2e10ea3a9c0db540813"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000084.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b3e92b0aa94c8f72dbefb2de4ba2592f5e7bcdb2",
+      "size": 3921567,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/b3e92b0aa94c8f72dbefb2de4ba2592f5e7bcdb2",
+      "sha256": "1e9753453283c6b7a85cbaa992b620fcbebb7c6c61988d4bba8fcc9c0b9ecde3"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000085.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ac067e88c542c048d51c59bccaa4857a9968fdf1",
+      "size": 4176795,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/ac067e88c542c048d51c59bccaa4857a9968fdf1",
+      "sha256": "1f5198afe1650ea1f5f61fb43e15c2ac128890ac61b41704164ac78c8f7c82d6"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000086.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b019b4f630c2728e7cf4b07e8f8d15bb0a9db6ec",
+      "size": 5755708,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/b019b4f630c2728e7cf4b07e8f8d15bb0a9db6ec",
+      "sha256": "9bcdde290c5633ade1af4324edb83b16b5bc1dd0db84daa8442d58bb1aeba585"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000087.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3757eec9cb5b19709ef84a8ef359fdf20a2eddd8",
+      "size": 2380072,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/3757eec9cb5b19709ef84a8ef359fdf20a2eddd8",
+      "sha256": "2ebfd381edd3f09a9051c92dbb94f59f55e6d102d6877417b9aec7be3de482c5"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000088.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1713ba33b12b0e90db06a61ee8c00b17a3478863",
+      "size": 340114,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/1713ba33b12b0e90db06a61ee8c00b17a3478863",
+      "sha256": "758c68685bd8bff18c3529c97dd6fe2d7cb4ded763067923bdde238a7c2f24c1"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000089.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2f2c49a4a361572cab5b2f130da7faf899108786",
+      "size": 2329678,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/2f2c49a4a361572cab5b2f130da7faf899108786",
+      "sha256": "b4292b5a09fdf3af17dd8da416e4e2c84ba1a1058027ff324a1b00ab81d70cc5"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000090.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "22217584d15ca222d9f9e91dec75aff1d8c3d593",
+      "size": 1551086,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/22217584d15ca222d9f9e91dec75aff1d8c3d593",
+      "sha256": "b1f7f8d4ea117f9d436e0c98eebd39771d315182314b55d5546725870f7a56d3"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000091.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d07cdf71eac578973509b0428ee98073fadde583",
+      "size": 2758006,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/d07cdf71eac578973509b0428ee98073fadde583",
+      "sha256": "b4dceee9c6abf3bcd554b261f1b794f87d970fca1885332eb952df2299d80ace"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000092.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6f79da7de0be13f52692dd31274ac55944d082ed",
+      "size": 357276,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/6f79da7de0be13f52692dd31274ac55944d082ed",
+      "sha256": "ba20447d5e69e0a2ccd727e0444032e893d12ff11a84e195d173b067fd72abc5"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000093.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "99cf501cabb43f8fbc6ad119da2897515500fe63",
+      "size": 2198111,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/99cf501cabb43f8fbc6ad119da2897515500fe63",
+      "sha256": "305c51492c76a3c8c1ad1b9bbfcba07c3ba9ce5fb61b044fd9c5b91dbbf66569"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000094.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "002ca7d95113212aceb186c0a4e8249a7a97ab80",
+      "size": 2123177,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/002ca7d95113212aceb186c0a4e8249a7a97ab80",
+      "sha256": "5734a561c7e5f20503402d38439553a4dcdf7becc90eab7fb6af5a4316981c78"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000095.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8649c9ecd6a2f7e06caf53514c9c9445e1c9b69a",
+      "size": 3353632,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/8649c9ecd6a2f7e06caf53514c9c9445e1c9b69a",
+      "sha256": "357089fce0bd9ba9eda44774f94dadf6a5831539e78be7471ef18a900d6f89d9"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000096.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "43756e7491b53c40074468e4bf7d30c6684b4e18",
+      "size": 302361,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/43756e7491b53c40074468e4bf7d30c6684b4e18",
+      "sha256": "5d1e76c35506963cdd44f75ac8d18248f53e14d5c0a4be589b9eea1907403237"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000097.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e92bb896acae5a61778e07ccf81e3af2c27ede0a",
+      "size": 3150503,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/e92bb896acae5a61778e07ccf81e3af2c27ede0a",
+      "sha256": "d0e67f27be77123fabea83d7e59d301d3c425eb42c5237c120519e93a8361db1"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000098.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "384a346cb44905d8bcab618e3b5f7b6729b664d5",
+      "size": 3449704,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/384a346cb44905d8bcab618e3b5f7b6729b664d5",
+      "sha256": "91e9821b3fb786d24314a290fc5ae037b03af73474a1db86886d887398b7c71b"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000099.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d9caad3bdac24750354594abda6e7470b1bfa221",
+      "size": 4473629,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/d9caad3bdac24750354594abda6e7470b1bfa221",
+      "sha256": "02ecd97ae1426115f7a866449cbeee78c02871dd63889d761eaccb30b15aaedc"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000100.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9619b1e574934d13c25aa4effbd2e5cef3e5219c",
+      "size": 3124120,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/9619b1e574934d13c25aa4effbd2e5cef3e5219c",
+      "sha256": "7b0511bb8e96d29e1ad29d8688833758a945598d61f53acbb67294c4a7853b59"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000101.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ebc57d774906c25eb47dc5493e7203e6a62fb789",
+      "size": 379380,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/ebc57d774906c25eb47dc5493e7203e6a62fb789",
+      "sha256": "3eff48410d26797699e15bdbcc551919fb8c25918229ce57cd975a2f504822c4"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000102.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "17c5d613ec4b295a891a0eccb4df88177690664b",
+      "size": 2771118,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/17c5d613ec4b295a891a0eccb4df88177690664b",
+      "sha256": "8773fcf02985deb29a7c6f25fcb136aeaacff4be5671149cd30c5b1893a5fc7b"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000103.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d20ac74e2fe64a08d8d82f4db798ff85b07f3b5e",
+      "size": 1490843,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/d20ac74e2fe64a08d8d82f4db798ff85b07f3b5e",
+      "sha256": "01c8e5e264381f2caa19b4e95a8484496ecee17573183b32271c215520a703a2"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000104.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "258c7c44d31f3c8dd33c4dda82235c37717f213f",
+      "size": 2842976,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/258c7c44d31f3c8dd33c4dda82235c37717f213f",
+      "sha256": "484ee85f11c9d627abc0ab033ad8c5d05cd781eff4a63c5f172d2d838148019e"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000105.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "20fbb6e5b3a6f81e6f52e7a469f983005fb023d3",
+      "size": 3126372,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/20fbb6e5b3a6f81e6f52e7a469f983005fb023d3",
+      "sha256": "d34606acda536779d2fec6adbf7c98ed16c32e6327554e392d208e5ce3e9b78c"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000106.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b30afa2c5a2104a2b3784283112a5ef223e9016a",
+      "size": 3069923,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/b30afa2c5a2104a2b3784283112a5ef223e9016a",
+      "sha256": "4040b78257b0b5d73c2acbe94cdbeb9aad4c1e36d91418144f18d1d830c9fa93"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000107.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1faf545a967b8a08f0565933b8e4a752a3c42a40",
+      "size": 2221771,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/1faf545a967b8a08f0565933b8e4a752a3c42a40",
+      "sha256": "fdb177f6f0158193c9931c8b2c246569958496ed3a0e9f2e6882f0dbfc0f3115"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000108.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e3e1298e954deb80c4f55c3c9333a65de98fda6b",
+      "size": 405017,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/e3e1298e954deb80c4f55c3c9333a65de98fda6b",
+      "sha256": "4d1f6906240f70214c89405019899819ad0cc2f7924b9a8e7a639c9641f78693"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000109.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f739637b1f25fb70438aa10711cc2990d7f8832c",
+      "size": 768075,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/f739637b1f25fb70438aa10711cc2990d7f8832c",
+      "sha256": "53a97b4ad9e76afb46202dcdb70d11f292a4e90ce07ec4714e45ca643f3f1c38"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000110.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fecbfd7fa7fe92071401b8933313896ee160c574",
+      "size": 1030964,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/fecbfd7fa7fe92071401b8933313896ee160c574",
+      "sha256": "03136b5df94ad081f543c66ed9301f72df6b554ec8e38c8c7d48a051b8a487d6"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000111.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7582ab29d0a07ab1f42bd4d2b68d578913e918ab",
+      "size": 3093046,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/7582ab29d0a07ab1f42bd4d2b68d578913e918ab",
+      "sha256": "185960c20d51859d9d5638f28507ea251d1b8b6421e54e00ca278324394f0b70"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000112.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6d36eb9701c3ed5806a38090b20a37fa7fbfd0fa",
+      "size": 265802,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/6d36eb9701c3ed5806a38090b20a37fa7fbfd0fa",
+      "sha256": "e4bba822dd612dcc8430fb5601ff613d66fb85c52bcad14f16501797e76c19c0"
+    },
+    {
+      "path": "ga4_data/fct/fact_events/000000000113.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "652a193bcab3383feb6d3be7eca61b60b7ca0838",
+      "size": 2735805,
+      "url": "https://api.github.com/repos/DavidKingGH/dbt_portfolio_project_1/git/blobs/652a193bcab3383feb6d3be7eca61b60b7ca0838",
+      "sha256": "13aad88af122dc85b68323ea63dae59cbfb1dafd1c20188729712ec70e0d8f34"
+    }
+  ]
+}

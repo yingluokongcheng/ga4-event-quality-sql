@@ -1,0 +1,2352 @@
+﻿observed_date,device_category,source,medium,events,unidentifiable_events,view_events,cart_events,checkout_events,purchase_events,invalid_transaction_events,missing_purchase_values
+2020-11-01,desktop,(data deleted),(data deleted),941,0,128,0,8,1,1,0
+2020-11-01,desktop,(direct),(none),4121,0,435,0,13,2,2,0
+2020-11-01,desktop,<Other>,(data deleted),33,0,10,0,0,0,0,0
+2020-11-01,desktop,<Other>,<Other>,2394,0,261,0,5,0,0,0
+2020-11-01,desktop,<Other>,organic,640,0,79,0,2,0,0,0
+2020-11-01,desktop,<Other>,referral,1520,0,74,0,9,2,2,0
+2020-11-01,desktop,google,cpc,790,0,80,0,2,0,0,0
+2020-11-01,desktop,google,organic,5088,0,494,0,17,2,2,0
+2020-11-01,desktop,shop.googlemerchandisestore.com,referral,2696,0,382,0,20,2,2,0
+2020-11-01,mobile,(data deleted),(data deleted),474,0,54,0,5,0,0,0
+2020-11-01,mobile,(direct),(none),3447,0,372,0,13,4,4,0
+2020-11-01,mobile,<Other>,(data deleted),40,0,4,0,0,0,0,0
+2020-11-01,mobile,<Other>,<Other>,2379,0,298,0,14,1,1,0
+2020-11-01,mobile,<Other>,organic,533,0,67,0,1,0,0,0
+2020-11-01,mobile,<Other>,referral,786,0,67,0,2,0,0,0
+2020-11-01,mobile,google,cpc,579,0,77,0,2,0,0,0
+2020-11-01,mobile,google,organic,3501,0,404,0,8,0,0,0
+2020-11-01,mobile,shop.googlemerchandisestore.com,referral,814,0,65,4,6,0,0,0
+2020-11-01,tablet,(data deleted),(data deleted),18,0,1,0,0,0,0,0
+2020-11-01,tablet,(direct),(none),29,0,1,0,0,0,0,0
+2020-11-01,tablet,<Other>,<Other>,90,0,0,0,0,0,0,0
+2020-11-01,tablet,<Other>,organic,70,0,7,0,0,0,0,0
+2020-11-01,tablet,<Other>,referral,78,0,7,0,0,0,0,0
+2020-11-01,tablet,google,cpc,12,0,1,0,0,0,0,0
+2020-11-01,tablet,google,organic,83,0,4,0,0,0,0,0
+2020-11-01,tablet,shop.googlemerchandisestore.com,referral,116,0,8,0,0,0,0,0
+2020-11-02,desktop,(data deleted),(data deleted),2481,0,244,0,20,9,9,0
+2020-11-02,desktop,(direct),(none),6287,0,614,0,24,7,7,0
+2020-11-02,desktop,<Other>,(data deleted),50,0,7,0,0,0,0,0
+2020-11-02,desktop,<Other>,<Other>,3957,0,373,0,11,2,2,0
+2020-11-02,desktop,<Other>,organic,1067,0,106,0,8,1,1,0
+2020-11-02,desktop,<Other>,referral,2390,0,185,0,14,2,2,0
+2020-11-02,desktop,google,cpc,1013,0,92,0,1,1,1,0
+2020-11-02,desktop,google,organic,9507,0,1111,0,37,6,6,0
+2020-11-02,desktop,shop.googlemerchandisestore.com,referral,2589,0,329,0,8,3,3,0
+2020-11-02,mobile,(data deleted),(data deleted),2106,0,227,0,38,3,3,0
+2020-11-02,mobile,(direct),(none),3624,0,298,0,11,4,4,0
+2020-11-02,mobile,<Other>,(data deleted),6,0,0,0,0,0,0,0
+2020-11-02,mobile,<Other>,<Other>,2022,0,167,0,2,0,0,0
+2020-11-02,mobile,<Other>,organic,413,0,28,0,0,0,0,0
+2020-11-02,mobile,<Other>,referral,1352,0,133,0,6,2,2,0
+2020-11-02,mobile,google,cpc,1080,0,107,0,4,1,1,0
+2020-11-02,mobile,google,organic,6533,0,716,0,26,3,3,0
+2020-11-02,mobile,shop.googlemerchandisestore.com,referral,1180,0,146,0,7,4,4,0
+2020-11-02,tablet,(data deleted),(data deleted),20,0,0,0,0,0,0,0
+2020-11-02,tablet,(direct),(none),86,0,3,0,0,0,0,0
+2020-11-02,tablet,<Other>,<Other>,152,0,5,0,1,1,1,0
+2020-11-02,tablet,<Other>,organic,17,0,1,0,0,0,0,0
+2020-11-02,tablet,<Other>,referral,23,0,1,0,0,0,0,0
+2020-11-02,tablet,google,cpc,175,0,24,0,1,0,0,0
+2020-11-02,tablet,google,organic,179,0,9,0,0,0,0,0
+2020-11-02,tablet,shop.googlemerchandisestore.com,referral,79,0,9,0,0,0,0,0
+2020-11-03,desktop,(data deleted),(data deleted),2086,0,230,0,13,6,6,0
+2020-11-03,desktop,(direct),(none),8633,0,817,0,24,8,8,0
+2020-11-03,desktop,<Other>,(data deleted),16,0,0,0,0,0,0,0
+2020-11-03,desktop,<Other>,<Other>,5106,0,524,0,15,4,4,0
+2020-11-03,desktop,<Other>,organic,894,0,100,0,1,0,0,0
+2020-11-03,desktop,<Other>,referral,3283,0,291,0,11,3,3,0
+2020-11-03,desktop,google,cpc,2116,0,228,0,14,1,1,0
+2020-11-03,desktop,google,organic,11168,0,1013,0,43,5,5,0
+2020-11-03,desktop,shop.googlemerchandisestore.com,referral,2849,0,281,0,13,3,3,0
+2020-11-03,mobile,(data deleted),(data deleted),2345,0,321,0,13,5,5,0
+2020-11-03,mobile,(direct),(none),5714,0,462,0,34,6,6,0
+2020-11-03,mobile,<Other>,(data deleted),176,0,0,0,0,0,0,0
+2020-11-03,mobile,<Other>,<Other>,2764,0,198,0,7,1,1,0
+2020-11-03,mobile,<Other>,organic,455,0,15,0,2,1,1,0
+2020-11-03,mobile,<Other>,referral,2182,0,172,0,8,2,2,0
+2020-11-03,mobile,google,cpc,962,0,53,0,0,0,0,0
+2020-11-03,mobile,google,organic,8467,0,906,0,29,2,2,0
+2020-11-03,mobile,shop.googlemerchandisestore.com,referral,1326,0,99,0,3,2,2,0
+2020-11-03,tablet,(data deleted),(data deleted),13,0,0,0,0,0,0,0
+2020-11-03,tablet,(direct),(none),202,0,20,0,1,0,0,0
+2020-11-03,tablet,<Other>,<Other>,138,0,3,0,0,0,0,0
+2020-11-03,tablet,<Other>,organic,42,0,0,0,0,0,0,0
+2020-11-03,tablet,<Other>,referral,70,0,1,0,0,0,0,0
+2020-11-03,tablet,google,cpc,19,0,0,0,0,0,0,0
+2020-11-03,tablet,google,organic,431,0,42,0,1,0,0,0
+2020-11-03,tablet,shop.googlemerchandisestore.com,referral,215,0,14,0,1,0,0,0
+2020-11-04,desktop,(data deleted),(data deleted),2274,0,244,0,22,5,5,0
+2020-11-04,desktop,(data deleted),referral,5,0,0,0,0,0,0,0
+2020-11-04,desktop,(direct),(none),7546,0,828,0,25,4,4,0
+2020-11-04,desktop,<Other>,(data deleted),46,0,8,0,0,0,0,0
+2020-11-04,desktop,<Other>,<Other>,5222,0,537,0,42,14,14,0
+2020-11-04,desktop,<Other>,organic,750,0,85,0,1,0,0,0
+2020-11-04,desktop,<Other>,referral,2652,0,247,0,10,2,2,0
+2020-11-04,desktop,google,cpc,1541,0,154,0,6,1,1,0
+2020-11-04,desktop,google,organic,8314,0,748,0,26,5,5,0
+2020-11-04,desktop,shop.googlemerchandisestore.com,referral,2112,0,171,0,6,2,2,0
+2020-11-04,mobile,(data deleted),(data deleted),1473,0,107,0,16,2,2,0
+2020-11-04,mobile,(direct),(none),4095,0,370,0,16,1,1,0
+2020-11-04,mobile,<Other>,(data deleted),10,0,0,0,0,0,0,0
+2020-11-04,mobile,<Other>,<Other>,2474,0,202,0,3,0,0,0
+2020-11-04,mobile,<Other>,organic,662,0,45,0,6,4,4,0
+2020-11-04,mobile,<Other>,referral,1744,0,137,0,8,3,3,0
+2020-11-04,mobile,google,cpc,894,0,57,0,3,0,0,0
+2020-11-04,mobile,google,organic,7024,0,820,0,19,2,2,0
+2020-11-04,mobile,shop.googlemerchandisestore.com,referral,1616,0,192,0,4,0,0,0
+2020-11-04,tablet,(data deleted),(data deleted),81,0,1,0,0,0,0,0
+2020-11-04,tablet,(direct),(none),134,0,8,0,0,0,0,0
+2020-11-04,tablet,<Other>,<Other>,159,0,7,0,0,0,0,0
+2020-11-04,tablet,<Other>,organic,22,0,0,0,0,0,0,0
+2020-11-04,tablet,<Other>,referral,120,0,4,0,0,0,0,0
+2020-11-04,tablet,google,cpc,73,0,13,0,0,0,0,0
+2020-11-04,tablet,google,organic,464,0,17,0,0,0,0,0
+2020-11-04,tablet,shop.googlemerchandisestore.com,referral,359,0,61,0,5,1,1,0
+2020-11-05,desktop,(data deleted),(data deleted),2319,0,196,0,16,3,3,0
+2020-11-05,desktop,(direct),(none),7071,0,746,0,12,2,2,0
+2020-11-05,desktop,<Other>,(data deleted),142,0,10,0,2,1,1,0
+2020-11-05,desktop,<Other>,<Other>,3204,0,280,0,13,3,3,0
+2020-11-05,desktop,<Other>,organic,471,0,22,0,2,0,0,0
+2020-11-05,desktop,<Other>,referral,2328,0,182,0,9,2,2,0
+2020-11-05,desktop,google,cpc,757,0,52,0,3,1,1,0
+2020-11-05,desktop,google,organic,8693,0,804,0,43,1,1,0
+2020-11-05,desktop,shop.googlemerchandisestore.com,referral,2244,0,175,0,18,3,3,0
+2020-11-05,mobile,(data deleted),(data deleted),2074,0,278,0,11,3,3,0
+2020-11-05,mobile,(direct),(none),5428,0,600,0,17,3,3,0
+2020-11-05,mobile,<Other>,<Other>,3321,0,359,0,8,0,0,0
+2020-11-05,mobile,<Other>,organic,950,0,139,0,3,0,0,0
+2020-11-05,mobile,<Other>,referral,2802,0,335,0,10,3,3,0
+2020-11-05,mobile,google,cpc,1261,0,178,0,5,0,0,0
+2020-11-05,mobile,google,organic,5844,0,545,0,11,0,0,0
+2020-11-05,mobile,shop.googlemerchandisestore.com,referral,1779,0,223,0,6,0,0,0
+2020-11-05,tablet,(data deleted),(data deleted),116,0,10,0,0,0,0,0
+2020-11-05,tablet,(direct),(none),200,0,16,0,1,1,1,0
+2020-11-05,tablet,<Other>,<Other>,147,0,8,0,1,0,0,0
+2020-11-05,tablet,<Other>,organic,37,0,1,0,0,0,0,0
+2020-11-05,tablet,<Other>,referral,175,0,15,0,1,0,0,0
+2020-11-05,tablet,google,cpc,70,0,13,0,2,0,0,0
+2020-11-05,tablet,google,organic,469,0,67,0,1,0,0,0
+2020-11-05,tablet,shop.googlemerchandisestore.com,referral,50,0,1,0,0,0,0,0
+2020-11-06,desktop,(data deleted),(data deleted),1760,0,185,0,10,2,2,0
+2020-11-06,desktop,(direct),(none),5387,0,573,0,26,7,7,0
+2020-11-06,desktop,<Other>,(data deleted),156,0,20,0,2,0,0,0
+2020-11-06,desktop,<Other>,<Other>,3618,0,413,0,21,1,1,0
+2020-11-06,desktop,<Other>,organic,454,0,21,0,1,0,0,0
+2020-11-06,desktop,<Other>,referral,2991,0,341,0,21,5,5,0
+2020-11-06,desktop,google,cpc,1271,0,142,0,5,1,1,0
+2020-11-06,desktop,google,organic,8987,0,945,0,44,9,9,0
+2020-11-06,desktop,shop.googlemerchandisestore.com,referral,2232,0,219,0,6,3,3,0
+2020-11-06,mobile,(data deleted),(data deleted),1573,0,143,0,3,1,1,0
+2020-11-06,mobile,(data deleted),referral,64,0,9,0,1,0,0,0
+2020-11-06,mobile,(direct),(none),5100,0,548,0,22,5,5,0
+2020-11-06,mobile,<Other>,(data deleted),50,0,3,0,0,0,0,0
+2020-11-06,mobile,<Other>,<Other>,2885,0,353,0,15,1,1,0
+2020-11-06,mobile,<Other>,organic,368,0,32,0,2,0,0,0
+2020-11-06,mobile,<Other>,referral,2198,0,276,0,12,2,2,0
+2020-11-06,mobile,google,cpc,441,0,44,0,0,0,0,0
+2020-11-06,mobile,google,organic,7173,0,852,0,64,16,16,0
+2020-11-06,mobile,shop.googlemerchandisestore.com,referral,1436,0,181,0,6,2,2,0
+2020-11-06,tablet,(data deleted),(data deleted),125,0,4,0,4,1,1,0
+2020-11-06,tablet,(direct),(none),152,0,3,0,0,0,0,0
+2020-11-06,tablet,<Other>,<Other>,235,0,31,0,3,1,1,0
+2020-11-06,tablet,<Other>,organic,12,0,3,0,0,0,0,0
+2020-11-06,tablet,<Other>,referral,31,0,0,0,0,0,0,0
+2020-11-06,tablet,google,organic,284,0,26,0,1,1,1,0
+2020-11-06,tablet,shop.googlemerchandisestore.com,referral,21,0,3,0,0,0,0,0
+2020-11-07,desktop,(data deleted),(data deleted),1423,0,169,0,2,1,1,0
+2020-11-07,desktop,(direct),(none),4281,0,429,0,22,4,4,0
+2020-11-07,desktop,<Other>,<Other>,1932,0,204,0,7,1,1,0
+2020-11-07,desktop,<Other>,organic,933,0,130,0,4,1,1,0
+2020-11-07,desktop,<Other>,referral,1776,0,192,0,6,1,1,0
+2020-11-07,desktop,google,cpc,827,0,73,0,7,2,2,0
+2020-11-07,desktop,google,organic,6670,0,804,0,32,5,5,0
+2020-11-07,desktop,shop.googlemerchandisestore.com,referral,1903,0,243,0,8,2,2,0
+2020-11-07,mobile,(data deleted),(data deleted),891,0,116,0,5,0,0,0
+2020-11-07,mobile,(direct),(none),3888,0,495,0,12,2,2,0
+2020-11-07,mobile,<Other>,<Other>,2044,0,182,0,14,2,2,0
+2020-11-07,mobile,<Other>,organic,784,0,145,0,2,0,0,0
+2020-11-07,mobile,<Other>,referral,1298,0,131,0,4,2,2,0
+2020-11-07,mobile,google,cpc,389,0,34,0,1,0,0,0
+2020-11-07,mobile,google,organic,4037,0,468,0,17,8,8,0
+2020-11-07,mobile,shop.googlemerchandisestore.com,referral,754,0,105,0,2,0,0,0
+2020-11-07,tablet,(data deleted),(data deleted),99,0,9,0,3,0,0,0
+2020-11-07,tablet,(direct),(none),113,0,6,0,1,0,0,0
+2020-11-07,tablet,<Other>,<Other>,25,0,0,0,0,0,0,0
+2020-11-07,tablet,<Other>,referral,21,0,0,0,0,0,0,0
+2020-11-07,tablet,google,cpc,8,0,1,0,0,0,0,0
+2020-11-07,tablet,google,organic,184,0,14,0,1,0,0,0
+2020-11-07,tablet,shop.googlemerchandisestore.com,referral,29,0,3,0,0,0,0,0
+2020-11-08,desktop,(data deleted),(data deleted),1410,0,139,0,7,4,4,0
+2020-11-08,desktop,(direct),(none),3262,0,280,0,17,2,2,0
+2020-11-08,desktop,<Other>,(data deleted),2,0,0,0,0,0,0,0
+2020-11-08,desktop,<Other>,<Other>,3754,0,469,0,19,2,2,0
+2020-11-08,desktop,<Other>,organic,325,0,25,0,0,0,0,0
+2020-11-08,desktop,<Other>,referral,2043,0,254,0,9,2,2,0
+2020-11-08,desktop,google,cpc,456,0,32,0,0,0,0,0
+2020-11-08,desktop,google,organic,5466,0,604,0,21,4,4,0
+2020-11-08,desktop,shop.googlemerchandisestore.com,referral,1139,0,96,0,3,1,1,0
+2020-11-08,mobile,(data deleted),(data deleted),462,0,53,0,0,0,0,0
+2020-11-08,mobile,(direct),(none),2982,0,357,0,11,3,3,0
+2020-11-08,mobile,<Other>,(data deleted),2,0,0,0,0,0,0,0
+2020-11-08,mobile,<Other>,<Other>,1413,0,119,0,9,3,3,0
+2020-11-08,mobile,<Other>,organic,260,0,13,0,0,0,0,0
+2020-11-08,mobile,<Other>,referral,1308,0,124,0,7,1,1,0
+2020-11-08,mobile,google,cpc,474,0,32,0,0,0,0,0
+2020-11-08,mobile,google,organic,3657,0,370,0,19,5,5,0
+2020-11-08,mobile,shop.googlemerchandisestore.com,referral,1293,0,164,0,6,3,3,0
+2020-11-08,tablet,(data deleted),(data deleted),150,0,21,0,3,2,2,0
+2020-11-08,tablet,(direct),(none),60,0,6,0,0,0,0,0
+2020-11-08,tablet,<Other>,(data deleted),2,0,0,0,0,0,0,0
+2020-11-08,tablet,<Other>,<Other>,70,0,3,0,1,0,0,0
+2020-11-08,tablet,<Other>,referral,10,0,0,0,0,0,0,0
+2020-11-08,tablet,google,organic,101,0,4,0,0,0,0,0
+2020-11-08,tablet,shop.googlemerchandisestore.com,referral,36,0,1,0,0,0,0,0
+2020-11-09,desktop,(data deleted),(data deleted),1999,0,158,0,15,6,6,0
+2020-11-09,desktop,(direct),(none),6735,0,664,0,36,8,8,0
+2020-11-09,desktop,<Other>,(data deleted),17,0,0,0,0,0,0,0
+2020-11-09,desktop,<Other>,<Other>,3491,0,390,0,12,3,3,0
+2020-11-09,desktop,<Other>,organic,522,0,30,0,1,1,1,0
+2020-11-09,desktop,<Other>,referral,2381,0,240,0,7,3,3,0
+2020-11-09,desktop,google,cpc,1235,0,133,0,4,0,0,0
+2020-11-09,desktop,google,organic,6994,0,568,0,33,6,6,0
+2020-11-09,desktop,shop.googlemerchandisestore.com,referral,1959,0,208,0,9,2,2,0
+2020-11-09,mobile,(data deleted),(data deleted),1000,0,123,0,9,6,6,0
+2020-11-09,mobile,(direct),(none),4849,0,523,0,25,5,5,0
+2020-11-09,mobile,<Other>,(data deleted),6,0,0,0,0,0,0,0
+2020-11-09,mobile,<Other>,<Other>,2475,0,259,0,12,3,3,0
+2020-11-09,mobile,<Other>,organic,635,0,90,0,1,0,0,0
+2020-11-09,mobile,<Other>,referral,1232,0,115,0,8,0,0,0
+2020-11-09,mobile,google,cpc,557,0,63,0,0,0,0,0
+2020-11-09,mobile,google,organic,5964,0,548,0,33,6,6,0
+2020-11-09,mobile,shop.googlemerchandisestore.com,referral,2095,0,286,0,6,3,3,0
+2020-11-09,tablet,(data deleted),(data deleted),24,0,0,0,0,0,0,0
+2020-11-09,tablet,(direct),(none),176,0,15,0,0,0,0,0
+2020-11-09,tablet,<Other>,(data deleted),2,0,0,0,0,0,0,0
+2020-11-09,tablet,<Other>,<Other>,76,0,5,0,0,0,0,0
+2020-11-09,tablet,<Other>,organic,50,0,7,0,0,0,0,0
+2020-11-09,tablet,<Other>,referral,25,0,2,0,0,0,0,0
+2020-11-09,tablet,google,cpc,13,0,0,0,0,0,0,0
+2020-11-09,tablet,google,organic,196,0,2,0,0,0,0,0
+2020-11-09,tablet,shop.googlemerchandisestore.com,referral,48,0,0,0,0,0,0,0
+2020-11-10,desktop,(data deleted),(data deleted),1785,0,221,0,9,2,2,0
+2020-11-10,desktop,(direct),(none),7566,0,833,0,51,13,13,0
+2020-11-10,desktop,<Other>,(data deleted),152,0,15,0,2,0,0,0
+2020-11-10,desktop,<Other>,<Other>,4966,0,547,0,25,6,6,0
+2020-11-10,desktop,<Other>,organic,695,0,52,0,2,0,0,0
+2020-11-10,desktop,<Other>,referral,2907,0,334,0,13,2,2,0
+2020-11-10,desktop,google,cpc,994,0,90,0,4,0,0,0
+2020-11-10,desktop,google,organic,8196,0,791,0,35,9,9,0
+2020-11-10,desktop,shop.googlemerchandisestore.com,referral,2467,0,260,0,16,3,3,0
+2020-11-10,mobile,(data deleted),(data deleted),1189,0,91,0,12,6,6,0
+2020-11-10,mobile,(direct),(none),4557,0,472,0,22,3,3,0
+2020-11-10,mobile,<Other>,(data deleted),21,0,3,0,0,0,0,0
+2020-11-10,mobile,<Other>,<Other>,2308,0,175,0,16,4,4,0
+2020-11-10,mobile,<Other>,organic,550,0,25,0,4,2,2,0
+2020-11-10,mobile,<Other>,referral,2217,0,239,0,7,2,2,0
+2020-11-10,mobile,google,cpc,1404,0,192,0,6,2,2,0
+2020-11-10,mobile,google,organic,6502,0,664,0,22,6,6,1
+2020-11-10,mobile,shop.googlemerchandisestore.com,referral,2069,0,179,0,19,4,4,0
+2020-11-10,tablet,(data deleted),(data deleted),40,0,1,0,0,0,0,0
+2020-11-10,tablet,(direct),(none),44,0,1,0,0,0,0,0
+2020-11-10,tablet,<Other>,<Other>,146,0,8,0,1,0,0,0
+2020-11-10,tablet,<Other>,referral,49,0,2,0,0,0,0,0
+2020-11-10,tablet,google,cpc,13,0,0,0,0,0,0,0
+2020-11-10,tablet,google,organic,288,0,22,0,0,0,0,0
+2020-11-10,tablet,shop.googlemerchandisestore.com,referral,70,0,5,0,0,0,0,0
+2020-11-11,desktop,(data deleted),(data deleted),2264,0,305,0,14,4,3,0
+2020-11-11,desktop,(direct),(none),6042,0,552,0,29,5,4,0
+2020-11-11,desktop,<Other>,(data deleted),18,0,0,0,0,0,0,0
+2020-11-11,desktop,<Other>,<Other>,4043,0,342,0,19,6,2,0
+2020-11-11,desktop,<Other>,organic,1288,0,171,0,2,0,0,0
+2020-11-11,desktop,<Other>,referral,2896,0,270,0,16,8,6,0
+2020-11-11,desktop,google,cpc,1200,0,118,0,4,2,2,0
+2020-11-11,desktop,google,organic,8883,0,825,0,37,7,1,0
+2020-11-11,desktop,shop.googlemerchandisestore.com,referral,3240,0,387,0,19,5,2,0
+2020-11-11,mobile,(data deleted),(data deleted),1859,0,236,0,11,5,4,1
+2020-11-11,mobile,(direct),(none),5092,0,555,0,28,8,4,0
+2020-11-11,mobile,<Other>,(data deleted),6,0,0,0,0,0,0,0
+2020-11-11,mobile,<Other>,<Other>,2924,0,339,0,10,1,0,0
+2020-11-11,mobile,<Other>,organic,441,0,17,0,4,2,2,0
+2020-11-11,mobile,<Other>,referral,1942,0,177,0,9,2,2,0
+2020-11-11,mobile,google,cpc,1225,0,119,0,5,1,1,0
+2020-11-11,mobile,google,organic,6453,0,722,0,35,7,2,0
+2020-11-11,mobile,shop.googlemerchandisestore.com,referral,875,0,51,0,3,0,0,0
+2020-11-11,tablet,(data deleted),(data deleted),19,0,0,0,0,0,0,0
+2020-11-11,tablet,(direct),(none),318,0,31,0,2,1,1,0
+2020-11-11,tablet,<Other>,(data deleted),12,0,3,0,0,0,0,0
+2020-11-11,tablet,<Other>,<Other>,75,0,1,0,0,0,0,0
+2020-11-11,tablet,<Other>,organic,35,0,1,0,0,0,0,0
+2020-11-11,tablet,<Other>,referral,171,0,21,0,0,0,0,0
+2020-11-11,tablet,google,cpc,23,0,1,0,0,0,0,0
+2020-11-11,tablet,google,organic,575,0,78,0,1,0,0,0
+2020-11-11,tablet,shop.googlemerchandisestore.com,referral,22,0,0,0,0,0,0,0
+2020-11-12,desktop,(data deleted),(data deleted),1622,0,192,0,15,3,0,0
+2020-11-12,desktop,(direct),(none),7266,0,754,0,38,7,0,0
+2020-11-12,desktop,<Other>,(data deleted),19,0,0,0,0,0,0,0
+2020-11-12,desktop,<Other>,<Other>,3748,0,315,0,27,2,0,0
+2020-11-12,desktop,<Other>,organic,509,0,27,0,0,0,0,0
+2020-11-12,desktop,<Other>,referral,2435,0,209,0,14,3,0,0
+2020-11-12,desktop,google,cpc,858,0,67,0,3,0,0,0
+2020-11-12,desktop,google,organic,9585,0,1020,0,62,7,0,0
+2020-11-12,desktop,shop.googlemerchandisestore.com,referral,3185,0,374,0,29,8,1,0
+2020-11-12,mobile,(data deleted),(data deleted),1282,0,136,0,9,1,0,0
+2020-11-12,mobile,(direct),(none),3813,0,330,0,35,4,0,0
+2020-11-12,mobile,<Other>,(data deleted),10,0,1,0,0,0,0,0
+2020-11-12,mobile,<Other>,<Other>,3247,0,367,0,33,4,0,0
+2020-11-12,mobile,<Other>,organic,415,0,42,0,3,0,0,0
+2020-11-12,mobile,<Other>,referral,2182,0,215,0,14,1,0,0
+2020-11-12,mobile,google,cpc,837,0,96,0,4,1,0,0
+2020-11-12,mobile,google,organic,5753,0,536,0,43,4,0,0
+2020-11-12,mobile,shop.googlemerchandisestore.com,referral,1841,0,188,0,26,9,0,0
+2020-11-12,tablet,(data deleted),(data deleted),48,0,12,0,0,0,0,0
+2020-11-12,tablet,(direct),(none),110,0,7,0,0,0,0,0
+2020-11-12,tablet,<Other>,<Other>,88,0,11,0,0,0,0,0
+2020-11-12,tablet,<Other>,organic,13,0,0,0,0,0,0,0
+2020-11-12,tablet,<Other>,referral,85,0,2,0,0,0,0,0
+2020-11-12,tablet,google,cpc,28,0,0,0,0,0,0,0
+2020-11-12,tablet,google,organic,97,0,5,0,0,0,0,0
+2020-11-12,tablet,shop.googlemerchandisestore.com,referral,90,0,19,0,0,0,0,0
+2020-11-13,desktop,(data deleted),(data deleted),1776,0,133,0,40,9,0,0
+2020-11-13,desktop,(direct),(none),7850,0,845,0,103,16,0,0
+2020-11-13,desktop,<Other>,(data deleted),17,0,1,0,0,0,0,0
+2020-11-13,desktop,<Other>,<Other>,4454,0,449,0,75,10,0,0
+2020-11-13,desktop,<Other>,organic,590,0,57,0,14,1,0,0
+2020-11-13,desktop,<Other>,referral,3250,0,363,0,26,5,0,0
+2020-11-13,desktop,google,cpc,610,0,19,0,2,0,0,0
+2020-11-13,desktop,google,organic,8523,0,875,0,66,7,0,0
+2020-11-13,desktop,shop.googlemerchandisestore.com,referral,2945,0,326,0,44,6,0,0
+2020-11-13,mobile,(data deleted),(data deleted),1930,0,238,0,58,8,0,0
+2020-11-13,mobile,(direct),(none),3483,0,269,0,37,3,0,0
+2020-11-13,mobile,<Other>,(data deleted),2,0,0,0,0,0,0,0
+2020-11-13,mobile,<Other>,<Other>,2710,0,277,0,27,4,0,0
+2020-11-13,mobile,<Other>,organic,502,0,66,0,10,1,0,0
+2020-11-13,mobile,<Other>,referral,1550,0,174,0,5,0,0,0
+2020-11-13,mobile,google,cpc,382,0,10,0,2,0,0,0
+2020-11-13,mobile,google,organic,6887,0,794,0,69,8,0,0
+2020-11-13,mobile,shop.googlemerchandisestore.com,referral,1019,0,86,0,13,1,0,0
+2020-11-13,tablet,(data deleted),(data deleted),22,0,1,0,0,0,0,0
+2020-11-13,tablet,(direct),(none),227,0,29,0,4,0,0,0
+2020-11-13,tablet,<Other>,(data deleted),9,0,0,0,0,0,0,0
+2020-11-13,tablet,<Other>,<Other>,275,0,42,0,0,0,0,0
+2020-11-13,tablet,<Other>,organic,53,0,3,0,2,0,0,0
+2020-11-13,tablet,<Other>,referral,116,0,8,0,2,0,0,0
+2020-11-13,tablet,google,cpc,85,0,7,0,0,0,0,0
+2020-11-13,tablet,google,organic,1028,0,208,0,6,0,0,0
+2020-11-13,tablet,shop.googlemerchandisestore.com,referral,63,0,1,0,0,0,0,0
+2020-11-14,desktop,(data deleted),(data deleted),1189,0,92,0,18,3,0,0
+2020-11-14,desktop,(direct),(none),5057,0,599,0,32,2,0,0
+2020-11-14,desktop,<Other>,<Other>,2881,0,259,0,44,5,0,0
+2020-11-14,desktop,<Other>,organic,299,0,18,0,0,0,0,0
+2020-11-14,desktop,<Other>,referral,2313,0,241,0,26,3,0,0
+2020-11-14,desktop,google,cpc,815,0,92,0,6,0,0,0
+2020-11-14,desktop,google,organic,6808,0,748,0,46,3,0,0
+2020-11-14,desktop,shop.googlemerchandisestore.com,referral,1191,0,73,0,16,2,0,0
+2020-11-14,mobile,(data deleted),(data deleted),866,0,90,0,22,2,0,0
+2020-11-14,mobile,(direct),(none),2209,0,213,0,22,3,0,0
+2020-11-14,mobile,<Other>,(data deleted),13,0,3,0,0,0,0,0
+2020-11-14,mobile,<Other>,<Other>,1766,0,155,0,22,2,0,0
+2020-11-14,mobile,<Other>,organic,295,0,24,0,4,0,0,0
+2020-11-14,mobile,<Other>,referral,1006,0,73,0,4,1,0,0
+2020-11-14,mobile,google,cpc,403,0,16,0,2,0,0,0
+2020-11-14,mobile,google,organic,4900,0,587,0,36,1,0,0
+2020-11-14,mobile,shop.googlemerchandisestore.com,referral,1328,0,159,0,14,3,0,0
+2020-11-14,tablet,(data deleted),(data deleted),13,0,0,0,0,0,0,0
+2020-11-14,tablet,(direct),(none),163,0,11,0,2,0,0,0
+2020-11-14,tablet,<Other>,<Other>,76,0,6,0,0,0,0,0
+2020-11-14,tablet,<Other>,organic,46,0,0,0,0,0,0,0
+2020-11-14,tablet,<Other>,referral,15,0,0,0,0,0,0,0
+2020-11-14,tablet,google,cpc,15,0,0,0,0,0,0,0
+2020-11-14,tablet,google,organic,296,0,44,0,0,0,0,0
+2020-11-14,tablet,shop.googlemerchandisestore.com,referral,76,0,6,0,4,0,0,0
+2020-11-15,desktop,(data deleted),(data deleted),917,0,67,0,18,2,0,0
+2020-11-15,desktop,(direct),(none),3615,0,294,0,44,3,0,0
+2020-11-15,desktop,<Other>,<Other>,2641,0,279,0,16,0,0,0
+2020-11-15,desktop,<Other>,organic,694,0,127,0,6,2,0,0
+2020-11-15,desktop,<Other>,referral,1673,0,153,0,30,2,0,0
+2020-11-15,desktop,google,cpc,469,0,31,0,2,1,0,0
+2020-11-15,desktop,google,organic,5530,0,588,0,62,2,0,0
+2020-11-15,desktop,shop.googlemerchandisestore.com,referral,1778,0,208,0,22,1,0,0
+2020-11-15,mobile,(data deleted),(data deleted),642,0,75,0,14,1,0,0
+2020-11-15,mobile,(direct),(none),2038,0,124,0,10,1,0,0
+2020-11-15,mobile,<Other>,(data deleted),16,0,1,0,0,0,0,0
+2020-11-15,mobile,<Other>,<Other>,2157,0,185,0,22,1,0,0
+2020-11-15,mobile,<Other>,organic,154,0,10,0,0,0,0,0
+2020-11-15,mobile,<Other>,referral,1515,0,211,0,4,0,0,0
+2020-11-15,mobile,google,cpc,625,0,81,0,0,0,0,0
+2020-11-15,mobile,google,organic,5044,0,606,0,56,2,0,0
+2020-11-15,mobile,shop.googlemerchandisestore.com,referral,928,0,82,0,12,2,0,0
+2020-11-15,tablet,(data deleted),(data deleted),105,0,21,0,0,0,0,0
+2020-11-15,tablet,(direct),(none),109,0,5,0,0,0,0,0
+2020-11-15,tablet,<Other>,<Other>,35,0,1,0,0,0,0,0
+2020-11-15,tablet,<Other>,referral,415,0,62,0,6,1,0,0
+2020-11-15,tablet,google,organic,72,0,0,0,0,0,0,0
+2020-11-15,tablet,shop.googlemerchandisestore.com,referral,23,0,1,0,0,0,0,0
+2020-11-16,desktop,(data deleted),(data deleted),2094,0,156,6,46,5,0,0
+2020-11-16,desktop,(direct),(none),7402,0,754,20,110,13,0,0
+2020-11-16,desktop,<Other>,(data deleted),12,0,3,0,0,0,0,0
+2020-11-16,desktop,<Other>,<Other>,4123,0,398,17,26,5,0,0
+2020-11-16,desktop,<Other>,organic,545,0,53,1,8,0,0,0
+2020-11-16,desktop,<Other>,referral,2119,0,177,3,28,2,0,0
+2020-11-16,desktop,google,cpc,1188,0,107,0,8,2,0,0
+2020-11-16,desktop,google,organic,7645,0,675,15,60,8,0,0
+2020-11-16,desktop,shop.googlemerchandisestore.com,referral,2885,0,282,2,26,2,0,0
+2020-11-16,mobile,(data deleted),(data deleted),1280,0,151,0,10,1,0,0
+2020-11-16,mobile,(direct),(none),4372,0,398,7,40,6,0,0
+2020-11-16,mobile,<Other>,(data deleted),19,0,1,0,0,0,0,0
+2020-11-16,mobile,<Other>,<Other>,3263,0,343,5,22,3,0,0
+2020-11-16,mobile,<Other>,organic,428,0,69,1,0,0,0,0
+2020-11-16,mobile,<Other>,referral,1837,0,212,0,20,1,0,0
+2020-11-16,mobile,google,cpc,793,0,67,0,16,1,0,0
+2020-11-16,mobile,google,organic,6477,0,696,7,82,12,0,0
+2020-11-16,mobile,shop.googlemerchandisestore.com,referral,1870,0,212,0,26,5,0,0
+2020-11-16,tablet,(data deleted),(data deleted),99,0,11,0,0,0,0,0
+2020-11-16,tablet,(direct),(none),384,0,40,0,4,2,0,0
+2020-11-16,tablet,<Other>,(data deleted),9,0,0,0,0,0,0,0
+2020-11-16,tablet,<Other>,<Other>,160,0,7,0,8,1,0,0
+2020-11-16,tablet,<Other>,organic,16,0,6,0,0,0,0,0
+2020-11-16,tablet,<Other>,referral,27,0,0,0,0,0,0,0
+2020-11-16,tablet,google,cpc,37,0,5,0,0,0,0,0
+2020-11-16,tablet,google,organic,162,0,6,1,2,0,0,0
+2020-11-16,tablet,shop.googlemerchandisestore.com,referral,74,0,7,0,0,0,0,0
+2020-11-17,desktop,(data deleted),(data deleted),3235,0,340,34,63,9,0,0
+2020-11-17,desktop,(direct),(none),7460,0,822,68,70,14,0,0
+2020-11-17,desktop,<Other>,(data deleted),4,0,1,0,0,0,0,0
+2020-11-17,desktop,<Other>,<Other>,4662,0,491,44,46,6,0,0
+2020-11-17,desktop,<Other>,organic,1243,0,141,10,12,1,0,0
+2020-11-17,desktop,<Other>,referral,3373,0,331,37,37,6,0,0
+2020-11-17,desktop,google,cpc,1455,0,158,4,16,0,0,0
+2020-11-17,desktop,google,organic,8203,0,693,57,58,11,0,0
+2020-11-17,desktop,shop.googlemerchandisestore.com,referral,3470,0,313,47,75,9,0,0
+2020-11-17,mobile,(data deleted),(data deleted),2096,0,244,22,31,7,0,0
+2020-11-17,mobile,(direct),(none),5868,0,595,35,64,9,0,0
+2020-11-17,mobile,<Other>,(data deleted),71,0,6,1,2,1,0,0
+2020-11-17,mobile,<Other>,<Other>,3267,0,375,31,22,6,0,0
+2020-11-17,mobile,<Other>,organic,680,0,95,4,3,0,0,0
+2020-11-17,mobile,<Other>,referral,1993,0,174,18,12,1,0,0
+2020-11-17,mobile,google,cpc,544,0,37,1,2,0,0,0
+2020-11-17,mobile,google,organic,8559,0,846,83,141,16,0,0
+2020-11-17,mobile,shop.googlemerchandisestore.com,referral,2204,0,249,31,25,2,0,0
+2020-11-17,tablet,(data deleted),(data deleted),102,0,5,0,6,0,0,0
+2020-11-17,tablet,(direct),(none),496,0,78,0,6,0,0,0
+2020-11-17,tablet,<Other>,<Other>,82,0,3,3,0,0,0,0
+2020-11-17,tablet,<Other>,organic,47,0,1,1,0,0,0,0
+2020-11-17,tablet,<Other>,referral,54,0,0,0,0,0,0,0
+2020-11-17,tablet,google,cpc,68,0,5,0,0,0,0,0
+2020-11-17,tablet,google,organic,473,0,71,3,2,0,0,0
+2020-11-17,tablet,shop.googlemerchandisestore.com,referral,80,0,3,1,0,0,0,0
+2020-11-18,desktop,(data deleted),(data deleted),2602,0,258,21,27,7,0,0
+2020-11-18,desktop,(direct),(none),7720,0,766,73,44,12,0,0
+2020-11-18,desktop,<Other>,(data deleted),21,0,1,0,0,0,0,0
+2020-11-18,desktop,<Other>,<Other>,3849,0,360,93,33,4,0,0
+2020-11-18,desktop,<Other>,organic,413,0,26,1,0,0,0,0
+2020-11-18,desktop,<Other>,referral,4091,0,452,47,49,5,0,0
+2020-11-18,desktop,google,cpc,824,0,44,2,14,2,0,0
+2020-11-18,desktop,google,organic,8656,0,708,98,26,5,0,0
+2020-11-18,desktop,shop.googlemerchandisestore.com,referral,2859,0,285,27,19,1,0,0
+2020-11-18,mobile,(data deleted),(data deleted),1275,0,129,26,10,3,0,0
+2020-11-18,mobile,(direct),(none),6675,0,762,52,42,9,0,0
+2020-11-18,mobile,<Other>,(data deleted),20,0,0,0,0,0,0,0
+2020-11-18,mobile,<Other>,<Other>,2602,0,227,10,9,2,0,0
+2020-11-18,mobile,<Other>,organic,1111,0,153,7,7,2,0,0
+2020-11-18,mobile,<Other>,referral,2290,0,230,24,7,0,0,0
+2020-11-18,mobile,google,cpc,1084,0,105,31,10,1,0,0
+2020-11-18,mobile,google,organic,6275,0,528,50,42,10,1,1
+2020-11-18,mobile,shop.googlemerchandisestore.com,referral,1671,0,127,54,12,5,0,0
+2020-11-18,tablet,(data deleted),(data deleted),85,0,10,0,0,0,0,0
+2020-11-18,tablet,(direct),(none),168,0,20,0,0,0,0,0
+2020-11-18,tablet,<Other>,<Other>,122,0,4,0,0,0,0,0
+2020-11-18,tablet,<Other>,referral,439,0,76,3,2,0,0,0
+2020-11-18,tablet,google,cpc,12,0,0,0,0,0,0,0
+2020-11-18,tablet,google,organic,237,0,7,0,0,0,0,0
+2020-11-18,tablet,shop.googlemerchandisestore.com,referral,355,0,60,2,1,0,0,0
+2020-11-19,desktop,(data deleted),(data deleted),2526,0,265,14,16,5,1,1
+2020-11-19,desktop,(direct),(none),7106,0,665,29,32,7,1,1
+2020-11-19,desktop,<Other>,(data deleted),8,0,1,0,0,0,0,0
+2020-11-19,desktop,<Other>,<Other>,4283,0,413,40,21,5,0,0
+2020-11-19,desktop,<Other>,organic,860,0,79,0,10,2,0,0
+2020-11-19,desktop,<Other>,referral,3758,0,433,5,24,7,0,0
+2020-11-19,desktop,google,cpc,1429,0,134,0,8,1,1,1
+2020-11-19,desktop,google,organic,9556,0,961,27,41,9,0,0
+2020-11-19,desktop,shop.googlemerchandisestore.com,referral,2945,0,253,5,36,9,1,1
+2020-11-19,mobile,(data deleted),(data deleted),1535,0,149,0,26,4,0,0
+2020-11-19,mobile,(direct),(none),4710,0,384,1,47,11,1,1
+2020-11-19,mobile,<Other>,(data deleted),8,0,0,0,0,0,0,0
+2020-11-19,mobile,<Other>,<Other>,2627,0,255,16,10,6,0,0
+2020-11-19,mobile,<Other>,organic,334,0,18,9,0,0,0,0
+2020-11-19,mobile,<Other>,referral,2414,0,257,1,14,6,0,0
+2020-11-19,mobile,google,cpc,668,0,43,0,0,0,0,0
+2020-11-19,mobile,google,organic,6267,0,536,40,41,8,0,0
+2020-11-19,mobile,shop.googlemerchandisestore.com,referral,1217,0,79,0,5,4,0,0
+2020-11-19,tablet,(data deleted),(data deleted),63,0,3,0,0,0,0,0
+2020-11-19,tablet,(direct),(none),189,0,9,0,1,0,0,0
+2020-11-19,tablet,<Other>,<Other>,150,0,14,0,0,0,0,0
+2020-11-19,tablet,<Other>,organic,18,0,4,0,0,0,0,0
+2020-11-19,tablet,<Other>,referral,62,0,4,0,0,0,0,0
+2020-11-19,tablet,google,cpc,55,0,1,0,0,0,0,0
+2020-11-19,tablet,google,organic,728,0,118,0,2,0,0,0
+2020-11-19,tablet,shop.googlemerchandisestore.com,referral,416,0,76,0,1,0,0,0
+2020-11-20,desktop,(data deleted),(data deleted),2499,0,284,0,26,10,4,4
+2020-11-20,desktop,(direct),(none),6605,0,632,0,43,16,0,0
+2020-11-20,desktop,<Other>,(data deleted),274,0,32,0,3,0,0,0
+2020-11-20,desktop,<Other>,<Other>,3990,0,437,0,10,4,0,0
+2020-11-20,desktop,<Other>,organic,1086,0,105,0,1,0,0,0
+2020-11-20,desktop,<Other>,referral,2456,0,182,9,14,4,0,0
+2020-11-20,desktop,google,cpc,1209,0,132,0,7,4,0,0
+2020-11-20,desktop,google,organic,9958,0,974,0,42,13,1,1
+2020-11-20,desktop,shop.googlemerchandisestore.com,referral,2620,0,282,0,16,6,0,0
+2020-11-20,mobile,(data deleted),(data deleted),1926,0,208,0,22,10,0,0
+2020-11-20,mobile,(direct),(none),6267,0,708,4,36,10,2,2
+2020-11-20,mobile,<Other>,<Other>,2838,0,253,0,11,4,0,0
+2020-11-20,mobile,<Other>,organic,355,0,22,0,0,0,0,0
+2020-11-20,mobile,<Other>,referral,2445,0,256,0,19,9,1,1
+2020-11-20,mobile,google,cpc,1047,0,122,0,4,1,1,1
+2020-11-20,mobile,google,organic,8981,0,1027,2,46,21,3,3
+2020-11-20,mobile,shop.googlemerchandisestore.com,referral,2561,0,365,0,15,6,0,0
+2020-11-20,tablet,(data deleted),(data deleted),22,0,1,0,0,0,0,0
+2020-11-20,tablet,(direct),(none),266,0,21,0,3,0,0,0
+2020-11-20,tablet,<Other>,<Other>,45,0,2,0,0,0,0,0
+2020-11-20,tablet,<Other>,organic,44,0,0,0,0,0,0,0
+2020-11-20,tablet,<Other>,referral,85,0,5,0,0,0,0,0
+2020-11-20,tablet,google,cpc,2,0,0,0,0,0,0,0
+2020-11-20,tablet,google,organic,276,0,30,0,0,0,0,0
+2020-11-20,tablet,shop.googlemerchandisestore.com,referral,37,0,2,0,0,0,0,0
+2020-11-21,desktop,(data deleted),(data deleted),1198,0,122,0,4,3,1,1
+2020-11-21,desktop,(direct),(none),5813,0,587,0,16,4,0,0
+2020-11-21,desktop,<Other>,(data deleted),10,0,0,0,0,0,0,0
+2020-11-21,desktop,<Other>,<Other>,3895,0,438,0,15,6,0,0
+2020-11-21,desktop,<Other>,organic,838,0,90,0,6,0,0,0
+2020-11-21,desktop,<Other>,referral,2579,0,282,0,19,12,0,0
+2020-11-21,desktop,google,cpc,1195,0,123,0,5,0,0,0
+2020-11-21,desktop,google,organic,6899,0,669,0,31,10,0,0
+2020-11-21,desktop,shop.googlemerchandisestore.com,referral,1438,0,112,0,6,2,0,0
+2020-11-21,mobile,(data deleted),(data deleted),1070,0,145,0,3,2,0,0
+2020-11-21,mobile,(direct),(none),3580,0,354,0,11,6,0,0
+2020-11-21,mobile,<Other>,(data deleted),72,0,3,0,0,0,0,0
+2020-11-21,mobile,<Other>,<Other>,1970,0,151,0,5,2,0,0
+2020-11-21,mobile,<Other>,organic,544,0,42,0,0,0,0,0
+2020-11-21,mobile,<Other>,referral,1295,0,83,0,8,4,0,0
+2020-11-21,mobile,google,cpc,1148,0,113,0,8,8,0,0
+2020-11-21,mobile,google,organic,5456,0,591,0,24,4,0,0
+2020-11-21,mobile,shop.googlemerchandisestore.com,referral,1573,0,163,0,8,1,1,1
+2020-11-21,tablet,(data deleted),(data deleted),167,0,8,0,0,0,0,0
+2020-11-21,tablet,(direct),(none),273,0,24,0,2,2,0,0
+2020-11-21,tablet,<Other>,<Other>,343,0,56,0,1,0,0,0
+2020-11-21,tablet,<Other>,organic,42,0,1,0,0,0,0,0
+2020-11-21,tablet,<Other>,referral,61,0,5,0,0,0,0,0
+2020-11-21,tablet,google,cpc,30,0,0,0,0,0,0,0
+2020-11-21,tablet,google,organic,435,0,50,0,2,2,0,0
+2020-11-21,tablet,shop.googlemerchandisestore.com,referral,56,0,2,0,0,0,0,0
+2020-11-22,desktop,(data deleted),(data deleted),1158,0,129,0,6,7,1,1
+2020-11-22,desktop,(direct),(none),4962,0,509,0,22,8,0,0
+2020-11-22,desktop,<Other>,(data deleted),138,0,5,0,1,0,0,0
+2020-11-22,desktop,<Other>,<Other>,2161,0,161,0,8,0,0,0
+2020-11-22,desktop,<Other>,organic,402,0,24,0,3,0,0,0
+2020-11-22,desktop,<Other>,referral,1696,0,146,0,9,2,0,0
+2020-11-22,desktop,google,cpc,1167,0,156,0,2,0,0,0
+2020-11-22,desktop,google,organic,8309,0,995,0,25,8,0,0
+2020-11-22,desktop,shop.googlemerchandisestore.com,referral,1792,0,169,0,12,6,0,0
+2020-11-22,mobile,(data deleted),(data deleted),894,0,78,0,6,4,0,0
+2020-11-22,mobile,(direct),(none),3667,0,350,0,26,4,0,0
+2020-11-22,mobile,<Other>,<Other>,1754,0,165,0,8,3,1,1
+2020-11-22,mobile,<Other>,organic,274,0,20,0,0,0,0,0
+2020-11-22,mobile,<Other>,referral,1303,0,146,0,3,0,0,0
+2020-11-22,mobile,google,cpc,601,0,73,0,1,0,0,0
+2020-11-22,mobile,google,organic,4967,0,529,0,30,16,0,0
+2020-11-22,mobile,shop.googlemerchandisestore.com,referral,665,0,45,0,2,2,0,0
+2020-11-22,tablet,(data deleted),(data deleted),47,0,1,0,2,0,0,0
+2020-11-22,tablet,(direct),(none),70,0,0,0,0,0,0,0
+2020-11-22,tablet,<Other>,<Other>,57,0,7,0,0,0,0,0
+2020-11-22,tablet,<Other>,organic,25,0,2,0,0,0,0,0
+2020-11-22,tablet,<Other>,referral,56,0,0,0,0,0,0,0
+2020-11-22,tablet,google,cpc,10,0,0,0,0,0,0,0
+2020-11-22,tablet,google,organic,161,0,15,0,0,0,0,0
+2020-11-22,tablet,shop.googlemerchandisestore.com,referral,110,0,12,0,0,0,0,0
+2020-11-23,desktop,(data deleted),(data deleted),2170,0,202,0,19,12,0,0
+2020-11-23,desktop,(direct),(none),7315,0,712,0,29,11,1,1
+2020-11-23,desktop,<Other>,(data deleted),9,0,0,0,0,0,0,0
+2020-11-23,desktop,<Other>,<Other>,3786,0,337,0,12,6,0,0
+2020-11-23,desktop,<Other>,organic,780,0,88,0,2,0,0,0
+2020-11-23,desktop,<Other>,referral,2923,0,316,0,15,6,0,0
+2020-11-23,desktop,google,cpc,1272,0,129,0,3,2,0,0
+2020-11-23,desktop,google,organic,10501,0,1051,0,55,24,0,0
+2020-11-23,desktop,shop.googlemerchandisestore.com,referral,2556,0,276,0,20,12,0,0
+2020-11-23,mobile,(data deleted),(data deleted),1739,0,193,0,8,6,0,0
+2020-11-23,mobile,(direct),(none),4289,0,380,0,18,12,0,0
+2020-11-23,mobile,<Other>,(data deleted),6,0,0,0,0,0,0,0
+2020-11-23,mobile,<Other>,<Other>,3140,0,260,0,26,20,0,0
+2020-11-23,mobile,<Other>,organic,311,0,19,0,0,0,0,0
+2020-11-23,mobile,<Other>,referral,1638,0,106,0,15,4,0,0
+2020-11-23,mobile,google,cpc,915,0,88,0,6,4,0,0
+2020-11-23,mobile,google,organic,6533,0,628,0,22,11,1,1
+2020-11-23,mobile,shop.googlemerchandisestore.com,referral,1492,0,111,0,12,4,0,0
+2020-11-23,tablet,(data deleted),(data deleted),14,0,1,0,0,0,0,0
+2020-11-23,tablet,(direct),(none),166,0,2,0,0,0,0,0
+2020-11-23,tablet,<Other>,<Other>,94,0,10,0,0,0,0,0
+2020-11-23,tablet,<Other>,organic,14,0,0,0,0,0,0,0
+2020-11-23,tablet,<Other>,referral,88,0,11,0,0,0,0,0
+2020-11-23,tablet,google,cpc,31,0,3,0,1,0,0,0
+2020-11-23,tablet,google,organic,844,0,115,0,9,3,1,1
+2020-11-23,tablet,shop.googlemerchandisestore.com,referral,218,0,32,0,5,4,0,0
+2020-11-24,desktop,(data deleted),(data deleted),2587,0,289,0,23,12,0,0
+2020-11-24,desktop,(direct),(none),8314,0,906,0,53,25,0,0
+2020-11-24,desktop,<Other>,(data deleted),16,0,7,0,0,0,0,0
+2020-11-24,desktop,<Other>,<Other>,4606,0,444,0,30,6,0,0
+2020-11-24,desktop,<Other>,organic,1087,0,98,0,8,6,0,0
+2020-11-24,desktop,<Other>,referral,3388,0,372,0,11,2,0,0
+2020-11-24,desktop,google,cpc,1306,0,136,0,7,2,0,0
+2020-11-24,desktop,google,organic,10900,0,1009,0,60,24,1,1
+2020-11-24,desktop,shop.googlemerchandisestore.com,referral,3513,0,399,0,23,8,0,0
+2020-11-24,mobile,(data deleted),(data deleted),2525,0,348,0,17,10,0,0
+2020-11-24,mobile,(direct),(none),5537,0,576,0,30,13,0,0
+2020-11-24,mobile,<Other>,(data deleted),26,0,4,0,0,0,0,0
+2020-11-24,mobile,<Other>,<Other>,2769,0,213,0,18,5,0,0
+2020-11-24,mobile,<Other>,organic,775,0,98,0,5,1,0,0
+2020-11-24,mobile,<Other>,referral,3053,0,278,0,35,11,0,0
+2020-11-24,mobile,google,cpc,1051,0,139,0,3,0,0,0
+2020-11-24,mobile,google,organic,6974,0,763,0,24,14,0,0
+2020-11-24,mobile,shop.googlemerchandisestore.com,referral,2996,0,357,0,14,7,1,1
+2020-11-24,tablet,(data deleted),(data deleted),56,0,6,0,0,0,0,0
+2020-11-24,tablet,(direct),(none),151,0,6,0,0,0,0,0
+2020-11-24,tablet,<Other>,<Other>,163,0,18,0,2,1,0,0
+2020-11-24,tablet,<Other>,organic,338,0,56,0,1,0,0,0
+2020-11-24,tablet,<Other>,referral,124,0,1,0,0,0,0,0
+2020-11-24,tablet,google,cpc,89,0,19,0,0,0,0,0
+2020-11-24,tablet,google,organic,508,0,80,0,2,0,0,0
+2020-11-24,tablet,shop.googlemerchandisestore.com,referral,119,0,2,0,0,0,0,0
+2020-11-25,desktop,(data deleted),(data deleted),4043,0,516,30,34,12,2,2
+2020-11-25,desktop,(direct),(none),7723,0,762,18,38,11,0,0
+2020-11-25,desktop,<Other>,(data deleted),17,0,1,0,0,0,0,0
+2020-11-25,desktop,<Other>,<Other>,5279,0,561,29,29,14,0,0
+2020-11-25,desktop,<Other>,organic,883,0,108,2,2,0,0,0
+2020-11-25,desktop,<Other>,referral,2780,0,262,6,10,5,0,0
+2020-11-25,desktop,google,cpc,1675,0,212,1,3,0,0,0
+2020-11-25,desktop,google,organic,11804,0,1216,56,64,14,0,0
+2020-11-25,desktop,shop.googlemerchandisestore.com,referral,2958,0,309,11,23,9,1,1
+2020-11-25,mobile,(data deleted),(data deleted),2448,0,285,32,36,9,0,0
+2020-11-25,mobile,(direct),(none),5153,0,471,16,31,6,0,0
+2020-11-25,mobile,<Other>,(data deleted),25,0,0,0,0,0,0,0
+2020-11-25,mobile,<Other>,<Other>,3425,0,333,0,16,2,0,0
+2020-11-25,mobile,<Other>,organic,548,0,59,0,2,0,0,0
+2020-11-25,mobile,<Other>,referral,2430,0,262,15,19,4,1,1
+2020-11-25,mobile,google,cpc,1417,0,148,2,5,1,0,0
+2020-11-25,mobile,google,organic,7922,0,806,51,42,12,1,1
+2020-11-25,mobile,shop.googlemerchandisestore.com,referral,2502,0,231,19,26,8,0,0
+2020-11-25,tablet,(data deleted),(data deleted),377,0,39,0,4,1,0,0
+2020-11-25,tablet,(direct),(none),112,0,3,0,0,0,0,0
+2020-11-25,tablet,<Other>,<Other>,148,0,16,1,0,0,0,0
+2020-11-25,tablet,<Other>,organic,29,0,0,0,0,0,0,0
+2020-11-25,tablet,<Other>,referral,133,0,10,0,0,0,0,0
+2020-11-25,tablet,google,cpc,26,0,1,0,0,0,0,0
+2020-11-25,tablet,google,organic,548,0,78,8,3,0,0,0
+2020-11-25,tablet,shop.googlemerchandisestore.com,referral,64,0,11,0,0,0,0,0
+2020-11-26,desktop,(data deleted),(data deleted),2309,0,238,62,23,3,0,0
+2020-11-26,desktop,(direct),(none),6654,0,610,142,28,4,0,0
+2020-11-26,desktop,<Other>,(data deleted),54,0,3,0,1,0,0,0
+2020-11-26,desktop,<Other>,<Other>,4871,0,499,97,22,3,2,2
+2020-11-26,desktop,<Other>,organic,831,0,87,8,3,1,0,0
+2020-11-26,desktop,<Other>,referral,3427,0,312,65,24,3,0,0
+2020-11-26,desktop,google,cpc,1373,0,135,16,9,1,0,0
+2020-11-26,desktop,google,organic,10509,0,1070,193,57,13,1,1
+2020-11-26,desktop,shop.googlemerchandisestore.com,referral,2092,0,185,59,16,2,0,0
+2020-11-26,mobile,(data deleted),(data deleted),1127,0,115,29,6,1,0,0
+2020-11-26,mobile,(direct),(none),5162,0,418,78,35,4,0,0
+2020-11-26,mobile,<Other>,(data deleted),16,0,0,0,0,0,0,0
+2020-11-26,mobile,<Other>,<Other>,2968,0,291,40,20,4,0,0
+2020-11-26,mobile,<Other>,organic,623,0,52,5,5,2,0,0
+2020-11-26,mobile,<Other>,referral,2060,0,217,22,13,3,0,0
+2020-11-26,mobile,google,cpc,569,0,41,19,5,1,0,0
+2020-11-26,mobile,google,organic,6887,0,540,103,38,9,0,0
+2020-11-26,mobile,shop.googlemerchandisestore.com,referral,1784,0,165,71,11,2,0,0
+2020-11-26,tablet,(data deleted),(data deleted),107,0,7,1,2,0,0,0
+2020-11-26,tablet,(direct),(none),322,0,26,6,3,1,0,0
+2020-11-26,tablet,<Other>,<Other>,214,0,46,13,0,0,0,0
+2020-11-26,tablet,<Other>,organic,20,0,0,0,0,0,0,0
+2020-11-26,tablet,<Other>,referral,157,0,8,7,0,0,0,0
+2020-11-26,tablet,google,cpc,30,0,2,0,0,0,0,0
+2020-11-26,tablet,google,organic,406,0,34,9,0,0,0,0
+2020-11-26,tablet,shop.googlemerchandisestore.com,referral,109,0,13,2,0,0,0,0
+2020-11-27,desktop,(data deleted),(data deleted),2801,0,303,106,24,14,2,2
+2020-11-27,desktop,(direct),(none),6080,0,488,107,37,9,0,0
+2020-11-27,desktop,<Other>,(data deleted),74,0,3,3,2,1,0,0
+2020-11-27,desktop,<Other>,<Other>,5467,0,538,83,31,9,0,0
+2020-11-27,desktop,<Other>,organic,701,0,57,23,1,0,0,0
+2020-11-27,desktop,<Other>,referral,3471,0,376,69,16,5,0,0
+2020-11-27,desktop,google,cpc,1841,0,223,53,9,2,0,0
+2020-11-27,desktop,google,organic,9126,0,827,175,50,7,0,0
+2020-11-27,desktop,shop.googlemerchandisestore.com,referral,2865,0,281,81,26,9,0,0
+2020-11-27,mobile,(data deleted),(data deleted),1107,0,83,29,10,5,0,0
+2020-11-27,mobile,(direct),(none),4482,0,460,151,28,11,0,0
+2020-11-27,mobile,<Other>,(data deleted),35,0,1,0,0,0,0,0
+2020-11-27,mobile,<Other>,<Other>,3247,0,336,67,10,1,0,0
+2020-11-27,mobile,<Other>,organic,891,0,106,25,3,0,0,0
+2020-11-27,mobile,<Other>,referral,1893,0,159,14,6,2,0,0
+2020-11-27,mobile,google,cpc,1006,0,100,26,7,3,0,0
+2020-11-27,mobile,google,organic,5450,0,477,106,16,7,0,0
+2020-11-27,mobile,shop.googlemerchandisestore.com,referral,1786,0,175,52,11,6,2,2
+2020-11-27,tablet,(data deleted),(data deleted),184,0,35,2,3,1,0,0
+2020-11-27,tablet,(direct),(none),243,0,17,5,0,0,0,0
+2020-11-27,tablet,<Other>,<Other>,198,0,20,1,0,0,0,0
+2020-11-27,tablet,<Other>,organic,3,0,0,0,0,0,0,0
+2020-11-27,tablet,<Other>,referral,121,0,18,1,1,1,0,0
+2020-11-27,tablet,google,cpc,109,0,15,0,0,0,0,0
+2020-11-27,tablet,google,organic,671,0,71,9,5,1,0,0
+2020-11-27,tablet,shop.googlemerchandisestore.com,referral,402,0,47,41,4,3,0,0
+2020-11-28,desktop,(data deleted),(data deleted),1290,0,114,48,12,4,0,0
+2020-11-28,desktop,(direct),(none),6226,0,573,144,36,9,0,0
+2020-11-28,desktop,<Other>,(data deleted),15,0,1,0,0,0,0,0
+2020-11-28,desktop,<Other>,<Other>,3933,0,353,79,28,5,0,0
+2020-11-28,desktop,<Other>,organic,589,0,31,11,5,2,0,0
+2020-11-28,desktop,<Other>,referral,2635,0,251,81,10,2,0,0
+2020-11-28,desktop,google,cpc,1091,0,139,27,9,1,0,0
+2020-11-28,desktop,google,organic,8178,0,835,179,37,11,0,0
+2020-11-28,desktop,shop.googlemerchandisestore.com,referral,1352,0,155,75,4,4,0,0
+2020-11-28,mobile,(data deleted),(data deleted),932,0,102,35,6,4,1,1
+2020-11-28,mobile,(direct),(none),4252,0,427,97,20,9,2,2
+2020-11-28,mobile,<Other>,(data deleted),17,0,1,0,0,0,0,0
+2020-11-28,mobile,<Other>,<Other>,3082,0,390,79,14,6,1,1
+2020-11-28,mobile,<Other>,organic,699,0,71,21,5,0,0,0
+2020-11-28,mobile,<Other>,referral,1624,0,131,39,12,6,1,1
+2020-11-28,mobile,google,cpc,523,0,38,26,4,1,1,1
+2020-11-28,mobile,google,organic,5612,0,533,97,29,9,1,1
+2020-11-28,mobile,shop.googlemerchandisestore.com,referral,1358,0,124,33,8,3,0,0
+2020-11-28,tablet,(data deleted),(data deleted),3,0,0,0,0,0,0,0
+2020-11-28,tablet,(direct),(none),98,0,0,0,0,0,0,0
+2020-11-28,tablet,<Other>,<Other>,420,0,71,2,2,1,0,0
+2020-11-28,tablet,<Other>,organic,11,0,0,0,0,0,0,0
+2020-11-28,tablet,<Other>,referral,24,0,0,0,0,0,0,0
+2020-11-28,tablet,google,cpc,15,0,0,0,0,0,0,0
+2020-11-28,tablet,google,organic,424,0,59,3,1,0,0,0
+2020-11-28,tablet,shop.googlemerchandisestore.com,referral,240,0,39,0,3,1,1,1
+2020-11-29,desktop,(data deleted),(data deleted),1639,0,177,35,17,5,0,0
+2020-11-29,desktop,(direct),(none),6258,0,644,109,26,4,0,0
+2020-11-29,desktop,<Other>,(data deleted),40,0,0,0,2,1,0,0
+2020-11-29,desktop,<Other>,<Other>,3658,0,341,64,21,5,0,0
+2020-11-29,desktop,<Other>,organic,489,0,34,6,2,1,0,0
+2020-11-29,desktop,<Other>,referral,2472,0,293,60,12,2,1,1
+2020-11-29,desktop,google,cpc,1122,0,129,17,2,1,0,0
+2020-11-29,desktop,google,organic,6866,0,612,95,42,6,0,0
+2020-11-29,desktop,shop.googlemerchandisestore.com,referral,1917,0,178,45,14,4,0,0
+2020-11-29,mobile,(data deleted),(data deleted),1213,0,110,32,17,4,1,1
+2020-11-29,mobile,(direct),(none),3938,0,382,77,14,2,0,0
+2020-11-29,mobile,<Other>,(data deleted),2,0,0,0,0,0,0,0
+2020-11-29,mobile,<Other>,<Other>,2283,0,182,26,13,1,0,0
+2020-11-29,mobile,<Other>,organic,341,0,9,0,1,1,0,0
+2020-11-29,mobile,<Other>,referral,1958,0,235,36,24,3,0,0
+2020-11-29,mobile,google,cpc,294,0,9,1,0,0,0,0
+2020-11-29,mobile,google,organic,5456,0,532,159,32,9,0,0
+2020-11-29,mobile,shop.googlemerchandisestore.com,referral,839,0,56,15,1,0,0,0
+2020-11-29,tablet,(data deleted),(data deleted),175,0,29,0,1,0,0,0
+2020-11-29,tablet,(direct),(none),433,0,53,3,2,1,0,0
+2020-11-29,tablet,<Other>,<Other>,409,0,68,17,1,0,0,0
+2020-11-29,tablet,<Other>,organic,4,0,0,0,0,0,0,0
+2020-11-29,tablet,<Other>,referral,54,0,0,0,0,0,0,0
+2020-11-29,tablet,google,cpc,27,0,2,2,0,0,0,0
+2020-11-29,tablet,google,organic,101,0,4,0,0,0,0,0
+2020-11-29,tablet,shop.googlemerchandisestore.com,referral,181,0,16,12,2,1,0,0
+2020-11-30,desktop,(data deleted),(data deleted),2685,0,248,102,56,10,1,1
+2020-11-30,desktop,(direct),(none),9431,0,930,238,126,15,1,1
+2020-11-30,desktop,<Other>,(data deleted),2,0,0,0,0,0,0,0
+2020-11-30,desktop,<Other>,<Other>,5481,0,600,110,50,5,0,0
+2020-11-30,desktop,<Other>,organic,1698,0,196,67,8,1,0,0
+2020-11-30,desktop,<Other>,referral,4092,0,411,140,56,7,0,0
+2020-11-30,desktop,google,cpc,2214,0,229,50,20,6,0,0
+2020-11-30,desktop,google,organic,12166,0,1195,220,137,19,0,0
+2020-11-30,desktop,shop.googlemerchandisestore.com,referral,4176,0,464,88,76,11,0,0
+2020-11-30,mobile,(data deleted),(data deleted),2096,0,227,89,36,5,0,0
+2020-11-30,mobile,(direct),(none),5109,0,500,181,57,11,2,2
+2020-11-30,mobile,<Other>,(data deleted),123,0,22,6,2,1,0,0
+2020-11-30,mobile,<Other>,<Other>,3870,0,395,63,49,10,0,0
+2020-11-30,mobile,<Other>,organic,634,0,45,10,10,1,0,0
+2020-11-30,mobile,<Other>,referral,3445,0,369,88,46,10,0,0
+2020-11-30,mobile,google,cpc,1280,0,117,34,6,1,0,0
+2020-11-30,mobile,google,organic,8351,0,869,218,117,17,1,1
+2020-11-30,mobile,shop.googlemerchandisestore.com,referral,2642,0,247,45,80,10,0,0
+2020-11-30,tablet,(data deleted),(data deleted),34,0,3,0,0,0,0,0
+2020-11-30,tablet,(direct),(none),125,0,7,0,2,0,0,0
+2020-11-30,tablet,<Other>,<Other>,282,0,10,5,10,1,0,0
+2020-11-30,tablet,<Other>,organic,6,0,0,0,0,0,0,0
+2020-11-30,tablet,<Other>,referral,105,0,17,8,0,0,0,0
+2020-11-30,tablet,google,cpc,38,0,2,0,0,0,0,0
+2020-11-30,tablet,google,organic,419,0,14,1,6,0,0,0
+2020-11-30,tablet,shop.googlemerchandisestore.com,referral,110,0,15,4,0,0,0,0
+2020-12-01,desktop,(data deleted),(data deleted),2987,0,353,50,40,11,0,0
+2020-12-01,desktop,(direct),(none),9638,0,984,182,97,10,1,1
+2020-12-01,desktop,<Other>,(data deleted),114,0,18,1,0,0,0,0
+2020-12-01,desktop,<Other>,<Other>,5267,0,406,119,69,12,2,2
+2020-12-01,desktop,<Other>,organic,956,0,81,13,8,0,0,0
+2020-12-01,desktop,<Other>,referral,4985,0,435,109,87,10,1,1
+2020-12-01,desktop,google,cpc,1283,0,105,36,16,2,0,0
+2020-12-01,desktop,google,organic,13403,0,1288,263,116,14,3,3
+2020-12-01,desktop,shop.googlemerchandisestore.com,referral,3523,0,345,86,24,4,0,0
+2020-12-01,mobile,(data deleted),(data deleted),1733,0,141,69,33,4,0,0
+2020-12-01,mobile,(direct),(none),6727,0,642,209,95,14,1,1
+2020-12-01,mobile,<Other>,(data deleted),3,0,0,0,0,0,0,0
+2020-12-01,mobile,<Other>,<Other>,3866,0,420,102,32,6,0,0
+2020-12-01,mobile,<Other>,organic,648,0,62,9,0,0,0,0
+2020-12-01,mobile,<Other>,referral,2252,0,209,49,14,4,0,0
+2020-12-01,mobile,google,cpc,1156,0,110,39,8,1,0,0
+2020-12-01,mobile,google,organic,9023,0,909,230,47,8,1,1
+2020-12-01,mobile,shop.googlemerchandisestore.com,referral,2602,0,302,39,36,6,1,1
+2020-12-01,tablet,(data deleted),(data deleted),97,0,6,1,0,0,0,0
+2020-12-01,tablet,(direct),(none),346,0,27,19,2,1,0,0
+2020-12-01,tablet,<Other>,<Other>,374,0,54,2,2,0,0,0
+2020-12-01,tablet,<Other>,referral,124,0,10,0,0,0,0,0
+2020-12-01,tablet,google,cpc,5,0,1,0,0,0,0,0
+2020-12-01,tablet,google,organic,551,0,58,25,6,0,0,0
+2020-12-01,tablet,shop.googlemerchandisestore.com,referral,141,0,10,1,0,0,0,0
+2020-12-02,desktop,(data deleted),(data deleted),2647,0,257,78,37,3,0,0
+2020-12-02,desktop,(direct),(none),8768,0,822,179,94,11,1,1
+2020-12-02,desktop,<Other>,(data deleted),103,0,9,4,2,0,0,0
+2020-12-02,desktop,<Other>,<Other>,5463,0,535,134,60,5,0,0
+2020-12-02,desktop,<Other>,organic,659,0,48,7,4,0,0,0
+2020-12-02,desktop,<Other>,referral,3363,0,301,87,61,5,0,0
+2020-12-02,desktop,google,cpc,1945,0,140,51,25,3,0,0
+2020-12-02,desktop,google,organic,12202,0,1195,231,119,14,1,1
+2020-12-02,desktop,shop.googlemerchandisestore.com,referral,3835,0,342,84,56,5,0,0
+2020-12-02,mobile,(data deleted),(data deleted),1648,0,150,45,48,9,0,0
+2020-12-02,mobile,(direct),(none),5551,0,570,91,32,3,0,0
+2020-12-02,mobile,<Other>,(data deleted),47,0,6,0,0,0,0,0
+2020-12-02,mobile,<Other>,<Other>,4017,0,437,99,43,5,1,1
+2020-12-02,mobile,<Other>,organic,580,0,45,13,4,1,0,0
+2020-12-02,mobile,<Other>,referral,1807,0,174,42,16,2,0,0
+2020-12-02,mobile,google,cpc,1345,0,187,23,14,2,0,0
+2020-12-02,mobile,google,organic,9202,0,926,226,116,7,0,0
+2020-12-02,mobile,shop.googlemerchandisestore.com,referral,2048,0,149,46,27,3,1,1
+2020-12-02,tablet,(data deleted),(data deleted),264,0,26,9,6,2,0,0
+2020-12-02,tablet,(direct),(none),493,0,60,3,2,0,0,0
+2020-12-02,tablet,<Other>,<Other>,181,0,7,1,0,0,0,0
+2020-12-02,tablet,<Other>,organic,82,0,3,0,0,0,0,0
+2020-12-02,tablet,<Other>,referral,25,0,0,0,0,0,0,0
+2020-12-02,tablet,google,cpc,36,0,0,0,0,0,0,0
+2020-12-02,tablet,google,organic,326,0,33,4,0,0,0,0
+2020-12-02,tablet,shop.googlemerchandisestore.com,referral,195,0,19,7,2,2,0,0
+2020-12-03,desktop,(data deleted),(data deleted),2519,0,286,67,34,6,0,0
+2020-12-03,desktop,(direct),(none),10025,0,1009,187,112,15,1,1
+2020-12-03,desktop,<Other>,(data deleted),6,0,0,0,0,0,0,0
+2020-12-03,desktop,<Other>,<Other>,5471,0,505,92,62,10,0,0
+2020-12-03,desktop,<Other>,organic,1390,0,108,32,12,2,0,0
+2020-12-03,desktop,<Other>,referral,3936,0,392,58,32,3,0,0
+2020-12-03,desktop,google,cpc,1931,0,183,15,8,1,0,0
+2020-12-03,desktop,google,organic,13089,0,1198,166,150,16,1,1
+2020-12-03,desktop,shop.googlemerchandisestore.com,referral,3723,0,381,88,68,5,0,0
+2020-12-03,mobile,(data deleted),(data deleted),1388,0,158,49,10,3,0,0
+2020-12-03,mobile,(direct),(none),6335,0,680,124,70,5,0,0
+2020-12-03,mobile,<Other>,(data deleted),8,0,0,0,0,0,0,0
+2020-12-03,mobile,<Other>,<Other>,4192,0,438,76,23,1,0,0
+2020-12-03,mobile,<Other>,organic,1234,0,167,9,8,1,0,0
+2020-12-03,mobile,<Other>,referral,2144,0,188,44,24,4,0,0
+2020-12-03,mobile,google,cpc,1140,0,92,12,10,0,0,0
+2020-12-03,mobile,google,organic,8581,0,808,190,96,7,0,0
+2020-12-03,mobile,shop.googlemerchandisestore.com,referral,2471,0,236,35,44,8,0,0
+2020-12-03,tablet,(data deleted),(data deleted),70,0,7,0,0,0,0,0
+2020-12-03,tablet,(direct),(none),179,0,12,3,0,0,0,0
+2020-12-03,tablet,<Other>,<Other>,650,0,91,21,4,1,1,1
+2020-12-03,tablet,<Other>,organic,72,0,6,1,2,1,0,0
+2020-12-03,tablet,<Other>,referral,253,0,22,4,2,1,0,0
+2020-12-03,tablet,google,cpc,86,0,7,0,0,0,0,0
+2020-12-03,tablet,google,organic,376,0,43,10,0,0,0,0
+2020-12-03,tablet,shop.googlemerchandisestore.com,referral,420,0,58,3,4,0,0,0
+2020-12-04,desktop,(data deleted),(data deleted),2162,0,264,49,14,4,0,0
+2020-12-04,desktop,(direct),(none),8792,0,850,144,99,9,1,1
+2020-12-04,desktop,<Other>,(data deleted),30,0,2,2,0,0,0,0
+2020-12-04,desktop,<Other>,<Other>,4924,0,527,82,38,3,0,0
+2020-12-04,desktop,<Other>,organic,753,0,64,10,4,0,0,0
+2020-12-04,desktop,<Other>,referral,3612,0,334,104,34,3,0,0
+2020-12-04,desktop,google,cpc,2218,0,238,34,28,2,0,0
+2020-12-04,desktop,google,organic,15066,0,1786,323,139,23,1,1
+2020-12-04,desktop,shop.googlemerchandisestore.com,referral,3778,0,416,122,74,9,0,0
+2020-12-04,mobile,(data deleted),(data deleted),2848,0,386,154,37,4,0,0
+2020-12-04,mobile,(direct),(none),5181,0,471,77,52,4,0,0
+2020-12-04,mobile,<Other>,(data deleted),10,0,0,0,0,0,0,0
+2020-12-04,mobile,<Other>,<Other>,4352,0,523,84,26,2,0,0
+2020-12-04,mobile,<Other>,organic,720,0,77,35,9,1,1,1
+2020-12-04,mobile,<Other>,referral,2394,0,214,62,32,5,0,0
+2020-12-04,mobile,google,cpc,1172,0,108,22,20,1,0,0
+2020-12-04,mobile,google,organic,7663,0,727,170,83,16,0,0
+2020-12-04,mobile,shop.googlemerchandisestore.com,referral,2682,0,288,71,40,8,0,0
+2020-12-04,tablet,(data deleted),(data deleted),20,0,1,0,0,0,0,0
+2020-12-04,tablet,(direct),(none),351,0,24,3,2,1,0,0
+2020-12-04,tablet,<Other>,<Other>,241,0,20,8,2,1,0,0
+2020-12-04,tablet,<Other>,organic,35,0,0,0,0,0,0,0
+2020-12-04,tablet,<Other>,referral,21,0,0,0,0,0,0,0
+2020-12-04,tablet,google,cpc,109,0,14,3,0,0,0,0
+2020-12-04,tablet,google,organic,190,0,10,1,0,0,0,0
+2020-12-04,tablet,shop.googlemerchandisestore.com,referral,69,0,5,1,0,0,0,0
+2020-12-05,desktop,(data deleted),(data deleted),2417,0,264,76,54,9,0,0
+2020-12-05,desktop,(direct),(none),7787,0,781,166,88,14,0,0
+2020-12-05,desktop,<Other>,(data deleted),27,0,2,0,0,0,0,0
+2020-12-05,desktop,<Other>,<Other>,4035,0,390,59,42,3,0,0
+2020-12-05,desktop,<Other>,organic,438,0,28,0,0,0,0,0
+2020-12-05,desktop,<Other>,referral,2188,0,218,60,28,3,0,0
+2020-12-05,desktop,google,cpc,1434,0,137,20,18,1,0,0
+2020-12-05,desktop,google,organic,8793,0,969,213,101,13,0,0
+2020-12-05,desktop,shop.googlemerchandisestore.com,referral,2639,0,266,56,38,6,1,1
+2020-12-05,mobile,(data deleted),(data deleted),1090,0,97,31,24,5,0,0
+2020-12-05,mobile,(direct),(none),5000,0,541,78,54,8,1,1
+2020-12-05,mobile,<Other>,(data deleted),6,0,0,0,0,0,0,0
+2020-12-05,mobile,<Other>,<Other>,2617,0,242,39,30,5,0,0
+2020-12-05,mobile,<Other>,organic,175,0,8,0,0,0,0,0
+2020-12-05,mobile,<Other>,referral,2299,0,270,52,28,4,0,0
+2020-12-05,mobile,google,cpc,511,0,22,10,2,0,0,0
+2020-12-05,mobile,google,organic,5786,0,562,141,44,10,0,0
+2020-12-05,mobile,shop.googlemerchandisestore.com,referral,1535,0,106,39,26,4,0,0
+2020-12-05,tablet,(data deleted),(data deleted),35,0,2,1,2,0,0,0
+2020-12-05,tablet,(direct),(none),174,0,12,6,2,0,0,0
+2020-12-05,tablet,<Other>,<Other>,48,0,2,1,0,0,0,0
+2020-12-05,tablet,<Other>,organic,19,0,4,1,0,0,0,0
+2020-12-05,tablet,<Other>,referral,31,0,0,0,0,0,0,0
+2020-12-05,tablet,google,cpc,53,0,3,3,0,0,0,0
+2020-12-05,tablet,google,organic,351,0,24,11,10,2,0,0
+2020-12-05,tablet,shop.googlemerchandisestore.com,referral,40,0,2,0,0,0,0,0
+2020-12-06,desktop,(data deleted),(data deleted),1754,0,195,48,28,4,0,0
+2020-12-06,desktop,(direct),(none),5556,0,572,87,58,5,0,0
+2020-12-06,desktop,<Other>,(data deleted),3,0,1,0,0,0,0,0
+2020-12-06,desktop,<Other>,<Other>,3083,0,234,32,22,1,0,0
+2020-12-06,desktop,<Other>,organic,602,0,66,23,8,1,0,0
+2020-12-06,desktop,<Other>,referral,3771,0,410,63,50,5,0,0
+2020-12-06,desktop,google,cpc,694,0,38,12,2,0,0,0
+2020-12-06,desktop,google,organic,6720,0,558,121,60,6,0,0
+2020-12-06,desktop,shop.googlemerchandisestore.com,referral,2046,0,194,46,40,2,0,0
+2020-12-06,mobile,(data deleted),(data deleted),1425,0,120,26,20,2,0,0
+2020-12-06,mobile,(direct),(none),4073,0,349,66,29,3,1,1
+2020-12-06,mobile,<Other>,<Other>,2476,0,245,39,14,2,0,0
+2020-12-06,mobile,<Other>,organic,956,0,116,11,12,0,0,0
+2020-12-06,mobile,<Other>,referral,1132,0,102,24,9,1,0,0
+2020-12-06,mobile,google,cpc,351,0,11,1,0,0,0,0
+2020-12-06,mobile,google,organic,5776,0,600,124,42,5,0,0
+2020-12-06,mobile,shop.googlemerchandisestore.com,referral,1534,0,172,55,28,3,0,0
+2020-12-06,tablet,(data deleted),(data deleted),117,0,12,3,2,1,0,0
+2020-12-06,tablet,(direct),(none),133,0,10,1,0,0,0,0
+2020-12-06,tablet,<Other>,<Other>,233,0,12,1,10,1,0,0
+2020-12-06,tablet,<Other>,referral,71,0,3,1,0,0,0,0
+2020-12-06,tablet,google,cpc,34,0,8,6,0,0,0,0
+2020-12-06,tablet,google,organic,262,0,13,1,0,0,0,0
+2020-12-06,tablet,shop.googlemerchandisestore.com,referral,26,0,2,0,0,0,0,0
+2020-12-07,desktop,(data deleted),(data deleted),4166,0,351,71,126,18,0,0
+2020-12-07,desktop,(direct),(none),10616,0,1033,230,129,17,0,0
+2020-12-07,desktop,<Other>,(data deleted),508,0,89,1,4,0,0,0
+2020-12-07,desktop,<Other>,<Other>,5335,0,504,61,43,5,1,1
+2020-12-07,desktop,<Other>,organic,1491,0,159,22,12,3,0,0
+2020-12-07,desktop,<Other>,referral,3593,0,324,30,32,5,0,0
+2020-12-07,desktop,google,cpc,2021,0,203,29,14,4,0,0
+2020-12-07,desktop,google,organic,12287,0,1249,164,64,6,0,0
+2020-12-07,desktop,shop.googlemerchandisestore.com,referral,3282,0,313,64,38,8,0,0
+2020-12-07,mobile,(data deleted),(data deleted),1937,0,162,33,38,4,1,1
+2020-12-07,mobile,(direct),(none),6476,0,586,90,56,6,0,0
+2020-12-07,mobile,<Other>,(data deleted),128,0,16,0,4,1,0,0
+2020-12-07,mobile,<Other>,<Other>,3441,0,322,57,24,4,0,0
+2020-12-07,mobile,<Other>,organic,553,0,28,1,0,0,0,0
+2020-12-07,mobile,<Other>,referral,2380,0,213,47,26,11,0,0
+2020-12-07,mobile,google,cpc,1267,0,111,21,8,1,0,0
+2020-12-07,mobile,google,organic,9086,0,930,152,70,12,2,2
+2020-12-07,mobile,shop.googlemerchandisestore.com,referral,2230,0,215,46,22,4,0,0
+2020-12-07,tablet,(data deleted),(data deleted),19,0,0,0,0,0,0,0
+2020-12-07,tablet,(direct),(none),128,0,7,1,2,0,0,0
+2020-12-07,tablet,<Other>,<Other>,114,0,8,2,2,0,0,0
+2020-12-07,tablet,<Other>,organic,18,0,0,0,0,0,0,0
+2020-12-07,tablet,<Other>,referral,153,0,19,1,0,0,0,0
+2020-12-07,tablet,google,cpc,35,0,0,0,0,0,0,0
+2020-12-07,tablet,google,organic,304,0,29,4,2,1,0,0
+2020-12-07,tablet,shop.googlemerchandisestore.com,referral,64,0,1,0,0,0,0,0
+2020-12-08,desktop,(data deleted),(data deleted),4033,0,483,123,62,7,0,0
+2020-12-08,desktop,(direct),(none),14161,0,1271,338,170,19,0,0
+2020-12-08,desktop,<Other>,(data deleted),12,0,0,0,0,0,0,0
+2020-12-08,desktop,<Other>,<Other>,7602,0,564,117,66,14,0,0
+2020-12-08,desktop,<Other>,organic,1807,0,260,11,14,2,0,0
+2020-12-08,desktop,<Other>,referral,5754,0,467,123,86,15,0,0
+2020-12-08,desktop,google,cpc,1840,0,108,27,26,5,0,0
+2020-12-08,desktop,google,organic,15024,0,1261,290,89,10,0,0
+2020-12-08,desktop,shop.googlemerchandisestore.com,referral,4777,0,475,95,64,6,0,0
+2020-12-08,mobile,(data deleted),(data deleted),2810,0,221,66,63,6,1,1
+2020-12-08,mobile,(direct),(none),9107,0,810,204,108,12,0,0
+2020-12-08,mobile,<Other>,(data deleted),16,0,2,1,0,0,0,0
+2020-12-08,mobile,<Other>,<Other>,4838,0,374,75,34,2,0,0
+2020-12-08,mobile,<Other>,organic,692,0,29,3,4,0,0,0
+2020-12-08,mobile,<Other>,referral,3203,0,239,39,22,2,0,0
+2020-12-08,mobile,google,cpc,1260,0,89,5,8,1,0,0
+2020-12-08,mobile,google,organic,10152,0,784,146,84,9,0,0
+2020-12-08,mobile,shop.googlemerchandisestore.com,referral,3008,0,248,50,56,9,0,0
+2020-12-08,tablet,(data deleted),(data deleted),152,0,35,5,0,0,0,0
+2020-12-08,tablet,(direct),(none),723,0,91,15,2,0,0,0
+2020-12-08,tablet,<Other>,<Other>,352,0,15,7,20,1,0,0
+2020-12-08,tablet,<Other>,organic,26,0,0,0,0,0,0,0
+2020-12-08,tablet,<Other>,referral,214,0,31,20,2,1,0,0
+2020-12-08,tablet,google,cpc,38,0,0,0,0,0,0,0
+2020-12-08,tablet,google,organic,537,0,39,15,10,1,0,0
+2020-12-08,tablet,shop.googlemerchandisestore.com,referral,61,0,0,0,0,0,0,0
+2020-12-09,desktop,(data deleted),(data deleted),3796,0,374,75,75,17,0,0
+2020-12-09,desktop,(direct),(none),9693,0,859,214,102,21,1,1
+2020-12-09,desktop,<Other>,(data deleted),37,0,6,0,0,0,0,0
+2020-12-09,desktop,<Other>,<Other>,7110,0,654,140,74,12,0,0
+2020-12-09,desktop,<Other>,organic,1548,0,136,52,30,5,0,0
+2020-12-09,desktop,<Other>,referral,4595,0,388,63,63,8,1,1
+2020-12-09,desktop,google,cpc,1534,0,126,17,6,1,0,0
+2020-12-09,desktop,google,organic,15251,0,1540,351,186,26,0,0
+2020-12-09,desktop,shop.googlemerchandisestore.com,referral,4577,0,504,90,49,9,2,2
+2020-12-09,mobile,(data deleted),(data deleted),2212,0,245,62,38,6,0,0
+2020-12-09,mobile,(direct),(none),7548,0,736,201,110,10,0,0
+2020-12-09,mobile,<Other>,(data deleted),106,0,19,0,0,0,0,0
+2020-12-09,mobile,<Other>,<Other>,3430,0,278,65,26,4,0,0
+2020-12-09,mobile,<Other>,organic,662,0,42,26,10,2,0,0
+2020-12-09,mobile,<Other>,referral,2420,0,174,51,42,3,0,0
+2020-12-09,mobile,google,cpc,971,0,39,2,10,1,0,0
+2020-12-09,mobile,google,organic,10516,0,1011,198,92,15,0,0
+2020-12-09,mobile,shop.googlemerchandisestore.com,referral,4231,0,500,92,73,6,1,1
+2020-12-09,tablet,(data deleted),(data deleted),113,0,1,0,0,0,0,0
+2020-12-09,tablet,(direct),(none),856,0,77,47,8,1,0,0
+2020-12-09,tablet,<Other>,<Other>,189,0,18,13,6,0,0,0
+2020-12-09,tablet,<Other>,organic,65,0,11,0,0,0,0,0
+2020-12-09,tablet,<Other>,referral,108,0,4,0,0,0,0,0
+2020-12-09,tablet,google,cpc,72,0,1,0,0,0,0,0
+2020-12-09,tablet,google,organic,269,0,12,4,4,0,0,0
+2020-12-09,tablet,shop.googlemerchandisestore.com,referral,406,0,46,24,12,3,0,0
+2020-12-10,desktop,(data deleted),(data deleted),4423,0,477,142,68,14,0,0
+2020-12-10,desktop,(data deleted),referral,2,0,0,0,0,0,0,0
+2020-12-10,desktop,(direct),(none),12292,0,1298,284,153,18,2,2
+2020-12-10,desktop,<Other>,(data deleted),107,0,16,0,0,0,0,0
+2020-12-10,desktop,<Other>,<Other>,6026,0,539,119,50,7,0,0
+2020-12-10,desktop,<Other>,organic,894,0,87,13,4,1,0,0
+2020-12-10,desktop,<Other>,referral,5386,0,552,184,84,9,0,0
+2020-12-10,desktop,google,cpc,1525,0,129,17,10,1,0,0
+2020-12-10,desktop,google,organic,14291,0,1394,256,171,25,1,1
+2020-12-10,desktop,shop.googlemerchandisestore.com,referral,4060,0,459,98,34,8,0,0
+2020-12-10,mobile,(data deleted),(data deleted),2729,0,251,86,44,13,0,0
+2020-12-10,mobile,(direct),(none),6124,0,613,93,63,9,1,1
+2020-12-10,mobile,<Other>,(data deleted),14,0,0,0,0,0,0,0
+2020-12-10,mobile,<Other>,<Other>,3818,0,293,46,48,3,0,0
+2020-12-10,mobile,<Other>,organic,838,0,88,14,8,1,0,0
+2020-12-10,mobile,<Other>,referral,3087,0,308,55,56,9,1,1
+2020-12-10,mobile,google,cpc,1276,0,144,10,6,0,0,0
+2020-12-10,mobile,google,organic,9640,0,1048,228,118,15,1,1
+2020-12-10,mobile,shop.googlemerchandisestore.com,referral,3061,0,310,79,60,8,0,0
+2020-12-10,tablet,(data deleted),(data deleted),82,0,7,0,0,0,0,0
+2020-12-10,tablet,(direct),(none),166,0,5,0,0,0,0,0
+2020-12-10,tablet,<Other>,<Other>,106,0,3,0,2,1,0,0
+2020-12-10,tablet,<Other>,organic,11,0,0,0,0,0,0,0
+2020-12-10,tablet,<Other>,referral,253,0,28,1,2,0,0,0
+2020-12-10,tablet,google,cpc,221,0,33,12,2,1,0,0
+2020-12-10,tablet,google,organic,360,0,21,2,0,0,0,0
+2020-12-10,tablet,shop.googlemerchandisestore.com,referral,63,0,5,0,0,0,0,0
+2020-12-11,desktop,(data deleted),(data deleted),4620,0,613,187,66,11,2,2
+2020-12-11,desktop,(direct),(none),10082,0,998,244,119,19,1,1
+2020-12-11,desktop,<Other>,<Other>,6381,0,658,144,54,10,0,0
+2020-12-11,desktop,<Other>,organic,1108,0,75,16,22,5,0,0
+2020-12-11,desktop,<Other>,referral,4910,0,544,151,72,11,0,0
+2020-12-11,desktop,google,cpc,1688,0,157,62,19,5,1,1
+2020-12-11,desktop,google,organic,12418,0,1251,264,132,22,0,0
+2020-12-11,desktop,shop.googlemerchandisestore.com,referral,3624,0,358,121,68,9,0,0
+2020-12-11,mobile,(data deleted),(data deleted),1843,0,166,64,32,7,0,0
+2020-12-11,mobile,(direct),(none),6702,0,695,236,93,18,0,0
+2020-12-11,mobile,<Other>,(data deleted),42,0,4,0,0,0,0,0
+2020-12-11,mobile,<Other>,<Other>,3685,0,305,77,46,2,0,0
+2020-12-11,mobile,<Other>,organic,992,0,161,96,10,2,0,0
+2020-12-11,mobile,<Other>,referral,2357,0,144,36,28,6,0,0
+2020-12-11,mobile,google,cpc,1319,0,138,27,8,2,0,0
+2020-12-11,mobile,google,organic,9689,0,1175,202,107,18,0,0
+2020-12-11,mobile,shop.googlemerchandisestore.com,referral,2975,0,353,153,47,12,1,1
+2020-12-11,tablet,(data deleted),(data deleted),66,0,1,1,0,0,0,0
+2020-12-11,tablet,(direct),(none),311,0,30,2,2,1,0,0
+2020-12-11,tablet,<Other>,<Other>,172,0,22,11,0,0,0,0
+2020-12-11,tablet,<Other>,organic,12,0,0,0,0,0,0,0
+2020-12-11,tablet,<Other>,referral,101,0,4,3,0,0,0,0
+2020-12-11,tablet,google,cpc,45,0,0,0,0,0,0,0
+2020-12-11,tablet,google,organic,521,0,64,34,8,0,0,0
+2020-12-11,tablet,shop.googlemerchandisestore.com,referral,117,0,10,4,0,0,0,0
+2020-12-12,desktop,(data deleted),(data deleted),2472,0,241,65,62,15,0,0
+2020-12-12,desktop,(direct),(none),9068,0,1025,276,125,18,2,2
+2020-12-12,desktop,<Other>,(data deleted),77,0,12,10,2,1,0,0
+2020-12-12,desktop,<Other>,<Other>,4731,0,439,102,52,6,0,0
+2020-12-12,desktop,<Other>,organic,778,0,74,13,4,1,0,0
+2020-12-12,desktop,<Other>,referral,4258,0,430,65,52,7,0,0
+2020-12-12,desktop,google,cpc,782,0,46,31,4,1,0,0
+2020-12-12,desktop,google,organic,9096,0,855,247,97,18,1,1
+2020-12-12,desktop,shop.googlemerchandisestore.com,referral,2526,0,235,52,26,4,0,0
+2020-12-12,mobile,(data deleted),(data deleted),1292,0,120,26,26,6,0,0
+2020-12-12,mobile,(direct),(none),5403,0,680,137,49,8,1,1
+2020-12-12,mobile,<Other>,(data deleted),39,0,8,0,0,0,0,0
+2020-12-12,mobile,<Other>,<Other>,3480,0,368,93,24,4,0,0
+2020-12-12,mobile,<Other>,organic,413,0,15,4,14,2,0,0
+2020-12-12,mobile,<Other>,referral,2702,0,343,51,18,2,0,0
+2020-12-12,mobile,google,cpc,1417,0,154,44,20,1,0,0
+2020-12-12,mobile,google,organic,5362,0,441,102,46,7,0,0
+2020-12-12,mobile,shop.googlemerchandisestore.com,referral,1594,0,150,49,24,4,0,0
+2020-12-12,tablet,(data deleted),(data deleted),22,0,2,0,0,0,0,0
+2020-12-12,tablet,(direct),(none),73,0,2,0,0,0,0,0
+2020-12-12,tablet,<Other>,<Other>,98,0,3,0,0,0,0,0
+2020-12-12,tablet,<Other>,referral,29,0,0,0,0,0,0,0
+2020-12-12,tablet,google,cpc,15,0,0,0,0,0,0,0
+2020-12-12,tablet,google,organic,371,0,29,14,2,1,1,1
+2020-12-12,tablet,shop.googlemerchandisestore.com,referral,48,0,2,0,0,0,0,0
+2020-12-13,desktop,(data deleted),(data deleted),1502,0,189,52,18,7,0,0
+2020-12-13,desktop,(direct),(none),5688,0,533,112,30,6,1,1
+2020-12-13,desktop,<Other>,<Other>,3919,0,346,69,42,8,1,1
+2020-12-13,desktop,<Other>,organic,919,0,103,22,4,1,0,0
+2020-12-13,desktop,<Other>,referral,2921,0,306,54,28,3,0,0
+2020-12-13,desktop,google,cpc,1173,0,113,9,6,0,0,0
+2020-12-13,desktop,google,organic,9582,0,925,246,76,11,0,0
+2020-12-13,desktop,shop.googlemerchandisestore.com,referral,2057,0,205,58,28,7,0,0
+2020-12-13,mobile,(data deleted),(data deleted),1125,0,107,41,42,7,0,0
+2020-12-13,mobile,(direct),(none),3551,0,293,47,24,5,2,2
+2020-12-13,mobile,<Other>,(data deleted),3,0,0,0,0,0,0,0
+2020-12-13,mobile,<Other>,<Other>,2978,0,278,41,32,5,1,1
+2020-12-13,mobile,<Other>,organic,419,0,23,5,2,0,0,0
+2020-12-13,mobile,<Other>,referral,2260,0,243,41,16,2,0,0
+2020-12-13,mobile,google,cpc,1192,0,149,9,6,1,0,0
+2020-12-13,mobile,google,organic,5459,0,495,107,51,8,1,1
+2020-12-13,mobile,shop.googlemerchandisestore.com,referral,1580,0,175,25,14,3,0,0
+2020-12-13,tablet,(data deleted),(data deleted),14,0,0,0,0,0,0,0
+2020-12-13,tablet,(direct),(none),172,0,20,0,0,0,0,0
+2020-12-13,tablet,<Other>,<Other>,90,0,1,0,0,0,0,0
+2020-12-13,tablet,<Other>,organic,33,0,4,0,0,0,0,0
+2020-12-13,tablet,<Other>,referral,10,0,0,0,0,0,0,0
+2020-12-13,tablet,google,cpc,13,0,0,0,0,0,0,0
+2020-12-13,tablet,google,organic,193,0,8,2,4,0,0,0
+2020-12-13,tablet,shop.googlemerchandisestore.com,referral,33,0,0,0,0,0,0,0
+2020-12-14,desktop,(data deleted),(data deleted),2322,0,299,65,24,4,0,0
+2020-12-14,desktop,(direct),(none),8887,0,840,176,99,8,1,1
+2020-12-14,desktop,<Other>,(data deleted),9,0,0,0,0,0,0,0
+2020-12-14,desktop,<Other>,<Other>,4608,0,440,67,35,6,0,0
+2020-12-14,desktop,<Other>,organic,626,0,59,11,0,0,0,0
+2020-12-14,desktop,<Other>,referral,3906,0,405,68,32,3,0,0
+2020-12-14,desktop,google,cpc,2238,0,260,57,20,1,0,0
+2020-12-14,desktop,google,organic,11071,0,1009,202,103,10,1,1
+2020-12-14,desktop,shop.googlemerchandisestore.com,referral,2798,0,306,105,41,6,1,1
+2020-12-14,mobile,(data deleted),(data deleted),2360,0,307,106,49,10,1,1
+2020-12-14,mobile,(direct),(none),6609,0,699,129,95,14,1,1
+2020-12-14,mobile,<Other>,(data deleted),8,0,0,0,0,0,0,0
+2020-12-14,mobile,<Other>,<Other>,3382,0,298,69,44,7,0,0
+2020-12-14,mobile,<Other>,organic,519,0,30,5,0,0,0,0
+2020-12-14,mobile,<Other>,referral,2766,0,289,52,39,6,0,0
+2020-12-14,mobile,google,cpc,1207,0,134,45,12,1,0,0
+2020-12-14,mobile,google,organic,8236,0,801,178,78,15,0,0
+2020-12-14,mobile,shop.googlemerchandisestore.com,referral,2690,0,317,146,38,7,0,0
+2020-12-14,tablet,(data deleted),(data deleted),34,0,0,0,0,0,0,0
+2020-12-14,tablet,(direct),(none),474,0,53,10,2,0,0,0
+2020-12-14,tablet,<Other>,<Other>,130,0,1,0,0,0,0,0
+2020-12-14,tablet,<Other>,organic,7,0,0,0,0,0,0,0
+2020-12-14,tablet,<Other>,referral,36,0,1,0,0,0,0,0
+2020-12-14,tablet,google,cpc,34,0,0,0,0,0,0,0
+2020-12-14,tablet,google,organic,925,0,110,25,14,1,0,0
+2020-12-14,tablet,shop.googlemerchandisestore.com,referral,200,0,26,12,0,0,0,0
+2020-12-15,desktop,(data deleted),(data deleted),2744,0,307,88,35,6,1,1
+2020-12-15,desktop,(direct),(none),9457,0,961,245,97,22,2,2
+2020-12-15,desktop,<Other>,(data deleted),32,0,1,1,0,0,0,0
+2020-12-15,desktop,<Other>,<Other>,4980,0,402,134,40,6,0,0
+2020-12-15,desktop,<Other>,organic,1491,0,119,61,28,7,0,0
+2020-12-15,desktop,<Other>,referral,4148,0,397,76,60,7,0,0
+2020-12-15,desktop,google,cpc,2166,0,255,63,28,3,0,0
+2020-12-15,desktop,google,organic,13445,0,1461,384,115,21,1,1
+2020-12-15,desktop,shop.googlemerchandisestore.com,referral,4379,0,457,149,53,14,1,1
+2020-12-15,mobile,(data deleted),(data deleted),3343,0,425,156,60,9,0,0
+2020-12-15,mobile,(direct),(none),6039,0,599,141,97,14,1,1
+2020-12-15,mobile,<Other>,(data deleted),33,0,2,0,0,0,0,0
+2020-12-15,mobile,<Other>,<Other>,3553,0,253,68,54,5,0,0
+2020-12-15,mobile,<Other>,organic,579,0,65,22,0,0,0,0
+2020-12-15,mobile,<Other>,referral,2633,0,266,84,12,1,0,0
+2020-12-15,mobile,google,cpc,953,0,91,2,2,1,0,0
+2020-12-15,mobile,google,organic,8716,0,837,191,100,17,0,0
+2020-12-15,mobile,shop.googlemerchandisestore.com,referral,2104,0,183,39,32,5,0,0
+2020-12-15,tablet,(data deleted),(data deleted),37,0,3,0,0,0,0,0
+2020-12-15,tablet,(direct),(none),839,0,101,21,10,1,0,0
+2020-12-15,tablet,<Other>,<Other>,298,0,57,3,0,0,0,0
+2020-12-15,tablet,<Other>,organic,4,0,0,0,0,0,0,0
+2020-12-15,tablet,<Other>,referral,29,0,0,0,0,0,0,0
+2020-12-15,tablet,google,cpc,37,0,0,0,0,0,0,0
+2020-12-15,tablet,google,organic,662,0,101,14,2,0,0,0
+2020-12-15,tablet,shop.googlemerchandisestore.com,referral,73,0,5,1,0,0,0,0
+2020-12-16,desktop,(data deleted),(data deleted),4271,0,536,148,94,15,0,0
+2020-12-16,desktop,(direct),(none),9529,0,891,271,104,20,0,0
+2020-12-16,desktop,<Other>,(data deleted),3,0,0,0,0,0,0,0
+2020-12-16,desktop,<Other>,<Other>,4245,0,351,96,18,3,0,0
+2020-12-16,desktop,<Other>,cpc,52,0,10,9,0,0,0,0
+2020-12-16,desktop,<Other>,organic,1003,0,92,25,2,1,0,0
+2020-12-16,desktop,<Other>,referral,3898,0,383,114,62,15,0,0
+2020-12-16,desktop,google,cpc,1651,0,138,39,14,2,0,0
+2020-12-16,desktop,google,organic,11106,0,1052,229,108,21,0,0
+2020-12-16,desktop,shop.googlemerchandisestore.com,referral,4264,0,503,177,74,10,0,0
+2020-12-16,mobile,(data deleted),(data deleted),2587,0,244,85,85,9,0,0
+2020-12-16,mobile,(direct),(none),6423,0,555,134,96,14,0,0
+2020-12-16,mobile,<Other>,(data deleted),10,0,0,0,0,0,0,0
+2020-12-16,mobile,<Other>,<Other>,3488,0,317,87,22,4,0,0
+2020-12-16,mobile,<Other>,organic,912,0,112,9,6,1,0,0
+2020-12-16,mobile,<Other>,referral,2114,0,206,19,18,3,0,0
+2020-12-16,mobile,google,cpc,846,0,77,43,8,2,0,0
+2020-12-16,mobile,google,organic,7379,0,636,124,68,12,0,0
+2020-12-16,mobile,shop.googlemerchandisestore.com,referral,2374,0,224,86,36,9,0,0
+2020-12-16,tablet,(data deleted),(data deleted),95,0,9,1,4,1,0,0
+2020-12-16,tablet,(direct),(none),286,0,21,1,2,0,0,0
+2020-12-16,tablet,<Other>,<Other>,176,0,5,1,0,0,0,0
+2020-12-16,tablet,<Other>,organic,11,0,0,0,0,0,0,0
+2020-12-16,tablet,<Other>,referral,200,0,27,5,0,0,0,0
+2020-12-16,tablet,google,cpc,238,0,21,4,8,0,0,0
+2020-12-16,tablet,google,organic,212,0,15,0,0,0,0,0
+2020-12-16,tablet,shop.googlemerchandisestore.com,referral,124,0,7,3,4,1,0,0
+2020-12-17,desktop,(data deleted),(data deleted),4319,0,527,92,86,19,0,0
+2020-12-17,desktop,(direct),(none),7494,0,584,143,91,10,0,0
+2020-12-17,desktop,<Other>,(data deleted),52,0,9,5,0,0,0,0
+2020-12-17,desktop,<Other>,<Other>,4126,0,369,132,21,1,0,0
+2020-12-17,desktop,<Other>,organic,1175,0,103,9,23,1,0,0
+2020-12-17,desktop,<Other>,referral,3488,0,289,60,77,13,0,0
+2020-12-17,desktop,google,cpc,1490,0,103,27,15,5,0,0
+2020-12-17,desktop,google,organic,11520,0,1214,338,111,18,0,0
+2020-12-17,desktop,shop.googlemerchandisestore.com,referral,3411,0,396,91,40,5,0,0
+2020-12-17,mobile,(data deleted),(data deleted),1834,0,225,52,26,10,0,0
+2020-12-17,mobile,(direct),(none),6228,0,589,188,64,14,0,0
+2020-12-17,mobile,<Other>,(data deleted),86,0,10,0,4,0,0,0
+2020-12-17,mobile,<Other>,<Other>,3254,0,254,56,25,3,0,0
+2020-12-17,mobile,<Other>,organic,691,0,90,51,11,2,0,0
+2020-12-17,mobile,<Other>,referral,2518,0,254,42,17,4,0,0
+2020-12-17,mobile,google,cpc,862,0,47,6,4,1,0,0
+2020-12-17,mobile,google,organic,8016,0,805,291,86,12,1,1
+2020-12-17,mobile,shop.googlemerchandisestore.com,referral,2286,0,202,50,38,7,0,0
+2020-12-17,tablet,(data deleted),(data deleted),85,0,8,4,0,0,0,0
+2020-12-17,tablet,(direct),(none),296,0,18,3,4,1,0,0
+2020-12-17,tablet,<Other>,<Other>,187,0,20,5,0,0,0,0
+2020-12-17,tablet,<Other>,organic,22,0,4,0,0,0,0,0
+2020-12-17,tablet,<Other>,referral,74,0,2,2,0,0,0,0
+2020-12-17,tablet,google,cpc,44,0,1,0,0,0,0,0
+2020-12-17,tablet,google,organic,324,0,19,1,2,0,0,0
+2020-12-17,tablet,shop.googlemerchandisestore.com,referral,5,0,0,0,0,0,0,0
+2020-12-18,desktop,(data deleted),(data deleted),2549,0,312,148,90,9,0,0
+2020-12-18,desktop,(direct),(none),7802,0,731,264,131,26,0,0
+2020-12-18,desktop,<Other>,(data deleted),19,0,5,0,0,0,0,0
+2020-12-18,desktop,<Other>,<Other>,4663,0,456,138,51,4,0,0
+2020-12-18,desktop,<Other>,organic,559,0,39,4,0,0,0,0
+2020-12-18,desktop,<Other>,referral,3302,0,388,88,52,2,0,0
+2020-12-18,desktop,google,cpc,1228,0,100,37,18,3,0,0
+2020-12-18,desktop,google,organic,10192,0,891,183,179,18,1,1
+2020-12-18,desktop,shop.googlemerchandisestore.com,referral,2495,0,220,52,45,5,0,0
+2020-12-18,mobile,(data deleted),(data deleted),2103,0,263,73,57,4,0,0
+2020-12-18,mobile,(direct),(none),4884,0,522,203,55,8,0,0
+2020-12-18,mobile,<Other>,(data deleted),67,0,9,1,0,0,0,0
+2020-12-18,mobile,<Other>,<Other>,3408,0,279,68,69,7,0,0
+2020-12-18,mobile,<Other>,organic,600,0,50,17,8,1,0,0
+2020-12-18,mobile,<Other>,referral,2003,0,203,88,21,1,0,0
+2020-12-18,mobile,google,cpc,661,0,24,0,0,0,0,0
+2020-12-18,mobile,google,organic,6613,0,553,151,97,9,0,0
+2020-12-18,mobile,shop.googlemerchandisestore.com,referral,2482,0,238,84,55,9,0,0
+2020-12-18,tablet,(data deleted),(data deleted),4,0,0,0,0,0,0,0
+2020-12-18,tablet,(direct),(none),442,0,41,4,7,1,0,0
+2020-12-18,tablet,<Other>,<Other>,275,0,34,26,3,0,0,0
+2020-12-18,tablet,<Other>,organic,59,0,0,0,0,0,0,0
+2020-12-18,tablet,<Other>,referral,29,0,0,0,0,0,0,0
+2020-12-18,tablet,google,cpc,17,0,0,0,0,0,0,0
+2020-12-18,tablet,google,organic,231,0,16,0,0,0,0,0
+2020-12-18,tablet,shop.googlemerchandisestore.com,referral,55,0,0,0,0,0,0,0
+2020-12-19,desktop,(data deleted),(data deleted),1486,0,165,58,24,3,0,0
+2020-12-19,desktop,(direct),(none),5236,0,455,56,75,7,0,0
+2020-12-19,desktop,<Other>,(data deleted),3,0,0,0,0,0,0,0
+2020-12-19,desktop,<Other>,<Other>,3381,0,309,95,42,2,0,0
+2020-12-19,desktop,<Other>,organic,352,0,23,0,0,0,0,0
+2020-12-19,desktop,<Other>,referral,1404,0,102,21,6,0,0,0
+2020-12-19,desktop,google,cpc,1258,0,100,22,21,2,0,0
+2020-12-19,desktop,google,organic,6758,0,530,189,117,15,1,1
+2020-12-19,desktop,shop.googlemerchandisestore.com,referral,1071,0,58,10,23,1,0,0
+2020-12-19,mobile,(data deleted),(data deleted),1389,0,170,53,30,5,0,0
+2020-12-19,mobile,(direct),(none),4119,0,327,85,45,6,0,0
+2020-12-19,mobile,<Other>,(data deleted),26,0,1,1,3,0,0,0
+2020-12-19,mobile,<Other>,<Other>,1925,0,151,25,2,0,0,0
+2020-12-19,mobile,<Other>,organic,270,0,16,3,3,0,0,0
+2020-12-19,mobile,<Other>,referral,1876,0,151,60,42,5,0,0
+2020-12-19,mobile,google,cpc,525,0,20,6,3,0,0,0
+2020-12-19,mobile,google,organic,4429,0,392,68,60,5,0,0
+2020-12-19,mobile,shop.googlemerchandisestore.com,referral,1289,0,95,21,27,1,0,0
+2020-12-19,tablet,(data deleted),(data deleted),54,0,10,0,0,0,0,0
+2020-12-19,tablet,(direct),(none),183,0,17,3,3,0,0,0
+2020-12-19,tablet,<Other>,<Other>,59,0,4,0,0,0,0,0
+2020-12-19,tablet,<Other>,organic,14,0,0,0,0,0,0,0
+2020-12-19,tablet,<Other>,referral,31,0,0,0,0,0,0,0
+2020-12-19,tablet,google,cpc,15,0,1,0,0,0,0,0
+2020-12-19,tablet,google,organic,102,0,2,0,0,0,0,0
+2020-12-19,tablet,shop.googlemerchandisestore.com,referral,87,0,14,0,0,0,0,0
+2020-12-20,desktop,(data deleted),(data deleted),795,0,58,7,12,0,0,0
+2020-12-20,desktop,(direct),(none),3897,0,323,91,27,1,0,0
+2020-12-20,desktop,<Other>,(data deleted),20,0,2,0,0,0,0,0
+2020-12-20,desktop,<Other>,<Other>,2662,0,163,33,36,2,0,0
+2020-12-20,desktop,<Other>,organic,324,0,9,1,0,0,0,0
+2020-12-20,desktop,<Other>,referral,1580,0,175,15,21,1,0,0
+2020-12-20,desktop,google,cpc,434,0,20,4,0,0,0,0
+2020-12-20,desktop,google,organic,5801,0,452,145,75,6,1,1
+2020-12-20,desktop,shop.googlemerchandisestore.com,referral,1920,0,115,25,57,2,0,0
+2020-12-20,mobile,(data deleted),(data deleted),851,0,105,7,18,2,0,0
+2020-12-20,mobile,(direct),(none),2424,0,153,36,6,1,0,0
+2020-12-20,mobile,<Other>,<Other>,2157,0,214,12,6,0,0,0
+2020-12-20,mobile,<Other>,organic,231,0,15,0,0,0,0,0
+2020-12-20,mobile,<Other>,referral,1175,0,79,27,18,2,0,0
+2020-12-20,mobile,google,cpc,408,0,21,0,0,0,0,0
+2020-12-20,mobile,google,organic,3908,0,305,69,93,3,0,0
+2020-12-20,mobile,shop.googlemerchandisestore.com,referral,1106,0,159,58,6,0,0,0
+2020-12-20,tablet,(data deleted),(data deleted),31,0,4,3,0,0,0,0
+2020-12-20,tablet,(direct),(none),89,0,6,0,0,0,0,0
+2020-12-20,tablet,<Other>,<Other>,99,0,7,2,0,0,0,0
+2020-12-20,tablet,<Other>,referral,35,0,1,0,0,0,0,0
+2020-12-20,tablet,google,cpc,12,0,0,0,0,0,0,0
+2020-12-20,tablet,google,organic,96,0,3,0,0,0,0,0
+2020-12-20,tablet,shop.googlemerchandisestore.com,referral,16,0,0,0,0,0,0,0
+2020-12-21,desktop,(data deleted),(data deleted),2299,0,334,81,28,2,1,1
+2020-12-21,desktop,(direct),(none),5859,0,441,148,102,12,0,0
+2020-12-21,desktop,<Other>,(data deleted),63,0,0,0,0,0,0,0
+2020-12-21,desktop,<Other>,<Other>,2912,0,210,20,18,2,0,0
+2020-12-21,desktop,<Other>,organic,907,0,96,23,15,3,0,0
+2020-12-21,desktop,<Other>,referral,3178,0,279,51,51,4,0,0
+2020-12-21,desktop,google,cpc,726,0,34,1,0,0,0,0
+2020-12-21,desktop,google,organic,7035,0,539,109,60,6,0,0
+2020-12-21,desktop,shop.googlemerchandisestore.com,referral,1601,0,129,41,3,0,0,0
+2020-12-21,mobile,(data deleted),(data deleted),1058,0,119,20,6,1,0,0
+2020-12-21,mobile,(direct),(none),4786,0,412,121,53,8,1,1
+2020-12-21,mobile,<Other>,(data deleted),3,0,0,0,0,0,0,0
+2020-12-21,mobile,<Other>,<Other>,1957,0,104,28,27,2,0,0
+2020-12-21,mobile,<Other>,organic,571,0,68,32,3,1,0,0
+2020-12-21,mobile,<Other>,referral,1731,0,150,54,21,3,0,0
+2020-12-21,mobile,google,cpc,460,0,50,8,6,1,0,0
+2020-12-21,mobile,google,organic,4576,0,328,63,54,3,0,0
+2020-12-21,mobile,shop.googlemerchandisestore.com,referral,1417,0,120,18,21,1,0,0
+2020-12-21,tablet,(data deleted),(data deleted),11,0,0,0,0,0,0,0
+2020-12-21,tablet,(direct),(none),359,0,17,3,36,1,0,0
+2020-12-21,tablet,<Other>,(data deleted),2,0,0,0,0,0,0,0
+2020-12-21,tablet,<Other>,<Other>,147,0,11,0,0,0,0,0
+2020-12-21,tablet,<Other>,organic,22,0,2,0,0,0,0,0
+2020-12-21,tablet,<Other>,referral,132,0,7,1,3,1,0,0
+2020-12-21,tablet,google,cpc,53,0,4,0,0,0,0,0
+2020-12-21,tablet,google,organic,446,0,39,13,18,2,0,0
+2020-12-21,tablet,shop.googlemerchandisestore.com,referral,312,0,49,6,9,0,0,0
+2020-12-22,desktop,(data deleted),(data deleted),1833,0,227,92,45,5,0,0
+2020-12-22,desktop,(direct),(none),5189,0,465,105,72,9,0,0
+2020-12-22,desktop,<Other>,(data deleted),52,0,2,0,0,0,0,0
+2020-12-22,desktop,<Other>,<Other>,4070,0,432,92,38,5,2,2
+2020-12-22,desktop,<Other>,organic,631,0,37,4,3,0,0,0
+2020-12-22,desktop,<Other>,referral,2574,0,250,104,54,5,0,0
+2020-12-22,desktop,google,cpc,933,0,62,13,21,1,0,0
+2020-12-22,desktop,google,organic,7848,0,734,154,96,7,0,0
+2020-12-22,desktop,shop.googlemerchandisestore.com,referral,1882,0,195,51,27,4,0,0
+2020-12-22,mobile,(data deleted),(data deleted),1365,0,163,49,24,3,0,0
+2020-12-22,mobile,(direct),(none),4208,0,391,101,51,5,0,0
+2020-12-22,mobile,<Other>,(data deleted),32,0,1,1,0,0,0,0
+2020-12-22,mobile,<Other>,<Other>,2847,0,278,70,30,4,0,0
+2020-12-22,mobile,<Other>,organic,407,0,27,11,6,0,0,0
+2020-12-22,mobile,<Other>,referral,1710,0,183,69,6,2,0,0
+2020-12-22,mobile,google,cpc,730,0,92,18,0,0,0,0
+2020-12-22,mobile,google,organic,5286,0,418,85,36,4,0,0
+2020-12-22,mobile,shop.googlemerchandisestore.com,referral,1846,0,204,48,19,5,1,1
+2020-12-22,tablet,(data deleted),(data deleted),126,0,15,1,3,1,0,0
+2020-12-22,tablet,(direct),(none),81,0,2,0,0,0,0,0
+2020-12-22,tablet,<Other>,<Other>,67,0,6,0,0,0,0,0
+2020-12-22,tablet,<Other>,organic,50,0,4,0,0,0,0,0
+2020-12-22,tablet,<Other>,referral,227,0,36,16,9,0,0,0
+2020-12-22,tablet,google,cpc,28,0,5,0,0,0,0,0
+2020-12-22,tablet,google,organic,379,0,55,19,6,0,0,0
+2020-12-22,tablet,shop.googlemerchandisestore.com,referral,118,0,2,0,0,0,0,0
+2020-12-23,desktop,(data deleted),(data deleted),2291,0,354,160,63,7,0,0
+2020-12-23,desktop,(direct),(none),4872,0,487,129,36,4,0,0
+2020-12-23,desktop,<Other>,(data deleted),17,0,0,0,0,0,0,0
+2020-12-23,desktop,<Other>,<Other>,4198,0,448,75,45,6,0,0
+2020-12-23,desktop,<Other>,organic,687,0,70,26,12,1,0,0
+2020-12-23,desktop,<Other>,referral,1907,0,140,17,12,2,0,0
+2020-12-23,desktop,google,cpc,525,0,23,5,3,1,0,0
+2020-12-23,desktop,google,organic,6200,0,498,147,90,10,0,0
+2020-12-23,desktop,shop.googlemerchandisestore.com,referral,1470,0,165,24,12,2,0,0
+2020-12-23,mobile,(data deleted),(data deleted),1598,0,150,77,54,7,0,0
+2020-12-23,mobile,(direct),(none),3898,0,366,128,63,7,0,0
+2020-12-23,mobile,<Other>,(data deleted),56,0,9,4,3,1,0,0
+2020-12-23,mobile,<Other>,<Other>,2287,0,213,71,43,3,0,0
+2020-12-23,mobile,<Other>,organic,445,0,41,10,3,0,0,0
+2020-12-23,mobile,<Other>,referral,1777,0,154,21,18,1,0,0
+2020-12-23,mobile,google,cpc,874,0,84,18,12,0,0,0
+2020-12-23,mobile,google,organic,4764,0,354,140,102,11,0,0
+2020-12-23,mobile,shop.googlemerchandisestore.com,referral,1456,0,150,56,18,4,0,0
+2020-12-23,tablet,(data deleted),(data deleted),3,0,0,0,0,0,0,0
+2020-12-23,tablet,(direct),(none),226,0,15,4,0,0,0,0
+2020-12-23,tablet,<Other>,<Other>,85,0,3,0,0,0,0,0
+2020-12-23,tablet,<Other>,organic,11,0,0,0,0,0,0,0
+2020-12-23,tablet,<Other>,referral,68,0,8,0,0,0,0,0
+2020-12-23,tablet,google,cpc,36,0,0,0,0,0,0,0
+2020-12-23,tablet,google,organic,243,0,18,4,0,0,0,0
+2020-12-23,tablet,shop.googlemerchandisestore.com,referral,46,0,0,0,0,0,0,0
+2020-12-24,desktop,(data deleted),(data deleted),1141,0,165,61,30,5,0,0
+2020-12-24,desktop,(direct),(none),3575,0,341,52,11,1,1,1
+2020-12-24,desktop,<Other>,<Other>,1911,0,112,4,6,1,0,0
+2020-12-24,desktop,<Other>,organic,365,0,16,1,0,0,0,0
+2020-12-24,desktop,<Other>,referral,1309,0,118,30,6,0,0,0
+2020-12-24,desktop,google,cpc,964,0,78,44,15,2,0,0
+2020-12-24,desktop,google,organic,3994,0,225,26,12,1,0,0
+2020-12-24,desktop,shop.googlemerchandisestore.com,referral,1492,0,179,25,9,1,0,0
+2020-12-24,mobile,(data deleted),(data deleted),681,0,84,19,18,2,0,0
+2020-12-24,mobile,(direct),(none),2167,0,183,38,12,2,0,0
+2020-12-24,mobile,<Other>,(data deleted),3,0,0,0,0,0,0,0
+2020-12-24,mobile,<Other>,<Other>,1643,0,171,35,18,3,0,0
+2020-12-24,mobile,<Other>,organic,361,0,23,3,3,0,0,0
+2020-12-24,mobile,<Other>,referral,1275,0,125,41,12,1,0,0
+2020-12-24,mobile,google,cpc,450,0,22,12,0,0,0,0
+2020-12-24,mobile,google,organic,3109,0,246,62,15,1,0,0
+2020-12-24,mobile,shop.googlemerchandisestore.com,referral,770,0,77,17,9,1,0,0
+2020-12-24,tablet,(data deleted),(data deleted),154,0,12,11,6,1,0,0
+2020-12-24,tablet,(direct),(none),177,0,19,0,0,0,0,0
+2020-12-24,tablet,<Other>,<Other>,105,0,5,0,0,0,0,0
+2020-12-24,tablet,<Other>,organic,7,0,0,0,0,0,0,0
+2020-12-24,tablet,<Other>,referral,20,0,0,0,0,0,0,0
+2020-12-24,tablet,google,cpc,28,0,4,1,0,0,0,0
+2020-12-24,tablet,google,organic,436,0,66,1,6,1,0,0
+2020-12-24,tablet,shop.googlemerchandisestore.com,referral,2,0,0,0,0,0,0,0
+2020-12-25,desktop,(data deleted),(data deleted),834,0,85,26,21,1,0,0
+2020-12-25,desktop,(direct),(none),2210,0,129,42,18,1,0,0
+2020-12-25,desktop,<Other>,(data deleted),4,0,0,0,0,0,0,0
+2020-12-25,desktop,<Other>,<Other>,1666,0,108,16,3,0,0,0
+2020-12-25,desktop,<Other>,organic,385,0,37,4,6,1,0,0
+2020-12-25,desktop,<Other>,referral,1409,0,111,75,18,1,0,0
+2020-12-25,desktop,google,cpc,499,0,21,1,0,0,0,0
+2020-12-25,desktop,google,organic,3695,0,232,27,30,3,0,0
+2020-12-25,desktop,shop.googlemerchandisestore.com,referral,734,0,65,20,3,0,0,0
+2020-12-25,mobile,(data deleted),(data deleted),1143,0,141,78,39,2,0,0
+2020-12-25,mobile,(direct),(none),1697,0,113,33,10,3,1,1
+2020-12-25,mobile,<Other>,<Other>,1396,0,102,11,9,0,0,0
+2020-12-25,mobile,<Other>,organic,261,0,14,0,0,0,0,0
+2020-12-25,mobile,<Other>,referral,683,0,71,42,9,1,0,0
+2020-12-25,mobile,google,cpc,360,0,13,5,3,1,0,0
+2020-12-25,mobile,google,organic,2837,0,269,42,12,1,0,0
+2020-12-25,mobile,shop.googlemerchandisestore.com,referral,1106,0,109,37,18,2,0,0
+2020-12-25,tablet,(data deleted),(data deleted),10,0,0,0,0,0,0,0
+2020-12-25,tablet,(direct),(none),89,0,3,0,0,0,0,0
+2020-12-25,tablet,<Other>,<Other>,112,0,7,0,3,0,0,0
+2020-12-25,tablet,<Other>,organic,5,0,0,0,0,0,0,0
+2020-12-25,tablet,<Other>,referral,24,0,2,1,0,0,0,0
+2020-12-25,tablet,google,cpc,5,0,0,0,0,0,0,0
+2020-12-25,tablet,google,organic,142,0,5,2,0,0,0,0
+2020-12-25,tablet,shop.googlemerchandisestore.com,referral,49,0,2,0,0,0,0,0
+2020-12-26,desktop,(data deleted),(data deleted),661,0,79,12,0,0,0,0
+2020-12-26,desktop,(direct),(none),2773,0,184,27,15,1,0,0
+2020-12-26,desktop,<Other>,(data deleted),2,0,0,0,0,0,0,0
+2020-12-26,desktop,<Other>,<Other>,2243,0,252,64,3,0,0,0
+2020-12-26,desktop,<Other>,organic,440,0,45,8,6,1,0,0
+2020-12-26,desktop,<Other>,referral,1207,0,106,48,11,1,1,1
+2020-12-26,desktop,google,cpc,441,0,18,7,0,0,0,0
+2020-12-26,desktop,google,organic,4150,0,308,43,9,2,0,0
+2020-12-26,desktop,shop.googlemerchandisestore.com,referral,684,0,27,6,3,0,0,0
+2020-12-26,mobile,(data deleted),(data deleted),320,0,28,7,15,2,0,0
+2020-12-26,mobile,(direct),(none),2346,0,167,19,30,2,0,0
+2020-12-26,mobile,<Other>,(data deleted),13,0,0,0,0,0,0,0
+2020-12-26,mobile,<Other>,<Other>,1571,0,92,10,3,1,0,0
+2020-12-26,mobile,<Other>,organic,193,0,5,0,0,0,0,0
+2020-12-26,mobile,<Other>,referral,724,0,52,3,6,0,0,0
+2020-12-26,mobile,google,cpc,267,0,3,0,0,0,0,0
+2020-12-26,mobile,google,organic,2819,0,244,42,33,4,0,0
+2020-12-26,mobile,shop.googlemerchandisestore.com,referral,926,0,100,42,9,3,0,0
+2020-12-26,tablet,(data deleted),(data deleted),16,0,2,0,0,0,0,0
+2020-12-26,tablet,(direct),(none),94,0,6,0,0,0,0,0
+2020-12-26,tablet,<Other>,<Other>,39,0,0,0,0,0,0,0
+2020-12-26,tablet,<Other>,organic,5,0,0,0,0,0,0,0
+2020-12-26,tablet,<Other>,referral,34,0,0,0,0,0,0,0
+2020-12-26,tablet,google,cpc,5,0,0,0,0,0,0,0
+2020-12-26,tablet,google,organic,130,0,12,0,0,0,0,0
+2020-12-26,tablet,shop.googlemerchandisestore.com,referral,18,0,0,0,0,0,0,0
+2020-12-27,desktop,(data deleted),(data deleted),952,0,71,16,33,3,0,0
+2020-12-27,desktop,(direct),(none),2862,0,194,58,24,2,0,0
+2020-12-27,desktop,<Other>,(data deleted),33,0,7,5,0,0,0,0
+2020-12-27,desktop,<Other>,<Other>,1592,0,79,13,6,1,0,0
+2020-12-27,desktop,<Other>,organic,446,0,55,7,0,0,0,0
+2020-12-27,desktop,<Other>,referral,1318,0,142,101,9,1,0,0
+2020-12-27,desktop,google,cpc,418,0,27,0,0,0,0,0
+2020-12-27,desktop,google,organic,4373,0,342,35,15,2,0,0
+2020-12-27,desktop,shop.googlemerchandisestore.com,referral,932,0,61,16,18,2,0,0
+2020-12-27,mobile,(data deleted),(data deleted),604,0,73,20,12,1,0,0
+2020-12-27,mobile,(direct),(none),1998,0,156,91,21,1,0,0
+2020-12-27,mobile,<Other>,<Other>,1208,0,75,10,6,0,0,0
+2020-12-27,mobile,<Other>,organic,155,0,4,1,0,0,0,0
+2020-12-27,mobile,<Other>,referral,933,0,37,3,18,2,0,0
+2020-12-27,mobile,google,cpc,417,0,35,14,0,0,0,0
+2020-12-27,mobile,google,organic,3146,0,240,88,28,3,0,0
+2020-12-27,mobile,shop.googlemerchandisestore.com,referral,523,0,31,6,6,1,0,0
+2020-12-27,tablet,(data deleted),(data deleted),8,0,0,0,0,0,0,0
+2020-12-27,tablet,(direct),(none),315,0,29,14,15,1,0,0
+2020-12-27,tablet,<Other>,<Other>,52,0,3,0,0,0,0,0
+2020-12-27,tablet,<Other>,referral,103,0,16,2,0,0,0,0
+2020-12-27,tablet,google,cpc,4,0,0,0,0,0,0,0
+2020-12-27,tablet,google,organic,96,0,4,0,0,0,0,0
+2020-12-27,tablet,shop.googlemerchandisestore.com,referral,8,0,0,0,0,0,0,0
+2020-12-28,desktop,(data deleted),(data deleted),1258,0,142,43,15,3,0,0
+2020-12-28,desktop,(direct),(none),5807,0,553,167,81,9,0,0
+2020-12-28,desktop,<Other>,(data deleted),23,0,0,0,0,0,0,0
+2020-12-28,desktop,<Other>,<Other>,2644,0,200,30,6,1,0,0
+2020-12-28,desktop,<Other>,organic,574,0,29,15,12,2,0,0
+2020-12-28,desktop,<Other>,referral,1437,0,74,13,0,0,0,0
+2020-12-28,desktop,google,cpc,835,0,35,16,9,1,0,0
+2020-12-28,desktop,google,organic,5966,0,400,110,78,7,0,0
+2020-12-28,desktop,shop.googlemerchandisestore.com,referral,1247,0,121,9,0,0,0,0
+2020-12-28,mobile,(data deleted),(data deleted),790,0,85,17,15,3,0,0
+2020-12-28,mobile,(direct),(none),2643,0,190,94,18,1,0,0
+2020-12-28,mobile,<Other>,(data deleted),11,0,1,1,0,0,0,0
+2020-12-28,mobile,<Other>,<Other>,1510,0,109,11,12,1,0,0
+2020-12-28,mobile,<Other>,organic,300,0,10,4,6,0,0,0
+2020-12-28,mobile,<Other>,referral,1142,0,81,20,0,0,0,0
+2020-12-28,mobile,google,cpc,465,0,22,5,0,0,0,0
+2020-12-28,mobile,google,organic,4395,0,474,40,32,5,1,1
+2020-12-28,mobile,shop.googlemerchandisestore.com,referral,903,0,81,31,15,2,0,0
+2020-12-28,tablet,(data deleted),(data deleted),11,0,0,0,0,0,0,0
+2020-12-28,tablet,(direct),(none),189,0,15,7,3,1,0,0
+2020-12-28,tablet,<Other>,<Other>,65,0,1,0,0,0,0,0
+2020-12-28,tablet,<Other>,organic,13,0,0,0,0,0,0,0
+2020-12-28,tablet,<Other>,referral,18,0,0,0,0,0,0,0
+2020-12-28,tablet,google,cpc,25,0,0,0,0,0,0,0
+2020-12-28,tablet,google,organic,184,0,4,0,0,0,0,0
+2020-12-28,tablet,shop.googlemerchandisestore.com,referral,121,0,11,0,0,0,0,0
+2020-12-29,desktop,(data deleted),(data deleted),993,0,79,12,15,1,0,0
+2020-12-29,desktop,(direct),(none),5255,0,407,131,60,7,0,0
+2020-12-29,desktop,<Other>,<Other>,3206,0,244,65,15,3,0,0
+2020-12-29,desktop,<Other>,organic,561,0,20,5,0,0,0,0
+2020-12-29,desktop,<Other>,referral,1615,0,89,24,6,0,0,0
+2020-12-29,desktop,google,cpc,752,0,40,5,0,0,0,0
+2020-12-29,desktop,google,organic,5406,0,236,45,9,1,0,0
+2020-12-29,desktop,shop.googlemerchandisestore.com,referral,2231,0,214,51,60,3,0,0
+2020-12-29,mobile,(data deleted),(data deleted),1212,0,154,39,24,1,0,0
+2020-12-29,mobile,(direct),(none),3065,0,161,40,6,1,0,0
+2020-12-29,mobile,<Other>,(data deleted),9,0,0,0,0,0,0,0
+2020-12-29,mobile,<Other>,<Other>,1570,0,68,16,6,1,0,0
+2020-12-29,mobile,<Other>,organic,322,0,15,6,0,0,0,0
+2020-12-29,mobile,<Other>,referral,1165,0,87,30,3,1,0,0
+2020-12-29,mobile,google,cpc,681,0,60,6,0,0,0,0
+2020-12-29,mobile,google,organic,4112,0,269,34,20,3,0,0
+2020-12-29,mobile,shop.googlemerchandisestore.com,referral,1016,0,106,33,6,1,0,0
+2020-12-29,tablet,(data deleted),(data deleted),2,0,0,0,0,0,0,0
+2020-12-29,tablet,(direct),(none),70,0,2,0,0,0,0,0
+2020-12-29,tablet,<Other>,<Other>,111,0,2,4,0,0,0,0
+2020-12-29,tablet,<Other>,organic,21,0,2,0,0,0,0,0
+2020-12-29,tablet,<Other>,referral,60,0,3,0,0,0,0,0
+2020-12-29,tablet,google,cpc,23,0,2,0,0,0,0,0
+2020-12-29,tablet,google,organic,356,0,29,5,9,1,0,0
+2020-12-29,tablet,shop.googlemerchandisestore.com,referral,161,0,19,5,0,0,0,0
+2020-12-30,desktop,(data deleted),(data deleted),1075,0,115,19,18,4,0,0
+2020-12-30,desktop,(direct),(none),3362,0,128,26,9,1,0,0
+2020-12-30,desktop,<Other>,(data deleted),3,0,1,0,0,0,0,0
+2020-12-30,desktop,<Other>,<Other>,2594,0,159,15,18,1,0,0
+2020-12-30,desktop,<Other>,organic,453,0,20,6,3,0,0,0
+2020-12-30,desktop,<Other>,referral,1897,0,122,14,0,0,0,0
+2020-12-30,desktop,google,<Other>,6,0,0,0,0,0,0,0
+2020-12-30,desktop,google,cpc,855,0,42,2,0,0,0,0
+2020-12-30,desktop,google,organic,5040,0,319,66,30,2,0,0
+2020-12-30,desktop,shop.googlemerchandisestore.com,referral,1454,0,97,36,33,3,0,0
+2020-12-30,mobile,(data deleted),(data deleted),955,0,87,34,24,2,0,0
+2020-12-30,mobile,(direct),(none),2916,0,179,53,14,2,1,1
+2020-12-30,mobile,<Other>,<Other>,1510,0,93,7,15,1,0,0
+2020-12-30,mobile,<Other>,organic,474,0,39,11,0,0,0,0
+2020-12-30,mobile,<Other>,referral,1051,0,62,8,3,0,0,0
+2020-12-30,mobile,google,cpc,338,0,11,1,0,0,0,0
+2020-12-30,mobile,google,organic,4459,0,299,70,72,17,14,14
+2020-12-30,mobile,shop.googlemerchandisestore.com,referral,938,0,58,24,18,3,0,0
+2020-12-30,tablet,(data deleted),(data deleted),64,0,10,0,0,0,0,0
+2020-12-30,tablet,(direct),(none),98,0,2,0,0,0,0,0
+2020-12-30,tablet,<Other>,<Other>,87,0,4,1,0,0,0,0
+2020-12-30,tablet,<Other>,organic,73,0,2,0,0,0,0,0
+2020-12-30,tablet,<Other>,referral,91,0,2,0,0,0,0,0
+2020-12-30,tablet,google,cpc,38,0,5,0,0,0,0,0
+2020-12-30,tablet,google,organic,231,0,7,7,6,1,0,0
+2020-12-31,desktop,(data deleted),(data deleted),732,0,86,18,21,3,0,0
+2020-12-31,desktop,(direct),(none),2788,0,140,28,3,2,0,0
+2020-12-31,desktop,<Other>,(data deleted),2,0,0,0,0,0,0,0
+2020-12-31,desktop,<Other>,<Other>,2298,0,175,47,36,1,0,0
+2020-12-31,desktop,<Other>,organic,576,0,57,31,6,0,0,0
+2020-12-31,desktop,<Other>,referral,1687,0,136,46,33,5,0,0
+2020-12-31,desktop,google,cpc,716,0,39,11,9,1,0,0
+2020-12-31,desktop,google,organic,4738,0,342,105,39,3,0,0
+2020-12-31,desktop,shop.googlemerchandisestore.com,referral,1414,0,121,51,21,2,0,0
+2020-12-31,mobile,(data deleted),(data deleted),742,0,77,21,0,0,0,0
+2020-12-31,mobile,(direct),(none),2211,0,124,23,24,1,0,0
+2020-12-31,mobile,<Other>,<Other>,1356,0,61,3,9,1,0,0
+2020-12-31,mobile,<Other>,organic,338,0,20,10,12,0,0,0
+2020-12-31,mobile,<Other>,referral,651,0,26,2,9,2,0,0
+2020-12-31,mobile,google,cpc,281,0,11,2,0,0,0,0
+2020-12-31,mobile,google,organic,2738,0,147,22,12,2,0,0
+2020-12-31,mobile,shop.googlemerchandisestore.com,referral,571,0,21,7,9,1,0,0
+2020-12-31,tablet,(data deleted),(data deleted),114,0,17,4,9,1,0,0
+2020-12-31,tablet,(direct),(none),162,0,14,0,0,0,0,0
+2020-12-31,tablet,<Other>,<Other>,98,0,2,0,0,0,0,0
+2020-12-31,tablet,<Other>,organic,11,0,1,0,0,0,0,0
+2020-12-31,tablet,<Other>,referral,21,0,0,0,0,0,0,0
+2020-12-31,tablet,google,cpc,36,0,0,0,0,0,0,0
+2020-12-31,tablet,google,organic,217,0,21,13,0,0,0,0
+2020-12-31,tablet,shop.googlemerchandisestore.com,referral,39,0,1,0,0,0,0,0
+2021-01-01,desktop,(data deleted),(data deleted),578,0,79,5,12,3,0,0
+2021-01-01,desktop,(direct),(none),4284,0,319,48,27,1,0,0
+2021-01-01,desktop,<Other>,(data deleted),13,0,2,0,0,0,0,0
+2021-01-01,desktop,<Other>,<Other>,1633,0,61,6,9,0,0,0
+2021-01-01,desktop,<Other>,organic,380,0,26,1,0,0,0,0
+2021-01-01,desktop,<Other>,referral,914,0,49,3,0,0,0,0
+2021-01-01,desktop,google,cpc,523,0,15,2,0,0,0,0
+2021-01-01,desktop,google,organic,4273,0,315,78,21,2,0,0
+2021-01-01,desktop,shop.googlemerchandisestore.com,referral,879,0,114,2,0,0,0,0
+2021-01-01,mobile,(data deleted),(data deleted),427,0,39,18,3,1,0,0
+2021-01-01,mobile,(direct),(none),2251,0,154,48,30,4,0,0
+2021-01-01,mobile,<Other>,(data deleted),37,0,2,0,0,0,0,0
+2021-01-01,mobile,<Other>,<Other>,1559,0,108,26,15,0,0,0
+2021-01-01,mobile,<Other>,organic,142,0,2,0,0,0,0,0
+2021-01-01,mobile,<Other>,referral,743,0,55,8,3,1,0,0
+2021-01-01,mobile,google,cpc,179,0,1,0,0,0,0,0
+2021-01-01,mobile,google,organic,2407,0,84,22,36,1,0,0
+2021-01-01,mobile,shop.googlemerchandisestore.com,referral,407,0,20,2,0,0,0,0
+2021-01-01,tablet,(direct),(none),92,0,6,0,0,0,0,0
+2021-01-01,tablet,<Other>,<Other>,85,0,2,0,0,0,0,0
+2021-01-01,tablet,<Other>,organic,10,0,0,0,0,0,0,0
+2021-01-01,tablet,<Other>,referral,55,0,2,0,0,0,0,0
+2021-01-01,tablet,google,cpc,153,0,42,26,6,1,0,0
+2021-01-01,tablet,google,organic,39,0,1,0,0,0,0,0
+2021-01-01,tablet,shop.googlemerchandisestore.com,referral,33,0,0,0,0,0,0,0
+2021-01-02,desktop,(data deleted),(data deleted),901,0,95,28,21,1,0,0
+2021-01-02,desktop,(direct),(none),3146,0,194,42,18,1,0,0
+2021-01-02,desktop,<Other>,<Other>,2783,0,222,99,18,1,0,0
+2021-01-02,desktop,<Other>,organic,369,0,13,0,0,0,0,0
+2021-01-02,desktop,<Other>,referral,1450,0,73,18,3,0,0,0
+2021-01-02,desktop,google,cpc,569,0,24,0,0,0,0,0
+2021-01-02,desktop,google,organic,4771,0,264,25,23,3,0,0
+2021-01-02,desktop,shop.googlemerchandisestore.com,referral,782,0,53,5,0,0,0,0
+2021-01-02,mobile,(data deleted),(data deleted),248,0,22,0,0,0,0,0
+2021-01-02,mobile,(direct),(none),2109,0,117,20,12,1,0,0
+2021-01-02,mobile,<Other>,<Other>,1219,0,61,8,3,1,0,0
+2021-01-02,mobile,<Other>,organic,180,0,1,0,0,0,0,0
+2021-01-02,mobile,<Other>,referral,1002,0,53,9,18,2,0,0
+2021-01-02,mobile,google,cpc,372,0,24,7,0,0,0,0
+2021-01-02,mobile,google,organic,2755,0,134,34,15,2,1,1
+2021-01-02,mobile,shop.googlemerchandisestore.com,referral,342,0,2,1,3,1,0,0
+2021-01-02,tablet,(direct),(none),59,0,2,0,0,0,0,0
+2021-01-02,tablet,<Other>,<Other>,83,0,6,0,0,0,0,0
+2021-01-02,tablet,<Other>,organic,18,0,0,0,0,0,0,0
+2021-01-02,tablet,<Other>,referral,44,0,4,0,0,0,0,0
+2021-01-02,tablet,google,cpc,61,0,0,0,0,0,0,0
+2021-01-02,tablet,google,organic,322,0,26,8,6,1,0,0
+2021-01-02,tablet,shop.googlemerchandisestore.com,referral,14,0,0,0,0,0,0,0
+2021-01-03,desktop,(data deleted),(data deleted),809,0,119,23,6,2,0,0
+2021-01-03,desktop,(direct),(none),3023,0,174,22,9,1,0,0
+2021-01-03,desktop,<Other>,(data deleted),10,0,0,0,0,0,0,0
+2021-01-03,desktop,<Other>,<Other>,2680,0,159,47,27,2,0,0
+2021-01-03,desktop,<Other>,organic,371,0,19,5,0,0,0,0
+2021-01-03,desktop,<Other>,referral,1192,0,42,8,0,0,0,0
+2021-01-03,desktop,google,cpc,511,0,21,0,6,1,0,0
+2021-01-03,desktop,google,organic,4593,0,267,12,24,0,0,0
+2021-01-03,desktop,shop.googlemerchandisestore.com,referral,1215,0,147,17,9,1,0,0
+2021-01-03,mobile,(data deleted),(data deleted),327,0,17,3,9,1,0,0
+2021-01-03,mobile,(direct),(none),2136,0,150,4,6,1,0,0
+2021-01-03,mobile,<Other>,<Other>,1651,0,72,5,30,2,0,0
+2021-01-03,mobile,<Other>,organic,252,0,12,0,0,0,0,0
+2021-01-03,mobile,<Other>,referral,876,0,55,31,3,1,0,0
+2021-01-03,mobile,google,cpc,395,0,25,2,0,0,0,0
+2021-01-03,mobile,google,organic,3414,0,210,25,10,1,1,1
+2021-01-03,mobile,shop.googlemerchandisestore.com,referral,993,0,113,23,12,1,0,0
+2021-01-03,tablet,(direct),(none),85,0,4,1,0,0,0,0
+2021-01-03,tablet,<Other>,<Other>,64,0,6,1,0,0,0,0
+2021-01-03,tablet,<Other>,organic,9,0,1,0,0,0,0,0
+2021-01-03,tablet,<Other>,referral,19,0,0,0,0,0,0,0
+2021-01-03,tablet,google,cpc,5,0,0,0,0,0,0,0
+2021-01-03,tablet,google,organic,108,0,2,0,0,0,0,0
+2021-01-03,tablet,shop.googlemerchandisestore.com,referral,5,0,0,0,0,0,0,0
+2021-01-04,desktop,(data deleted),(data deleted),1045,0,115,47,9,2,0,0
+2021-01-04,desktop,(direct),(none),4453,0,289,25,39,2,0,0
+2021-01-04,desktop,<Other>,(data deleted),14,0,1,0,0,0,0,0
+2021-01-04,desktop,<Other>,<Other>,2274,0,74,6,3,0,0,0
+2021-01-04,desktop,<Other>,organic,629,0,73,4,3,0,0,0
+2021-01-04,desktop,<Other>,referral,2028,0,152,55,12,1,0,0
+2021-01-04,desktop,google,cpc,851,0,41,1,0,0,0,0
+2021-01-04,desktop,google,organic,5910,0,315,53,27,3,0,0
+2021-01-04,desktop,shop.googlemerchandisestore.com,referral,1031,0,42,3,3,1,0,0
+2021-01-04,mobile,(data deleted),(data deleted),672,0,59,30,6,1,0,0
+2021-01-04,mobile,(direct),(none),2226,0,91,13,6,1,0,0
+2021-01-04,mobile,<Other>,<Other>,2444,0,203,41,27,1,0,0
+2021-01-04,mobile,<Other>,organic,213,0,5,0,0,0,0,0
+2021-01-04,mobile,<Other>,referral,1097,0,60,12,0,0,0,0
+2021-01-04,mobile,google,cpc,681,0,70,1,6,1,0,0
+2021-01-04,mobile,google,organic,4048,0,271,70,33,2,0,0
+2021-01-04,mobile,shop.googlemerchandisestore.com,referral,909,0,46,8,0,0,0,0
+2021-01-04,tablet,(data deleted),(data deleted),18,0,0,0,0,0,0,0
+2021-01-04,tablet,(direct),(none),277,0,15,6,9,1,0,0
+2021-01-04,tablet,<Other>,<Other>,121,0,11,0,0,0,0,0
+2021-01-04,tablet,<Other>,organic,9,0,0,0,0,0,0,0
+2021-01-04,tablet,<Other>,referral,134,0,13,4,0,0,0,0
+2021-01-04,tablet,google,cpc,6,0,1,0,0,0,0,0
+2021-01-04,tablet,google,organic,282,0,35,16,0,0,0,0
+2021-01-04,tablet,shop.googlemerchandisestore.com,referral,23,0,1,1,0,0,0,0
+2021-01-05,desktop,(data deleted),(data deleted),1214,0,101,13,12,2,1,1
+2021-01-05,desktop,(direct),(none),5374,0,339,29,15,3,0,0
+2021-01-05,desktop,<Other>,(data deleted),6,0,0,0,0,0,0,0
+2021-01-05,desktop,<Other>,<Other>,3398,0,138,30,9,1,0,0
+2021-01-05,desktop,<Other>,organic,739,0,41,12,0,0,0,0
+2021-01-05,desktop,<Other>,referral,2843,0,173,41,51,1,0,0
+2021-01-05,desktop,google,cpc,1225,0,72,15,0,0,0,0
+2021-01-05,desktop,google,organic,8296,0,545,129,54,10,0,0
+2021-01-05,desktop,shop.googlemerchandisestore.com,referral,1771,0,130,57,24,1,0,0
+2021-01-05,mobile,(data deleted),(data deleted),1034,0,121,23,21,3,0,0
+2021-01-05,mobile,(direct),(none),4027,0,262,50,9,1,0,0
+2021-01-05,mobile,<Other>,(data deleted),5,0,0,0,0,0,0,0
+2021-01-05,mobile,<Other>,<Other>,2033,0,87,7,2,0,0,0
+2021-01-05,mobile,<Other>,organic,320,0,15,3,0,0,0,0
+2021-01-05,mobile,<Other>,referral,1551,0,112,11,0,0,0,0
+2021-01-05,mobile,google,cpc,897,0,57,27,15,2,0,0
+2021-01-05,mobile,google,organic,5655,0,331,63,36,4,0,0
+2021-01-05,mobile,shop.googlemerchandisestore.com,referral,1604,0,161,27,12,1,0,0
+2021-01-05,tablet,(data deleted),(data deleted),71,0,6,0,0,0,0,0
+2021-01-05,tablet,(direct),(none),179,0,2,0,0,0,0,0
+2021-01-05,tablet,<Other>,<Other>,143,0,4,1,0,0,0,0
+2021-01-05,tablet,<Other>,organic,22,0,1,0,0,0,0,0
+2021-01-05,tablet,<Other>,referral,123,0,10,0,0,0,0,0
+2021-01-05,tablet,google,cpc,41,0,0,0,0,0,0,0
+2021-01-05,tablet,google,organic,221,0,7,0,0,0,0,0
+2021-01-05,tablet,shop.googlemerchandisestore.com,referral,35,0,0,0,0,0,0,0
+2021-01-06,desktop,(data deleted),(data deleted),1883,0,160,54,24,1,0,0
+2021-01-06,desktop,(direct),(none),8285,0,528,128,45,7,0,0
+2021-01-06,desktop,<Other>,(data deleted),13,0,0,0,0,0,0,0
+2021-01-06,desktop,<Other>,<Other>,4422,0,163,35,21,2,0,0
+2021-01-06,desktop,<Other>,organic,1086,0,44,13,12,1,0,0
+2021-01-06,desktop,<Other>,referral,3182,0,136,38,18,2,0,0
+2021-01-06,desktop,google,cpc,1725,0,107,31,9,1,0,0
+2021-01-06,desktop,google,organic,11332,0,738,103,96,3,0,0
+2021-01-06,desktop,shop.googlemerchandisestore.com,referral,2410,0,152,21,12,2,0,0
+2021-01-06,mobile,(data deleted),(data deleted),1053,0,105,35,9,1,0,0
+2021-01-06,mobile,(direct),(none),4968,0,277,38,36,3,0,0
+2021-01-06,mobile,<Other>,(data deleted),6,0,0,0,0,0,0,0
+2021-01-06,mobile,<Other>,<Other>,3195,0,151,33,6,1,0,0
+2021-01-06,mobile,<Other>,organic,549,0,11,2,3,0,0,0
+2021-01-06,mobile,<Other>,referral,1965,0,124,41,24,4,0,0
+2021-01-06,mobile,google,cpc,811,0,19,4,0,0,0,0
+2021-01-06,mobile,google,organic,6694,0,318,60,18,2,0,0
+2021-01-06,mobile,shop.googlemerchandisestore.com,referral,1318,0,63,2,3,0,0,0
+2021-01-06,tablet,(data deleted),(data deleted),128,0,12,10,6,1,0,0
+2021-01-06,tablet,(direct),(none),300,0,10,0,0,0,0,0
+2021-01-06,tablet,<Other>,<Other>,208,0,2,1,0,0,0,0
+2021-01-06,tablet,<Other>,organic,12,0,0,0,0,0,0,0
+2021-01-06,tablet,<Other>,referral,119,0,5,0,3,0,0,0
+2021-01-06,tablet,google,cpc,47,0,3,5,3,0,0,0
+2021-01-06,tablet,google,organic,338,0,16,2,0,0,0,0
+2021-01-06,tablet,shop.googlemerchandisestore.com,referral,27,0,0,0,0,0,0,0
+2021-01-07,desktop,(data deleted),(data deleted),1628,0,140,26,42,3,0,0
+2021-01-07,desktop,(direct),(none),5993,0,420,71,34,6,1,1
+2021-01-07,desktop,<Other>,(data deleted),5,0,0,0,0,0,0,0
+2021-01-07,desktop,<Other>,<Other>,3501,0,193,71,21,1,0,0
+2021-01-07,desktop,<Other>,organic,710,0,33,18,0,0,0,0
+2021-01-07,desktop,<Other>,referral,2130,0,144,17,15,1,0,0
+2021-01-07,desktop,google,cpc,927,0,43,1,0,0,0,0
+2021-01-07,desktop,google,organic,9057,0,579,90,71,7,2,2
+2021-01-07,desktop,shop.googlemerchandisestore.com,referral,1785,0,118,31,9,0,0,0
+2021-01-07,mobile,(data deleted),(data deleted),1294,0,123,49,38,1,0,0
+2021-01-07,mobile,(direct),(none),3924,0,228,68,53,2,0,0
+2021-01-07,mobile,<Other>,(data deleted),3,0,0,0,0,0,0,0
+2021-01-07,mobile,<Other>,<Other>,2301,0,115,19,6,0,0,0
+2021-01-07,mobile,<Other>,organic,500,0,22,4,3,1,0,0
+2021-01-07,mobile,<Other>,referral,1465,0,70,12,3,0,0,0
+2021-01-07,mobile,google,cpc,857,0,42,19,0,0,0,0
+2021-01-07,mobile,google,organic,5678,0,349,68,54,4,0,0
+2021-01-07,mobile,shop.googlemerchandisestore.com,referral,1313,0,69,18,9,0,0,0
+2021-01-07,tablet,(data deleted),(data deleted),68,0,4,0,0,0,0,0
+2021-01-07,tablet,(direct),(none),409,0,30,4,0,0,0,0
+2021-01-07,tablet,<Other>,<Other>,171,0,8,1,0,0,0,0
+2021-01-07,tablet,<Other>,organic,3,0,0,0,0,0,0,0
+2021-01-07,tablet,<Other>,referral,82,0,6,0,0,0,0,0
+2021-01-07,tablet,google,cpc,190,0,19,0,9,0,0,0
+2021-01-07,tablet,google,organic,430,0,41,7,6,0,0,0
+2021-01-07,tablet,shop.googlemerchandisestore.com,referral,49,0,2,0,0,0,0,0
+2021-01-08,desktop,(data deleted),(data deleted),1599,0,134,43,9,1,0,0
+2021-01-08,desktop,(direct),(none),5570,0,331,56,66,9,0,0
+2021-01-08,desktop,<Other>,(data deleted),58,0,4,0,0,0,0,0
+2021-01-08,desktop,<Other>,<Other>,3348,0,172,22,21,4,0,0
+2021-01-08,desktop,<Other>,organic,574,0,37,12,3,0,0,0
+2021-01-08,desktop,<Other>,referral,2148,0,112,9,18,1,0,0
+2021-01-08,desktop,google,cpc,1200,0,84,20,14,3,1,1
+2021-01-08,desktop,google,organic,7214,0,502,89,42,3,0,0
+2021-01-08,desktop,shop.googlemerchandisestore.com,referral,2341,0,209,104,33,1,0,0
+2021-01-08,mobile,(data deleted),(data deleted),1111,0,93,20,22,2,1,1
+2021-01-08,mobile,(direct),(none),4098,0,216,32,33,4,0,0
+2021-01-08,mobile,<Other>,(data deleted),6,0,0,0,0,0,0,0
+2021-01-08,mobile,<Other>,<Other>,1801,0,78,15,9,1,0,0
+2021-01-08,mobile,<Other>,organic,532,0,21,0,3,1,0,0
+2021-01-08,mobile,<Other>,referral,1974,0,169,23,6,2,0,0
+2021-01-08,mobile,google,cpc,631,0,63,8,0,0,0,0
+2021-01-08,mobile,google,organic,4658,0,241,19,12,0,0,0
+2021-01-08,mobile,shop.googlemerchandisestore.com,referral,1363,0,121,8,9,1,0,0
+2021-01-08,tablet,(data deleted),(data deleted),101,0,8,1,3,0,0,0
+2021-01-08,tablet,(direct),(none),270,0,31,15,3,0,0,0
+2021-01-08,tablet,<Other>,<Other>,94,0,4,0,0,0,0,0
+2021-01-08,tablet,<Other>,organic,132,0,18,2,2,1,1,1
+2021-01-08,tablet,<Other>,referral,60,0,2,0,0,0,0,0
+2021-01-08,tablet,google,cpc,40,0,0,0,0,0,0,0
+2021-01-08,tablet,google,organic,210,0,9,0,0,0,0,0
+2021-01-08,tablet,shop.googlemerchandisestore.com,referral,68,0,1,0,0,0,0,0
+2021-01-09,desktop,(data deleted),(data deleted),1105,0,94,25,3,1,0,0
+2021-01-09,desktop,(direct),(none),4769,0,365,98,42,3,0,0
+2021-01-09,desktop,<Other>,<Other>,2639,0,221,74,12,1,0,0
+2021-01-09,desktop,<Other>,organic,584,0,39,0,0,0,0,0
+2021-01-09,desktop,<Other>,referral,1608,0,103,28,12,1,0,0
+2021-01-09,desktop,google,cpc,702,0,42,9,6,1,0,0
+2021-01-09,desktop,google,organic,5251,0,246,31,18,3,0,0
+2021-01-09,desktop,shop.googlemerchandisestore.com,referral,1542,0,156,14,9,1,0,0
+2021-01-09,mobile,(data deleted),(data deleted),652,0,46,10,5,2,1,1
+2021-01-09,mobile,(direct),(none),2785,0,157,31,9,1,0,0
+2021-01-09,mobile,<Other>,<Other>,2065,0,155,51,6,0,0,0
+2021-01-09,mobile,<Other>,organic,485,0,50,32,6,1,0,0
+2021-01-09,mobile,<Other>,referral,1878,0,192,7,21,4,0,0
+2021-01-09,mobile,google,cpc,390,0,16,1,3,0,0,0
+2021-01-09,mobile,google,organic,3732,0,163,42,15,0,0,0
+2021-01-09,mobile,shop.googlemerchandisestore.com,referral,896,0,59,7,6,1,0,0
+2021-01-09,tablet,(data deleted),(data deleted),6,0,0,0,0,0,0,0
+2021-01-09,tablet,(direct),(none),182,0,16,1,0,0,0,0
+2021-01-09,tablet,<Other>,<Other>,96,0,1,0,0,0,0,0
+2021-01-09,tablet,<Other>,organic,8,0,0,0,0,0,0,0
+2021-01-09,tablet,<Other>,referral,85,0,2,0,0,0,0,0
+2021-01-09,tablet,google,cpc,15,0,0,0,0,0,0,0
+2021-01-09,tablet,google,organic,149,0,7,1,0,0,0,0
+2021-01-09,tablet,shop.googlemerchandisestore.com,referral,6,0,0,0,0,0,0,0
+2021-01-10,desktop,(data deleted),(data deleted),705,0,95,32,3,1,0,0
+2021-01-10,desktop,(direct),(none),3300,0,183,34,18,3,0,0
+2021-01-10,desktop,<Other>,(data deleted),53,0,5,2,0,0,0,0
+2021-01-10,desktop,<Other>,<Other>,2239,0,143,37,12,1,0,0
+2021-01-10,desktop,<Other>,organic,412,0,10,1,0,0,0,0
+2021-01-10,desktop,<Other>,referral,1333,0,100,14,3,0,0,0
+2021-01-10,desktop,google,cpc,766,0,31,9,0,0,0,0
+2021-01-10,desktop,google,organic,4569,0,212,31,32,1,0,0
+2021-01-10,desktop,shop.googlemerchandisestore.com,referral,1875,0,220,39,39,3,0,0
+2021-01-10,mobile,(data deleted),(data deleted),552,0,60,11,3,0,0,0
+2021-01-10,mobile,(direct),(none),2581,0,151,30,12,1,0,0
+2021-01-10,mobile,<Other>,(data deleted),18,0,0,0,0,0,0,0
+2021-01-10,mobile,<Other>,<Other>,1936,0,78,7,18,2,0,0
+2021-01-10,mobile,<Other>,organic,482,0,30,5,3,0,0,0
+2021-01-10,mobile,<Other>,referral,910,0,70,11,3,0,0,0
+2021-01-10,mobile,google,cpc,443,0,14,0,0,0,0,0
+2021-01-10,mobile,google,organic,3882,0,277,24,21,2,0,0
+2021-01-10,mobile,shop.googlemerchandisestore.com,referral,687,0,43,1,0,0,0,0
+2021-01-10,tablet,(data deleted),(data deleted),2,0,0,0,0,0,0,0
+2021-01-10,tablet,(direct),(none),123,0,14,0,0,0,0,0
+2021-01-10,tablet,<Other>,<Other>,74,0,1,0,0,0,0,0
+2021-01-10,tablet,<Other>,organic,75,0,2,1,6,0,0,0
+2021-01-10,tablet,<Other>,referral,76,0,7,3,0,0,0,0
+2021-01-10,tablet,google,cpc,127,0,13,11,0,0,0,0
+2021-01-10,tablet,google,organic,201,0,19,7,0,0,0,0
+2021-01-10,tablet,shop.googlemerchandisestore.com,referral,8,0,0,0,0,0,0,0
+2021-01-11,desktop,(data deleted),(data deleted),1048,0,85,8,9,0,0,0
+2021-01-11,desktop,(direct),(none),4811,0,317,62,39,5,0,0
+2021-01-11,desktop,<Other>,<Other>,3622,0,177,30,45,2,0,0
+2021-01-11,desktop,<Other>,organic,742,0,38,5,9,1,0,0
+2021-01-11,desktop,<Other>,referral,2004,0,151,39,15,3,0,0
+2021-01-11,desktop,google,cpc,1089,0,81,31,12,2,0,0
+2021-01-11,desktop,google,organic,6515,0,370,81,29,4,1,1
+2021-01-11,desktop,shop.googlemerchandisestore.com,referral,1678,0,167,30,6,1,0,0
+2021-01-11,mobile,(data deleted),(data deleted),1121,0,86,59,36,2,0,0
+2021-01-11,mobile,(direct),(none),3494,0,235,32,24,5,0,0
+2021-01-11,mobile,<Other>,<Other>,2518,0,179,34,5,0,0,0
+2021-01-11,mobile,<Other>,organic,384,0,14,4,3,0,0,0
+2021-01-11,mobile,<Other>,referral,1473,0,84,14,3,0,0,0
+2021-01-11,mobile,google,cpc,639,0,19,3,6,0,0,0
+2021-01-11,mobile,google,organic,4818,0,287,68,15,1,0,0
+2021-01-11,mobile,shop.googlemerchandisestore.com,referral,1343,0,111,34,18,1,0,0
+2021-01-11,tablet,(data deleted),(data deleted),36,0,3,0,0,0,0,0
+2021-01-11,tablet,(direct),(none),264,0,14,0,0,0,0,0
+2021-01-11,tablet,<Other>,<Other>,134,0,7,3,6,1,0,0
+2021-01-11,tablet,<Other>,organic,6,0,0,0,0,0,0,0
+2021-01-11,tablet,<Other>,referral,44,0,0,0,0,0,0,0
+2021-01-11,tablet,google,cpc,23,0,0,0,0,0,0,0
+2021-01-11,tablet,google,organic,286,0,14,0,0,0,0,0
+2021-01-11,tablet,shop.googlemerchandisestore.com,referral,52,0,5,0,0,0,0,0
+2021-01-12,desktop,(data deleted),(data deleted),1744,0,174,53,36,4,0,0
+2021-01-12,desktop,(direct),(none),7178,0,561,97,49,6,1,1
+2021-01-12,desktop,<Other>,(data deleted),20,0,0,0,0,0,0,0
+2021-01-12,desktop,<Other>,<Other>,4495,0,319,54,39,7,0,0
+2021-01-12,desktop,<Other>,organic,779,0,63,18,12,0,0,0
+2021-01-12,desktop,<Other>,referral,2715,0,239,51,32,2,1,1
+2021-01-12,desktop,google,cpc,926,0,45,10,3,0,0,0
+2021-01-12,desktop,google,organic,8544,0,536,153,67,5,0,0
+2021-01-12,desktop,shop.googlemerchandisestore.com,referral,1824,0,113,33,12,3,0,0
+2021-01-12,mobile,(data deleted),(data deleted),1156,0,99,16,27,1,0,0
+2021-01-12,mobile,(direct),(none),4236,0,241,33,33,6,0,0
+2021-01-12,mobile,<Other>,(data deleted),22,0,0,0,0,0,0,0
+2021-01-12,mobile,<Other>,<Other>,2809,0,158,60,20,1,0,0
+2021-01-12,mobile,<Other>,organic,585,0,19,4,6,1,0,0
+2021-01-12,mobile,<Other>,referral,1774,0,99,13,3,0,0,0
+2021-01-12,mobile,google,cpc,750,0,34,1,6,1,0,0
+2021-01-12,mobile,google,organic,5988,0,345,47,51,7,0,0
+2021-01-12,mobile,shop.googlemerchandisestore.com,referral,1688,0,156,39,14,2,0,0
+2021-01-12,tablet,(data deleted),(data deleted),34,0,1,0,0,0,0,0
+2021-01-12,tablet,(direct),(none),216,0,13,7,0,0,0,0
+2021-01-12,tablet,<Other>,<Other>,206,0,18,0,0,0,0,0
+2021-01-12,tablet,<Other>,organic,51,0,1,0,0,0,0,0
+2021-01-12,tablet,<Other>,referral,198,0,19,1,9,0,0,0
+2021-01-12,tablet,google,cpc,36,0,0,0,0,0,0,0
+2021-01-12,tablet,google,organic,403,0,42,46,6,1,0,0
+2021-01-12,tablet,shop.googlemerchandisestore.com,referral,121,0,20,9,3,1,0,0
+2021-01-13,desktop,(data deleted),(data deleted),2023,0,244,34,21,5,0,0
+2021-01-13,desktop,(direct),(none),5873,0,339,63,34,3,1,1
+2021-01-13,desktop,<Other>,(data deleted),36,0,4,0,0,0,0,0
+2021-01-13,desktop,<Other>,<Other>,4161,0,282,92,33,2,0,0
+2021-01-13,desktop,<Other>,organic,701,0,16,7,0,0,0,0
+2021-01-13,desktop,<Other>,referral,2451,0,156,41,24,4,0,0
+2021-01-13,desktop,google,cpc,1222,0,80,13,9,2,0,0
+2021-01-13,desktop,google,organic,8310,0,595,107,96,4,0,0
+2021-01-13,desktop,shop.googlemerchandisestore.com,referral,1697,0,87,18,9,1,0,0
+2021-01-13,mobile,(data deleted),(data deleted),1323,0,114,22,48,3,0,0
+2021-01-13,mobile,(direct),(none),4296,0,316,86,21,3,0,0
+2021-01-13,mobile,<Other>,(data deleted),33,0,6,0,0,0,0,0
+2021-01-13,mobile,<Other>,<Other>,2324,0,99,16,12,2,0,0
+2021-01-13,mobile,<Other>,organic,472,0,17,7,3,0,0,0
+2021-01-13,mobile,<Other>,referral,1458,0,64,8,3,1,0,0
+2021-01-13,mobile,google,cpc,696,0,42,0,0,0,0,0
+2021-01-13,mobile,google,organic,6225,0,422,142,70,4,1,1
+2021-01-13,mobile,shop.googlemerchandisestore.com,referral,1492,0,88,7,15,2,0,0
+2021-01-13,tablet,(data deleted),(data deleted),104,0,1,0,0,0,0,0
+2021-01-13,tablet,(direct),(none),197,0,5,2,0,0,0,0
+2021-01-13,tablet,<Other>,<Other>,71,0,1,0,0,0,0,0
+2021-01-13,tablet,<Other>,organic,5,0,0,0,0,0,0,0
+2021-01-13,tablet,<Other>,referral,68,0,3,0,0,0,0,0
+2021-01-13,tablet,google,cpc,35,0,0,0,0,0,0,0
+2021-01-13,tablet,google,organic,157,0,4,0,0,0,0,0
+2021-01-13,tablet,shop.googlemerchandisestore.com,referral,111,0,5,0,0,0,0,0
+2021-01-14,desktop,(data deleted),(data deleted),1875,0,184,45,57,5,0,0
+2021-01-14,desktop,(direct),(none),7063,0,585,128,67,8,3,3
+2021-01-14,desktop,<Other>,(data deleted),36,0,3,0,0,0,0,0
+2021-01-14,desktop,<Other>,<Other>,3356,0,199,46,12,3,0,0
+2021-01-14,desktop,<Other>,organic,872,0,55,3,3,0,0,0
+2021-01-14,desktop,<Other>,referral,2542,0,258,26,27,3,0,0
+2021-01-14,desktop,google,cpc,1093,0,63,19,0,0,0,0
+2021-01-14,desktop,google,organic,7879,0,438,89,45,5,0,0
+2021-01-14,desktop,shop.googlemerchandisestore.com,referral,2360,0,212,51,29,5,1,1
+2021-01-14,mobile,(data deleted),(data deleted),811,0,73,19,9,2,0,0
+2021-01-14,mobile,(direct),(none),4162,0,275,52,58,4,1,1
+2021-01-14,mobile,<Other>,<Other>,2308,0,123,11,28,2,0,0
+2021-01-14,mobile,<Other>,organic,432,0,21,3,0,0,0,0
+2021-01-14,mobile,<Other>,referral,1949,0,142,38,12,2,0,0
+2021-01-14,mobile,google,cpc,608,0,13,3,0,0,0,0
+2021-01-14,mobile,google,organic,5809,0,434,78,80,10,0,0
+2021-01-14,mobile,shop.googlemerchandisestore.com,referral,1739,0,142,60,42,5,0,0
+2021-01-14,tablet,(data deleted),(data deleted),47,0,1,3,0,0,0,0
+2021-01-14,tablet,(direct),(none),171,0,12,0,0,0,0,0
+2021-01-14,tablet,<Other>,(data deleted),5,0,0,0,0,0,0,0
+2021-01-14,tablet,<Other>,<Other>,98,0,4,2,0,0,0,0
+2021-01-14,tablet,<Other>,organic,5,0,0,0,0,0,0,0
+2021-01-14,tablet,<Other>,referral,54,0,3,0,0,0,0,0
+2021-01-14,tablet,google,cpc,18,0,0,0,0,0,0,0
+2021-01-14,tablet,google,organic,330,0,25,8,0,0,0,0
+2021-01-14,tablet,shop.googlemerchandisestore.com,referral,63,0,3,0,0,0,0,0
+2021-01-15,desktop,(data deleted),(data deleted),1903,0,265,47,26,4,1,1
+2021-01-15,desktop,(direct),(none),5662,0,400,85,48,5,2,2
+2021-01-15,desktop,<Other>,(data deleted),6,0,0,0,0,0,0,0
+2021-01-15,desktop,<Other>,<Other>,3292,0,206,64,21,2,0,0
+2021-01-15,desktop,<Other>,organic,947,0,93,19,8,1,1,1
+2021-01-15,desktop,<Other>,referral,2479,0,212,41,12,2,0,0
+2021-01-15,desktop,google,cpc,987,0,93,12,3,0,0,0
+2021-01-15,desktop,google,organic,6405,0,341,68,51,5,0,0
+2021-01-15,desktop,shop.googlemerchandisestore.com,referral,1238,0,85,16,21,7,0,0
+2021-01-15,mobile,(data deleted),(data deleted),615,0,58,5,0,0,0,0
+2021-01-15,mobile,(direct),(none),3546,0,253,47,33,5,0,0
+2021-01-15,mobile,<Other>,<Other>,2359,0,129,15,9,1,0,0
+2021-01-15,mobile,<Other>,organic,354,0,18,0,0,0,0,0
+2021-01-15,mobile,<Other>,referral,1480,0,87,20,14,1,0,0
+2021-01-15,mobile,google,cpc,583,0,47,10,3,1,0,0
+2021-01-15,mobile,google,organic,6286,0,523,96,113,11,1,1
+2021-01-15,mobile,shop.googlemerchandisestore.com,referral,1403,0,116,24,6,0,0,0
+2021-01-15,tablet,(data deleted),(data deleted),51,0,8,0,0,0,0,0
+2021-01-15,tablet,(direct),(none),226,0,21,0,9,0,0,0
+2021-01-15,tablet,<Other>,<Other>,142,0,6,2,3,1,0,0
+2021-01-15,tablet,<Other>,organic,13,0,0,0,0,0,0,0
+2021-01-15,tablet,<Other>,referral,50,0,2,0,0,0,0,0
+2021-01-15,tablet,google,cpc,28,0,1,0,0,0,0,0
+2021-01-15,tablet,google,organic,262,0,11,0,0,0,0,0
+2021-01-15,tablet,shop.googlemerchandisestore.com,referral,88,0,6,1,3,1,0,0
+2021-01-16,desktop,(data deleted),(data deleted),947,0,106,15,11,1,0,0
+2021-01-16,desktop,(direct),(none),4615,0,284,61,57,2,0,0
+2021-01-16,desktop,<Other>,(data deleted),12,0,0,0,0,0,0,0
+2021-01-16,desktop,<Other>,<Other>,2560,0,200,43,6,1,0,0
+2021-01-16,desktop,<Other>,organic,396,0,10,2,0,0,0,0
+2021-01-16,desktop,<Other>,referral,1592,0,81,19,9,2,0,0
+2021-01-16,desktop,google,cpc,565,0,27,9,5,1,1,1
+2021-01-16,desktop,google,organic,4958,0,280,30,36,4,1,1
+2021-01-16,desktop,shop.googlemerchandisestore.com,referral,921,0,46,8,12,1,0,0
+2021-01-16,mobile,(data deleted),(data deleted),996,0,130,24,15,2,0,0
+2021-01-16,mobile,(direct),(none),2736,0,154,20,24,2,0,0
+2021-01-16,mobile,<Other>,(data deleted),3,0,0,0,0,0,0,0
+2021-01-16,mobile,<Other>,<Other>,1926,0,154,54,9,2,0,0
+2021-01-16,mobile,<Other>,organic,371,0,7,1,0,0,0,0
+2021-01-16,mobile,<Other>,referral,1230,0,69,18,6,1,0,0
+2021-01-16,mobile,google,cpc,501,0,34,9,0,0,0,0
+2021-01-16,mobile,google,organic,4344,0,277,39,82,7,1,1
+2021-01-16,mobile,shop.googlemerchandisestore.com,referral,861,0,45,4,9,1,0,0
+2021-01-16,tablet,(data deleted),(data deleted),6,0,0,0,0,0,0,0
+2021-01-16,tablet,(direct),(none),164,0,7,0,0,0,0,0
+2021-01-16,tablet,<Other>,<Other>,150,0,10,1,0,0,0,0
+2021-01-16,tablet,<Other>,organic,15,0,1,0,0,0,0,0
+2021-01-16,tablet,<Other>,referral,44,0,1,0,0,0,0,0
+2021-01-16,tablet,google,cpc,25,0,0,0,0,0,0,0
+2021-01-16,tablet,google,organic,171,0,3,0,0,0,0,0
+2021-01-16,tablet,shop.googlemerchandisestore.com,referral,152,0,12,0,0,0,0,0
+2021-01-17,desktop,(data deleted),(data deleted),939,0,47,11,39,1,0,0
+2021-01-17,desktop,(direct),(none),3967,0,274,28,51,0,0,0
+2021-01-17,desktop,<Other>,<Other>,2077,0,101,27,12,2,0,0
+2021-01-17,desktop,<Other>,organic,460,0,19,4,6,0,0,0
+2021-01-17,desktop,<Other>,referral,1833,0,103,35,20,1,0,0
+2021-01-17,desktop,google,cpc,519,0,7,1,0,0,0,0
+2021-01-17,desktop,google,organic,5277,0,258,26,26,5,1,1
+2021-01-17,desktop,shop.googlemerchandisestore.com,referral,1194,0,88,27,6,1,1,1
+2021-01-17,mobile,(data deleted),(data deleted),470,0,32,3,3,1,0,0
+2021-01-17,mobile,(direct),(none),2206,0,96,30,0,0,0,0
+2021-01-17,mobile,<Other>,<Other>,1609,0,70,15,21,1,0,0
+2021-01-17,mobile,<Other>,organic,464,0,41,11,0,0,0,0
+2021-01-17,mobile,<Other>,referral,1179,0,122,24,0,0,0,0
+2021-01-17,mobile,google,cpc,350,0,20,7,0,0,0,0
+2021-01-17,mobile,google,organic,3015,0,157,27,6,1,0,0
+2021-01-17,mobile,shop.googlemerchandisestore.com,referral,778,0,53,6,3,1,0,0
+2021-01-17,tablet,(direct),(none),104,0,4,0,0,0,0,0
+2021-01-17,tablet,<Other>,<Other>,50,0,1,0,0,0,0,0
+2021-01-17,tablet,<Other>,organic,7,0,0,0,0,0,0,0
+2021-01-17,tablet,<Other>,referral,40,0,3,0,0,0,0,0
+2021-01-17,tablet,google,cpc,75,0,10,0,0,0,0,0
+2021-01-17,tablet,google,organic,409,0,58,17,0,0,0,0
+2021-01-17,tablet,shop.googlemerchandisestore.com,referral,42,0,2,2,0,0,0,0
+2021-01-18,desktop,(data deleted),(data deleted),1308,0,92,42,27,1,0,0
+2021-01-18,desktop,(direct),(none),4087,0,234,38,18,1,0,0
+2021-01-18,desktop,<Other>,(data deleted),2,0,0,0,0,0,0,0
+2021-01-18,desktop,<Other>,<Other>,2642,0,92,15,3,1,0,0
+2021-01-18,desktop,<Other>,organic,395,0,6,0,0,0,0,0
+2021-01-18,desktop,<Other>,referral,1455,0,87,3,12,1,0,0
+2021-01-18,desktop,google,cpc,788,0,13,0,3,0,0,0
+2021-01-18,desktop,google,organic,6168,0,299,84,49,3,1,1
+2021-01-18,desktop,shop.googlemerchandisestore.com,referral,1447,0,116,16,6,1,0,0
+2021-01-18,mobile,(data deleted),(data deleted),537,0,26,2,6,0,0,0
+2021-01-18,mobile,(direct),(none),2406,0,73,32,15,2,0,0
+2021-01-18,mobile,<Other>,(data deleted),9,0,0,0,0,0,0,0
+2021-01-18,mobile,<Other>,<Other>,2265,0,159,32,15,3,0,0
+2021-01-18,mobile,<Other>,organic,195,0,3,0,0,0,0,0
+2021-01-18,mobile,<Other>,referral,1382,0,121,61,6,1,0,0
+2021-01-18,mobile,google,cpc,929,0,115,9,7,0,0,0
+2021-01-18,mobile,google,organic,4514,0,282,41,33,4,0,0
+2021-01-18,mobile,shop.googlemerchandisestore.com,referral,1201,0,68,11,21,1,0,0
+2021-01-18,tablet,(data deleted),(data deleted),40,0,1,1,0,0,0,0
+2021-01-18,tablet,(direct),(none),253,0,29,0,0,0,0,0
+2021-01-18,tablet,<Other>,<Other>,116,0,6,0,0,0,0,0
+2021-01-18,tablet,<Other>,organic,5,0,0,0,0,0,0,0
+2021-01-18,tablet,<Other>,referral,36,0,1,0,0,0,0,0
+2021-01-18,tablet,google,cpc,24,0,0,0,0,0,0,0
+2021-01-18,tablet,google,organic,140,0,5,1,0,0,0,0
+2021-01-18,tablet,shop.googlemerchandisestore.com,referral,14,0,1,0,0,0,0,0
+2021-01-19,desktop,(data deleted),(data deleted),1842,0,226,71,17,4,0,0
+2021-01-19,desktop,(direct),(none),6237,0,479,90,62,9,2,2
+2021-01-19,desktop,<Other>,(data deleted),34,0,4,0,0,0,0,0
+2021-01-19,desktop,<Other>,<Other>,3711,0,250,39,30,2,0,0
+2021-01-19,desktop,<Other>,organic,898,0,38,12,0,0,0,0
+2021-01-19,desktop,<Other>,referral,2263,0,156,20,16,2,0,0
+2021-01-19,desktop,google,cpc,1278,0,85,7,0,0,0,0
+2021-01-19,desktop,google,organic,9806,0,697,123,90,7,0,0
+2021-01-19,desktop,shop.googlemerchandisestore.com,referral,2913,0,287,63,33,1,0,0
+2021-01-19,mobile,(data deleted),(data deleted),1808,0,157,42,36,3,0,0
+2021-01-19,mobile,(direct),(none),4485,0,321,60,51,5,0,0
+2021-01-19,mobile,<Other>,<Other>,2915,0,226,30,15,1,0,0
+2021-01-19,mobile,<Other>,organic,594,0,30,3,6,0,0,0
+2021-01-19,mobile,<Other>,referral,1464,0,81,9,2,2,2,2
+2021-01-19,mobile,google,cpc,484,0,32,0,0,0,0,0
+2021-01-19,mobile,google,organic,6197,0,500,79,63,6,0,0
+2021-01-19,mobile,shop.googlemerchandisestore.com,referral,2092,0,193,26,30,3,0,0
+2021-01-19,tablet,(data deleted),(data deleted),162,0,25,4,6,1,0,0
+2021-01-19,tablet,(direct),(none),132,0,5,0,0,0,0,0
+2021-01-19,tablet,<Other>,<Other>,94,0,3,0,0,0,0,0
+2021-01-19,tablet,<Other>,organic,28,0,1,0,0,0,0,0
+2021-01-19,tablet,<Other>,referral,424,0,60,10,6,2,0,0
+2021-01-19,tablet,google,cpc,10,0,0,0,0,0,0,0
+2021-01-19,tablet,google,organic,528,0,73,25,6,1,0,0
+2021-01-19,tablet,shop.googlemerchandisestore.com,referral,75,0,4,0,0,0,0,0
+2021-01-20,desktop,(data deleted),(data deleted),2801,0,323,37,33,5,0,0
+2021-01-20,desktop,(direct),(none),8139,0,716,94,68,9,1,1
+2021-01-20,desktop,<Other>,(data deleted),75,0,2,1,3,1,0,0
+2021-01-20,desktop,<Other>,<Other>,6225,0,661,120,93,10,0,0
+2021-01-20,desktop,<Other>,organic,1244,0,91,15,23,3,1,1
+2021-01-20,desktop,<Other>,referral,3861,0,377,48,44,6,2,2
+2021-01-20,desktop,google,cpc,1108,0,56,8,3,1,0,0
+2021-01-20,desktop,google,organic,11482,0,876,152,139,15,2,2
+2021-01-20,desktop,shop.googlemerchandisestore.com,referral,3187,0,344,74,41,6,1,1
+2021-01-20,mobile,(data deleted),(data deleted),2223,0,233,15,38,6,4,4
+2021-01-20,mobile,(direct),(none),6104,0,491,71,92,10,0,0
+2021-01-20,mobile,<Other>,(data deleted),32,0,4,0,0,0,0,0
+2021-01-20,mobile,<Other>,<Other>,2993,0,202,33,35,6,1,1
+2021-01-20,mobile,<Other>,organic,823,0,54,4,18,0,0,0
+2021-01-20,mobile,<Other>,referral,2276,0,192,44,21,3,0,0
+2021-01-20,mobile,google,cpc,712,0,36,3,15,1,0,0
+2021-01-20,mobile,google,organic,7228,0,597,127,42,7,0,0
+2021-01-20,mobile,shop.googlemerchandisestore.com,referral,2543,0,223,69,84,6,0,0
+2021-01-20,tablet,(data deleted),(data deleted),15,0,1,0,0,0,0,0
+2021-01-20,tablet,(direct),(none),238,0,11,0,6,0,0,0
+2021-01-20,tablet,<Other>,<Other>,149,0,13,0,0,0,0,0
+2021-01-20,tablet,<Other>,referral,135,0,6,0,0,0,0,0
+2021-01-20,tablet,google,cpc,56,0,0,0,0,0,0,0
+2021-01-20,tablet,google,organic,431,0,36,10,6,1,0,0
+2021-01-20,tablet,shop.googlemerchandisestore.com,referral,29,0,3,0,0,0,0,0
+2021-01-21,desktop,(data deleted),(data deleted),2258,0,269,17,36,4,0,0
+2021-01-21,desktop,(direct),(none),7383,0,686,128,57,6,0,0
+2021-01-21,desktop,<Other>,(data deleted),3,0,0,0,0,0,0,0
+2021-01-21,desktop,<Other>,<Other>,4611,0,408,42,27,1,0,0
+2021-01-21,desktop,<Other>,organic,974,0,97,22,9,3,0,0
+2021-01-21,desktop,<Other>,referral,3703,0,388,69,41,4,1,1
+2021-01-21,desktop,google,cpc,1243,0,77,1,0,0,0,0
+2021-01-21,desktop,google,organic,8629,0,687,93,104,10,1,1
+2021-01-21,desktop,shop.googlemerchandisestore.com,referral,2755,0,291,50,57,7,0,0
+2021-01-21,mobile,(data deleted),(data deleted),1839,0,224,30,33,4,0,0
+2021-01-21,mobile,(direct),(none),4367,0,354,52,36,4,0,0
+2021-01-21,mobile,<Other>,(data deleted),9,0,0,0,0,0,0,0
+2021-01-21,mobile,<Other>,<Other>,2527,0,161,4,15,0,0,0
+2021-01-21,mobile,<Other>,organic,430,0,34,2,0,0,0,0
+2021-01-21,mobile,<Other>,referral,2020,0,165,25,6,1,0,0
+2021-01-21,mobile,google,cpc,1243,0,141,15,12,1,0,0
+2021-01-21,mobile,google,organic,5799,0,413,49,51,5,0,0
+2021-01-21,mobile,shop.googlemerchandisestore.com,referral,1793,0,193,34,23,1,0,0
+2021-01-21,tablet,(data deleted),(data deleted),55,0,3,1,3,0,0,0
+2021-01-21,tablet,(direct),(none),194,0,11,1,0,0,0,0
+2021-01-21,tablet,<Other>,<Other>,190,0,19,2,0,0,0,0
+2021-01-21,tablet,<Other>,organic,15,0,1,0,0,0,0,0
+2021-01-21,tablet,<Other>,referral,158,0,12,0,3,1,0,0
+2021-01-21,tablet,google,cpc,22,0,1,0,0,0,0,0
+2021-01-21,tablet,google,organic,429,0,45,5,6,0,0,0
+2021-01-21,tablet,shop.googlemerchandisestore.com,referral,37,0,0,0,0,0,0,0
+2021-01-22,desktop,(data deleted),(data deleted),1828,0,162,27,39,6,0,0
+2021-01-22,desktop,(direct),(none),6407,0,509,86,66,7,2,2
+2021-01-22,desktop,<Other>,(data deleted),67,0,8,0,0,0,0,0
+2021-01-22,desktop,<Other>,<Other>,3438,0,275,32,32,4,1,1
+2021-01-22,desktop,<Other>,organic,800,0,54,9,0,0,0,0
+2021-01-22,desktop,<Other>,referral,2781,0,272,42,37,4,1,1
+2021-01-22,desktop,google,cpc,1920,0,175,36,66,7,0,0
+2021-01-22,desktop,google,organic,9400,0,835,128,215,16,1,1
+2021-01-22,desktop,shop.googlemerchandisestore.com,referral,2989,0,313,54,115,16,2,2
+2021-01-22,mobile,(data deleted),(data deleted),1340,0,170,27,21,1,0,0
+2021-01-22,mobile,(direct),(none),3774,0,278,22,42,6,0,0
+2021-01-22,mobile,<Other>,(data deleted),2,0,0,0,0,0,0,0
+2021-01-22,mobile,<Other>,<Other>,2963,0,267,40,54,6,0,0
+2021-01-22,mobile,<Other>,organic,708,0,92,4,6,2,0,0
+2021-01-22,mobile,<Other>,referral,1770,0,130,17,24,3,0,0
+2021-01-22,mobile,google,cpc,747,0,52,12,15,1,0,0
+2021-01-22,mobile,google,organic,6132,0,612,70,99,13,0,0
+2021-01-22,mobile,shop.googlemerchandisestore.com,referral,1838,0,181,54,69,7,0,0
+2021-01-22,tablet,(data deleted),(data deleted),52,0,5,0,0,0,0,0
+2021-01-22,tablet,(direct),(none),538,0,80,16,6,1,0,0
+2021-01-22,tablet,<Other>,<Other>,136,0,5,0,0,0,0,0
+2021-01-22,tablet,<Other>,organic,14,0,1,0,0,0,0,0
+2021-01-22,tablet,<Other>,referral,57,0,2,0,0,0,0,0
+2021-01-22,tablet,google,cpc,71,0,5,1,0,0,0,0
+2021-01-22,tablet,google,organic,132,0,3,0,0,0,0,0
+2021-01-22,tablet,shop.googlemerchandisestore.com,referral,18,0,0,0,0,0,0,0
+2021-01-23,desktop,(data deleted),(data deleted),1370,0,151,40,33,5,0,0
+2021-01-23,desktop,(direct),(none),3836,0,303,40,33,1,0,0
+2021-01-23,desktop,<Other>,(data deleted),95,0,62,2,0,0,0,0
+2021-01-23,desktop,<Other>,<Other>,3330,0,308,62,36,3,0,0
+2021-01-23,desktop,<Other>,organic,636,0,66,15,6,1,0,0
+2021-01-23,desktop,<Other>,referral,1571,0,91,20,22,4,1,1
+2021-01-23,desktop,google,cpc,707,0,41,0,0,0,0,0
+2021-01-23,desktop,google,organic,6531,0,622,75,72,10,0,0
+2021-01-23,desktop,shop.googlemerchandisestore.com,referral,1926,0,113,14,21,2,0,0
+2021-01-23,mobile,(data deleted),(data deleted),769,0,83,6,15,3,0,0
+2021-01-23,mobile,(direct),(none),3611,0,275,33,29,5,1,1
+2021-01-23,mobile,<Other>,(data deleted),5,0,0,0,0,0,0,0
+2021-01-23,mobile,<Other>,<Other>,2253,0,198,13,9,0,0,0
+2021-01-23,mobile,<Other>,organic,258,0,14,0,0,0,0,0
+2021-01-23,mobile,<Other>,referral,1303,0,74,7,15,1,0,0
+2021-01-23,mobile,google,cpc,434,0,13,1,0,0,0,0
+2021-01-23,mobile,google,organic,3340,0,205,25,36,3,0,0
+2021-01-23,mobile,shop.googlemerchandisestore.com,referral,1182,0,84,10,24,3,0,0
+2021-01-23,tablet,(data deleted),(data deleted),39,0,1,0,0,0,0,0
+2021-01-23,tablet,(direct),(none),459,0,53,1,21,2,0,0
+2021-01-23,tablet,<Other>,<Other>,150,0,8,4,0,0,0,0
+2021-01-23,tablet,<Other>,organic,75,0,4,0,0,0,0,0
+2021-01-23,tablet,<Other>,referral,18,0,0,0,0,0,0,0
+2021-01-23,tablet,google,cpc,54,0,5,0,0,0,0,0
+2021-01-23,tablet,google,organic,313,0,33,1,3,0,0,0
+2021-01-23,tablet,shop.googlemerchandisestore.com,referral,57,0,4,3,0,0,0,0
+2021-01-24,desktop,(data deleted),(data deleted),1362,0,102,33,31,2,0,0
+2021-01-24,desktop,(direct),(none),4215,0,352,40,18,1,0,0
+2021-01-24,desktop,<Other>,(data deleted),12,0,2,0,0,0,0,0
+2021-01-24,desktop,<Other>,<Other>,2521,0,258,86,21,3,0,0
+2021-01-24,desktop,<Other>,organic,362,0,20,0,0,0,0,0
+2021-01-24,desktop,<Other>,referral,1741,0,103,25,30,2,0,0
+2021-01-24,desktop,google,cpc,889,0,32,0,0,0,0,0
+2021-01-24,desktop,google,organic,5831,0,454,78,68,6,1,1
+2021-01-24,desktop,shop.googlemerchandisestore.com,referral,2073,0,338,63,36,5,0,0
+2021-01-24,mobile,(data deleted),(data deleted),484,0,33,5,6,1,0,0
+2021-01-24,mobile,(direct),(none),2750,0,227,29,44,6,0,0
+2021-01-24,mobile,<Other>,<Other>,1393,0,77,5,6,0,0,0
+2021-01-24,mobile,<Other>,organic,391,0,32,1,0,0,0,0
+2021-01-24,mobile,<Other>,referral,1438,0,122,19,36,0,0,0
+2021-01-24,mobile,google,cpc,688,0,55,19,10,2,0,0
+2021-01-24,mobile,google,organic,3721,0,239,34,69,6,0,0
+2021-01-24,mobile,shop.googlemerchandisestore.com,referral,1094,0,107,29,22,2,1,1
+2021-01-24,tablet,(data deleted),(data deleted),4,0,1,0,0,0,0,0
+2021-01-24,tablet,(direct),(none),141,0,4,0,0,0,0,0
+2021-01-24,tablet,<Other>,<Other>,227,0,20,5,0,0,0,0
+2021-01-24,tablet,<Other>,organic,13,0,0,0,0,0,0,0
+2021-01-24,tablet,<Other>,referral,48,0,3,1,0,0,0,0
+2021-01-24,tablet,google,cpc,46,0,4,0,0,0,0,0
+2021-01-24,tablet,google,organic,228,0,23,1,0,0,0,0
+2021-01-24,tablet,shop.googlemerchandisestore.com,referral,30,0,2,0,0,0,0,0
+2021-01-25,desktop,(data deleted),(data deleted),1682,0,177,35,33,3,0,0
+2021-01-25,desktop,(direct),(none),5151,0,359,53,50,6,1,1
+2021-01-25,desktop,<Other>,(data deleted),5,0,0,0,0,0,0,0
+2021-01-25,desktop,<Other>,<Other>,3895,0,299,38,42,3,0,0
+2021-01-25,desktop,<Other>,organic,514,0,42,0,0,0,0,0
+2021-01-25,desktop,<Other>,referral,2654,0,247,36,52,8,2,2
+2021-01-25,desktop,google,cpc,1229,0,138,13,6,1,0,0
+2021-01-25,desktop,google,organic,7146,0,506,68,49,8,2,2
+2021-01-25,desktop,shop.googlemerchandisestore.com,referral,1902,0,128,24,30,7,0,0
+2021-01-25,mobile,(data deleted),(data deleted),1064,0,88,8,12,2,0,0
+2021-01-25,mobile,(direct),(none),3505,0,268,50,44,4,1,1
+2021-01-25,mobile,<Other>,<Other>,2403,0,188,30,29,3,0,0
+2021-01-25,mobile,<Other>,organic,658,0,67,8,9,2,0,0
+2021-01-25,mobile,<Other>,referral,1196,0,85,17,3,1,0,0
+2021-01-25,mobile,google,cpc,693,0,38,0,17,3,1,1
+2021-01-25,mobile,google,organic,5737,0,456,54,53,6,1,1
+2021-01-25,mobile,shop.googlemerchandisestore.com,referral,1381,0,136,30,15,2,0,0
+2021-01-25,tablet,(data deleted),(data deleted),18,0,0,0,0,0,0,0
+2021-01-25,tablet,(direct),(none),325,0,20,10,15,2,0,0
+2021-01-25,tablet,<Other>,<Other>,79,0,2,0,0,0,0,0
+2021-01-25,tablet,<Other>,organic,26,0,0,0,0,0,0,0
+2021-01-25,tablet,<Other>,referral,42,0,2,0,0,0,0,0
+2021-01-25,tablet,google,cpc,107,0,10,5,0,0,0,0
+2021-01-25,tablet,google,organic,218,0,7,0,0,0,0,0
+2021-01-25,tablet,shop.googlemerchandisestore.com,referral,88,0,6,1,3,0,0,0
+2021-01-26,desktop,(data deleted),(data deleted),2257,0,186,43,34,6,5,5
+2021-01-26,desktop,(direct),(none),5238,0,345,54,54,6,5,5
+2021-01-26,desktop,<Other>,(data deleted),15,0,0,0,0,0,0,0
+2021-01-26,desktop,<Other>,<Other>,3622,0,174,22,22,1,1,1
+2021-01-26,desktop,<Other>,organic,594,0,46,8,4,1,1,1
+2021-01-26,desktop,<Other>,referral,1894,0,110,13,10,1,0,0
+2021-01-26,desktop,google,cpc,802,0,36,9,2,0,0,0
+2021-01-26,desktop,google,organic,7448,0,534,55,45,5,2,2
+2021-01-26,desktop,shop.googlemerchandisestore.com,referral,2474,0,145,53,92,8,3,3
+2021-01-26,mobile,(data deleted),(data deleted),954,0,63,16,15,5,2,2
+2021-01-26,mobile,(direct),(none),3920,0,322,52,54,7,4,4
+2021-01-26,mobile,<Other>,<Other>,2040,0,133,19,2,1,1,1
+2021-01-26,mobile,<Other>,organic,656,0,85,32,4,1,1,1
+2021-01-26,mobile,<Other>,referral,1673,0,134,25,25,3,2,2
+2021-01-26,mobile,google,cpc,933,0,67,22,14,1,0,0
+2021-01-26,mobile,google,organic,4981,0,385,76,21,6,4,4
+2021-01-26,mobile,shop.googlemerchandisestore.com,referral,1792,0,170,6,11,2,1,1
+2021-01-26,tablet,(data deleted),(data deleted),112,0,13,0,4,1,1,1
+2021-01-26,tablet,(direct),(none),202,0,5,0,0,0,0,0
+2021-01-26,tablet,<Other>,<Other>,81,0,2,0,0,0,0,0
+2021-01-26,tablet,<Other>,organic,19,0,1,0,0,0,0,0
+2021-01-26,tablet,<Other>,referral,30,0,0,0,0,0,0,0
+2021-01-26,tablet,google,cpc,70,0,6,0,0,0,0,0
+2021-01-26,tablet,google,organic,339,0,38,1,0,0,0,0
+2021-01-26,tablet,shop.googlemerchandisestore.com,referral,86,0,12,0,0,0,0,0
+2021-01-27,desktop,(data deleted),(data deleted),2334,0,181,27,48,2,2,2
+2021-01-27,desktop,(direct),(none),6191,0,518,70,59,9,6,6
+2021-01-27,desktop,<Other>,(data deleted),34,0,4,0,0,0,0,0
+2021-01-27,desktop,<Other>,<Other>,3808,0,252,37,35,2,1,1
+2021-01-27,desktop,<Other>,organic,863,0,74,22,12,1,1,1
+2021-01-27,desktop,<Other>,referral,2666,0,236,31,10,1,1,1
+2021-01-27,desktop,google,cpc,1050,0,76,17,0,0,0,0
+2021-01-27,desktop,google,organic,8099,0,549,73,44,3,2,2
+2021-01-27,desktop,shop.googlemerchandisestore.com,referral,2097,0,157,17,13,1,1,1
+2021-01-27,mobile,(data deleted),(data deleted),1521,0,122,14,52,5,5,5
+2021-01-27,mobile,(direct),(none),4636,0,339,70,82,5,4,4
+2021-01-27,mobile,<Other>,(data deleted),23,0,1,0,0,0,0,0
+2021-01-27,mobile,<Other>,<Other>,3483,0,352,67,36,6,4,4
+2021-01-27,mobile,<Other>,organic,651,0,46,7,15,2,1,1
+2021-01-27,mobile,<Other>,referral,1975,0,124,24,40,6,6,6
+2021-01-27,mobile,google,cpc,607,0,41,5,0,0,0,0
+2021-01-27,mobile,google,organic,5530,0,446,47,37,5,3,3
+2021-01-27,mobile,shop.googlemerchandisestore.com,referral,2147,0,220,37,37,5,4,4
+2021-01-27,tablet,(data deleted),(data deleted),41,0,4,0,0,0,0,0
+2021-01-27,tablet,(direct),(none),185,0,8,1,0,0,0,0
+2021-01-27,tablet,<Other>,<Other>,67,0,4,0,0,0,0,0
+2021-01-27,tablet,<Other>,organic,13,0,0,0,0,0,0,0
+2021-01-27,tablet,<Other>,referral,78,0,6,0,0,0,0,0
+2021-01-27,tablet,google,cpc,92,0,13,2,2,0,0,0
+2021-01-27,tablet,google,organic,383,0,28,7,0,0,0,0
+2021-01-27,tablet,shop.googlemerchandisestore.com,referral,91,0,12,0,2,1,1,1
+2021-01-28,desktop,(data deleted),(data deleted),1940,0,176,44,28,6,6,6
+2021-01-28,desktop,(direct),(none),6798,0,617,76,31,7,6,6
+2021-01-28,desktop,<Other>,(data deleted),13,0,0,0,0,0,0,0
+2021-01-28,desktop,<Other>,<Other>,3703,0,278,54,23,6,6,6
+2021-01-28,desktop,<Other>,organic,529,0,18,1,0,0,0,0
+2021-01-28,desktop,<Other>,referral,2273,0,156,27,14,2,2,2
+2021-01-28,desktop,google,cpc,1033,0,60,5,7,1,1,1
+2021-01-28,desktop,google,organic,6550,0,498,35,21,4,2,2
+2021-01-28,desktop,shop.googlemerchandisestore.com,referral,2025,0,168,16,4,2,2,2
+2021-01-28,mobile,(data deleted),(data deleted),1474,0,162,23,25,5,4,4
+2021-01-28,mobile,(direct),(none),3955,0,249,40,39,6,5,5
+2021-01-28,mobile,<Other>,(data deleted),15,0,0,0,0,0,0,0
+2021-01-28,mobile,<Other>,<Other>,2162,0,159,13,3,0,0,0
+2021-01-28,mobile,<Other>,organic,407,0,25,5,4,3,3,3
+2021-01-28,mobile,<Other>,referral,1646,0,108,22,16,3,3,3
+2021-01-28,mobile,google,cpc,868,0,101,18,9,1,1,1
+2021-01-28,mobile,google,organic,4849,0,311,41,28,6,6,6
+2021-01-28,mobile,shop.googlemerchandisestore.com,referral,1991,0,165,46,61,15,15,15
+2021-01-28,tablet,(data deleted),(data deleted),61,0,7,0,2,1,1,1
+2021-01-28,tablet,(direct),(none),211,0,16,5,2,1,1,1
+2021-01-28,tablet,<Other>,<Other>,136,0,12,2,0,0,0,0
+2021-01-28,tablet,<Other>,organic,35,0,1,0,0,0,0,0
+2021-01-28,tablet,<Other>,referral,42,0,2,1,0,0,0,0
+2021-01-28,tablet,google,cpc,23,0,2,0,0,0,0,0
+2021-01-28,tablet,google,organic,300,0,22,4,8,0,0,0
+2021-01-28,tablet,shop.googlemerchandisestore.com,referral,92,0,8,0,0,0,0,0
+2021-01-29,desktop,(data deleted),(data deleted),1189,0,96,11,10,0,0,0
+2021-01-29,desktop,(direct),(none),5868,0,482,81,57,9,8,8
+2021-01-29,desktop,<Other>,(data deleted),7,0,0,0,0,0,0,0
+2021-01-29,desktop,<Other>,<Other>,2634,0,134,14,27,1,1,1
+2021-01-29,desktop,<Other>,organic,609,0,46,6,6,0,0,0
+2021-01-29,desktop,<Other>,referral,2799,0,226,32,33,7,5,5
+2021-01-29,desktop,google,cpc,1216,0,101,12,6,0,0,0
+2021-01-29,desktop,google,organic,7562,0,688,84,35,7,7,7
+2021-01-29,desktop,shop.googlemerchandisestore.com,referral,1829,0,157,32,24,5,5,5
+2021-01-29,mobile,(data deleted),(data deleted),1790,0,164,40,81,8,8,8
+2021-01-29,mobile,(direct),(none),4233,0,392,81,48,6,6,6
+2021-01-29,mobile,<Other>,<Other>,2446,0,122,20,32,2,2,2
+2021-01-29,mobile,<Other>,organic,546,0,48,10,0,0,0,0
+2021-01-29,mobile,<Other>,referral,1431,0,140,3,10,1,1,1
+2021-01-29,mobile,google,cpc,509,0,44,6,3,0,0,0
+2021-01-29,mobile,google,organic,4192,0,232,21,25,4,1,1
+2021-01-29,mobile,shop.googlemerchandisestore.com,referral,1076,0,92,27,12,1,1,1
+2021-01-29,tablet,(data deleted),(data deleted),69,0,4,0,0,0,0,0
+2021-01-29,tablet,(direct),(none),235,0,21,4,4,1,1,1
+2021-01-29,tablet,<Other>,<Other>,96,0,7,0,0,0,0,0
+2021-01-29,tablet,<Other>,organic,4,0,0,0,0,0,0,0
+2021-01-29,tablet,<Other>,referral,54,0,3,0,0,0,0,0
+2021-01-29,tablet,google,cpc,53,0,3,2,2,1,1,1
+2021-01-29,tablet,google,organic,386,0,30,0,6,1,1,1
+2021-01-29,tablet,shop.googlemerchandisestore.com,referral,44,0,10,0,0,0,0,0
+2021-01-30,desktop,(data deleted),(data deleted),1309,0,111,19,18,3,3,3
+2021-01-30,desktop,(direct),(none),4452,0,376,69,29,6,5,5
+2021-01-30,desktop,<Other>,(data deleted),67,0,13,7,0,0,0,0
+2021-01-30,desktop,<Other>,<Other>,2279,0,149,18,4,0,0,0
+2021-01-30,desktop,<Other>,organic,477,0,21,2,0,0,0,0
+2021-01-30,desktop,<Other>,referral,1276,0,74,14,9,1,0,0
+2021-01-30,desktop,google,cpc,755,0,47,5,0,0,0,0
+2021-01-30,desktop,google,organic,6327,0,533,31,95,7,7,7
+2021-01-30,desktop,shop.googlemerchandisestore.com,referral,1658,0,178,41,12,2,2,2
+2021-01-30,mobile,(data deleted),(data deleted),784,0,79,35,12,1,1,1
+2021-01-30,mobile,(direct),(none),2313,0,135,24,18,2,1,1
+2021-01-30,mobile,<Other>,(data deleted),2,0,0,0,0,0,0,0
+2021-01-30,mobile,<Other>,<Other>,1580,0,119,28,8,2,1,1
+2021-01-30,mobile,<Other>,organic,278,0,10,0,0,0,0,0
+2021-01-30,mobile,<Other>,referral,1019,0,73,15,3,1,0,0
+2021-01-30,mobile,google,cpc,317,0,11,1,0,0,0,0
+2021-01-30,mobile,google,organic,3657,0,314,39,12,2,2,2
+2021-01-30,mobile,shop.googlemerchandisestore.com,referral,1236,0,108,14,32,4,4,4
+2021-01-30,tablet,(data deleted),(data deleted),35,0,1,0,0,0,0,0
+2021-01-30,tablet,(direct),(none),161,0,7,2,0,0,0,0
+2021-01-30,tablet,<Other>,<Other>,156,0,9,2,9,0,0,0
+2021-01-30,tablet,<Other>,organic,34,0,1,0,0,0,0,0
+2021-01-30,tablet,<Other>,referral,19,0,0,0,0,0,0,0
+2021-01-30,tablet,google,cpc,5,0,0,0,0,0,0,0
+2021-01-30,tablet,google,organic,197,0,6,3,0,0,0,0
+2021-01-30,tablet,shop.googlemerchandisestore.com,referral,2,0,0,0,0,0,0,0
+2021-01-31,desktop,(data deleted),(data deleted),788,0,57,13,2,1,1,1
+2021-01-31,desktop,(direct),(none),4266,0,417,75,67,7,7,7
+2021-01-31,desktop,<Other>,(data deleted),1,0,0,0,0,0,0,0
+2021-01-31,desktop,<Other>,<Other>,2222,0,144,36,10,1,1,1
+2021-01-31,desktop,<Other>,organic,333,0,23,2,2,0,0,0
+2021-01-31,desktop,<Other>,referral,1249,0,73,3,12,0,0,0
+2021-01-31,desktop,google,cpc,815,0,67,1,4,0,0,0
+2021-01-31,desktop,google,organic,4570,0,296,32,28,2,2,2
+2021-01-31,desktop,shop.googlemerchandisestore.com,referral,995,0,56,6,4,0,0,0
+2021-01-31,mobile,(data deleted),(data deleted),645,0,38,9,23,1,1,1
+2021-01-31,mobile,(direct),(none),2704,0,201,30,18,0,0,0
+2021-01-31,mobile,<Other>,(data deleted),10,0,0,0,0,0,0,0
+2021-01-31,mobile,<Other>,<Other>,1329,0,71,15,17,2,2,2
+2021-01-31,mobile,<Other>,organic,301,0,14,0,0,0,0,0
+2021-01-31,mobile,<Other>,referral,905,0,61,5,2,0,0,0
+2021-01-31,mobile,google,cpc,517,0,25,0,0,0,0,0
+2021-01-31,mobile,google,organic,3130,0,198,54,15,3,3,3
+2021-01-31,mobile,shop.googlemerchandisestore.com,referral,1083,0,65,12,16,1,1,1
+2021-01-31,tablet,(data deleted),(data deleted),4,0,0,0,0,0,0,0
+2021-01-31,tablet,(direct),(none),94,0,4,0,0,0,0,0
+2021-01-31,tablet,<Other>,<Other>,158,0,8,1,8,1,1,1
+2021-01-31,tablet,<Other>,organic,5,0,0,0,0,0,0,0
+2021-01-31,tablet,<Other>,referral,65,0,4,0,0,0,0,0
+2021-01-31,tablet,google,cpc,30,0,0,0,0,0,0,0
+2021-01-31,tablet,google,organic,199,0,4,0,0,0,0,0
+2021-01-31,tablet,shop.googlemerchandisestore.com,referral,71,0,3,1,6,0,0,0
