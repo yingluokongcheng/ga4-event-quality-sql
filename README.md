@@ -4,7 +4,7 @@
 
 DuckDB · SQL · Parquet · Python · Streamlit
 
-[中文说明](README.zh-CN.md) · [SQL walkthrough](docs/SQL_WALKTHROUGH.md) · [Metric contracts](docs/METRICS.md) · [Results & history](reports/README.md)
+[Business case](docs/BUSINESS_CASE.md) · [中文说明](README.zh-CN.md) · [SQL walkthrough](docs/SQL_WALKTHROUGH.md) · [Metric contracts](docs/METRICS.md) · [Results & history](reports/README.md)
 
 > Published project: [yingluokongcheng/ga4-event-quality-sql](https://github.com/yingluokongcheng/ga4-event-quality-sql). All 92 dates, the fixed 18 flagged dates, timestamp ties and unfavorable findings are retained.
 
